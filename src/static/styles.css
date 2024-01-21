@@ -11,9 +11,11 @@ section{
     min-height: 100vh;
     width: 100%;
     
-    background: url('background6.jpg')no-repeat;
+    background: linear-gradient(rgba(4, 22, 25, 0.5), rgba(4, 22, 25, 0.5)), url('background6.jpg') no-repeat;
     background-position: center;
     background-size:cover;
+    filter: brightness(85%);
+
 }
 .form-box{
     position: relative;
@@ -30,21 +32,21 @@ section{
 }
 h2{
     font-size: 2em;
-    color: #fff;
+    color: #FBEAEB;
     text-align: center;
 }
 .inputbox{
     position: relative;
     margin: 30px 0;
     width: 310px;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #FBEAEB;
 }
 .inputbox label{
     position: absolute;
     top: 50%;
     left: 5px;
     transform: translateY(-50%);
-    color: #fff;
+    color: #FBEAEB;
     font-size: 1em;
     pointer-events: none;
     transition: .5s;
@@ -61,19 +63,19 @@ top: -5px;
     outline: none;
     font-size: 1em;
     padding:0 35px 0 5px;
-    color: #fff;
+    color: #FBEAEB;
 }
 .inputbox ion-icon{
     position: absolute;
     right: 8px;
-    color: #fff;
+    color: #FBEAEB;
     font-size: 1.2em;
     top: 20px;
 }
 .forget{
     margin: -15px 0 15px ;
     font-size: .9em;
-    color: #fff;
+    color: #FBEAEB;
     display: flex;
     justify-content: space-between;  
 }
@@ -83,7 +85,7 @@ top: -5px;
     
 }
 .forget label a{
-    color: #fff;
+    color: #FBEAEB;
     text-decoration: none;
 }
 .forget label a:hover{
@@ -93,7 +95,7 @@ button{
     width: 100%;
     height: 40px;
     border-radius: 40px;
-    background: #fff;
+    background: #FBEAEB;
     border: none;
     outline: none;
     cursor: pointer;
@@ -102,13 +104,13 @@ button{
 }
 .register{
     font-size: .9em;
-    color: #fff;
+    color: #FBEAEB;
     text-align: center;
     margin: 25px 0 10px;
 }
 .register p a{
     text-decoration: none;
-    color: #fff;
+    color: #FBEAEB;
     font-weight: 600;
 }
 .register p a:hover{

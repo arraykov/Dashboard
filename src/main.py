@@ -99,7 +99,14 @@ def display_page(pathname):
     if pathname == '/main/preferreds':
         return generate_table_page_2()  # Content for Page 2
     elif pathname == '/main/markets':
-        return html.Div("Work In Progress")  # Content for Page 3
+        return html.Div("Coming Soon", style={
+            'display': 'flex',
+            'justifyContent': 'center',
+            'alignItems': 'center',
+            'height': '100vh', 
+            'color': '#FBEAEB',
+            'fontSize': '24px',
+        })
     elif pathname == '/main/cefs':
         return generate_page_1()  # Content for Page 1 (Default landing page after login)
     else:
