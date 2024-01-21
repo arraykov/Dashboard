@@ -47,13 +47,17 @@ def index():
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
-        email = request.form['email']
-        password = request.form['password']
+        # Convert email to lowercase
+        email = request.form['email'].lower()
+        # Assuming you want the password to be case-insensitive too
+        password = request.form['password'].lower()
+
         remember = True if request.form.get('remember') else False
 
         conn = get_db_connection()
         cur = conn.cursor()
-        cur.execute("SELECT * FROM users WHERE email = %s AND password_hash = %s", (email, password))
+        # Ensure that the email stored in the database is also in lowercase
+        cur.execute("SELECT * FROM users WHERE lower(email) = %s AND lower(password_hash) = %s", (email, password))
         user = cur.fetchone()
         cur.close()
         conn.close()

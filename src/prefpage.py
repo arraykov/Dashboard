@@ -160,10 +160,20 @@ def generate_table_page_2(height='30vh'):
         "enablePivot": False,
     }
 
-    # Load additional CSV data for page 2
     data_frame_page_2 = pd.read_csv('files/output.csv')
-    columnDefs_page_2 = [{'headerName': col, 'field': col} for col in data_frame_page_2.columns]
 
+    # Specify the columns you want to convert to numeric (percentages)
+    numeric_columns = ['YTW', 'DAYS TO CALL', 'DAYS TO MATUR', 'NOM YIELD', 'DAYS TO FLOAT/RESET']
+
+    # Columns to exclude from the table
+    columns_to_exclude = ['ASSET TYPE', 'CAPITAL GAINS', 'INV GRADE', 'ADV30']
+
+    for column in numeric_columns:
+        if column in data_frame_page_2.columns and column not in columns_to_exclude:
+            data_frame_page_2[column] = pd.to_numeric(data_frame_page_2[column].str.rstrip('%'), errors='coerce')
+
+    # Define column definitions for AG Grid, excluding the specified columns
+    columnDefs_page_2 = [{'headerName': col, 'field': col} for col in data_frame_page_2.columns if col not in columns_to_exclude]
     # Create the earnings table
     earnings_table = create_earnings_table(earnings_data, "Earnings Calendar")
 
@@ -190,19 +200,6 @@ def generate_table_page_2(height='30vh'):
         html.Div(create_dividend_table(dividends_next_month, "Dividends Next Month"), style={'flex': 1}),
         html.Div(earnings_table, style={'flex': 1, 'flexBasis': '15%', 'maxWidth': '15%'})  # Adjusted size of earnings table
     ], style={'display': 'flex', 'flexDirection': 'row', 'justifyContent': 'space-between', 'marginTop': '20px'})
-
-    # Load additional CSV data for page 2
-    data_frame_page_2 = pd.read_csv('files/output.csv')
-
-    # Specify columns to exclude
-    columns_to_exclude = ['ASSET TYPE', 'CAPITAL GAINS', 'INV GRADE', 'ADV30']  # Columns to hide
-    numeric_columns = {'YTW', 'DAYS TO CALL', 'DAYS TO MATUR', 'SHARES OUTS', 'NOM YIELD', 'DAYS TO FLOAT/RESET'}  # Numeric columns
-
-    # Modify column definitions
-    columnDefs_page_2 = [
-        {'headerName': col, 'field': col, 'type': 'numericColumn' if col in numeric_columns else None}
-        for col in data_frame_page_2.columns if col not in columns_to_exclude
-    ]
 
     table_page_2 = dag.AgGrid(
         id='table-page-2',
