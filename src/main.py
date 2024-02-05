@@ -73,6 +73,8 @@ def login():
 external_stylesheets = [dbc.themes.BOOTSTRAP]
 dash_app = dash.Dash(__name__, server=app, url_base_pathname='/main/', suppress_callback_exceptions=True, external_stylesheets=external_stylesheets)
 
+dash_app.title = "TLDA Dashboard "
+dash_app._favicon = "favicon.png"
 dash_app.layout = html.Div([
     dbc.Navbar(
         [
