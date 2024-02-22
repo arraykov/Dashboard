@@ -1,637 +1,637 @@
 COMMON,TICKER,SECTOR,ASSET TYPE,DISTRIB,RATE TYPE,YTW,CAPITAL GAINS,DAYS TO CALL,DAYS TO MATUR,Moody's,S&P,INV GRADE,ADV30,SHARES OUTS,PFF HOLD,PFF CHANGE,NOM YIELD,CALL PRICE,CALL DATE,MATUR DATE,DAYS TO FLOAT/RESET
-ABR,ABR-D,REIT - Mortgage,Pref,Cumul,Fixed,8.88%,$7.05,832,-,-,-,False,28 k,9 200 k, 754 k, 0 k,6.38%,$25.00,6/2/2026,-,-
-ABR,ABR-E,REIT - Mortgage,Pref,Cumul,Fixed,8.59%,$6.80,902,-,-,-,False,9 k,5 750 k, 477 k, 0 k,6.25%,$25.00,8/11/2026,-,-
-ABR,ABR-F,REIT - Mortgage,Pref,Cumul,Fix/Float,8.36%,$6.32,964,-,-,-,False,41 k,11 342 k, 926 k, 0 k,6.25%,$25.00,10/12/2026,-,964
-ACGL,ACGLN,Insurance - Diversified,Pref,Non-cumul,Fixed,5.61%,$4.73,841,-,-,BBB,True,27 k,20 000 k,1 889 k, 0 k,4.55%,$25.00,6/11/2026,-,-
-ACGL,ACGLO,Insurance - Diversified,Pref,Non-cumul,Fixed,5.81%,$1.55,Callable,-,Baa3,BBB,True,15 k,13 200 k,1 253 k, 0 k,5.45%,$25.00,8/17/2022,-,-
-ACP,ACP-A,CEF - Debt,Pref,Cumul,Fixed,5.53%,$1.25,860,-,A2,-,True,2 k,1 600 k,-,-,5.25%,$25.00,6/30/2026,-,-
-ACR,ACR-C,REIT - Mortgage,Pref,Cumul,Fix/Float,9.06%,$1.21,160,-,-,-,False,8 k,4 800 k, 448 k, 0 k,8.63%,$25.00,7/30/2024,-,160
-ACR,ACR-D,REIT - Mortgage,Pref,Cumul,Fixed,8.79%,$2.60,820,-,-,-,False,9 k,4 608 k, 434 k, 0 k,7.88%,$25.00,5/21/2026,-,-
-ADC,ADC-A,REIT - Retail,Pref,Cumul,Fixed,5.74%,$6.50,939,-,Baa2,BB+,True,11 k,7 000 k, 670 k, 0 k,4.25%,$25.00,9/17/2026,-,-
-AEG,AEFC,Insurance - Diversified,Bond,Interest,Fixed,#N/A,-,298,9429,Baa1,BBB-,True,-,-,3 434 k, 0 k,5.10%,$25.00,12/15/2024,12/15/2049,-
-AEL,AEL-A,Insurance - Life,Pref,Non-cumul,Reset,6.31%,$1.41,284,-,-,BB,False,42 k,16 000 k,1 515 k, 0 k,5.95%,$25.00,12/1/2024,-,284
-AEL,AEL-B,Insurance - Life,Pref,Non-cumul,Reset,6.59%,-$0.14,558,-,-,BB,False,11 k,12 000 k,1 140 k, 0 k,6.63%,$25.00,9/1/2025,-,558
-AFG,AFGB,Insurance - Property & Casualty,Bond,Interest,Fixed,6.06%,$0.66,38,12821,Baa2,BBB-,True,7 k,5 000 k, 466 k, 0 k,5.88%,$25.00,3/30/2024,3/30/2059,-
-AFG,AFGC,Insurance - Property & Casualty,Bond,Interest,Fixed,6.01%,$3.24,298,13081,Baa2,BBB-,True,9 k,8 000 k, 745 k, 0 k,5.13%,$25.00,12/15/2024,12/15/2059,-
-AFG,AFGD,Insurance - Property & Casualty,Bond,Interest,Fixed,6.17%,$1.94,466,13250,Baa2,BBB-,True,9 k,6 000 k, 559 k, 0 k,5.63%,$25.00,6/1/2025,6/1/2060,-
-AFG,AFGE,Insurance - Property & Casualty,Bond,Interest,Fixed,5.99%,$5.51,572,13356,Baa2,BBB-,True,9 k,8 000 k, 745 k, 0 k,4.50%,$25.00,9/15/2025,9/15/2060,-
-AGM,AGM-C,Credit Services,Pref,Non-cumul,Fix/Float,6.00%,$0.00,148,-,-,-,False,39 k,3 000 k,-,-,6.00%,$25.00,7/18/2024,-,148
-AGM,AGM-D,Credit Services,Pref,Non-cumul,Fixed,5.85%,$0.64,147,-,-,-,False,3 k,4 000 k, 380 k, 0 k,5.70%,$25.00,7/17/2024,-,-
-AGM,AGM-E,Credit Services,Pref,Non-cumul,Fixed,6.05%,$1.23,512,-,-,-,False,3 k,3 180 k,-,-,5.75%,$25.00,7/17/2025,-,-
-AGM,AGM-F,Credit Services,Pref,Non-cumul,Fixed,5.88%,$2.69,604,-,-,-,False,8 k,4 800 k, 449 k, 0 k,5.25%,$25.00,10/17/2025,-,-
-AGM,AGM-G,Credit Services,Pref,Non-cumul,Fixed,6.04%,$4.83,877,-,-,-,False,7 k,5 000 k, 468 k, 0 k,4.88%,$25.00,7/17/2026,-,-
-AGNC,AGNCL,REIT - Mortgage,Pref,Cumul,Reset,8.37%,$1.85,1332,-,-,-,False,22 k,6 000 k, 559 k, 0 k,7.75%,$25.00,10/15/2027,-,1332
-AGNC,AGNCM,REIT - Mortgage,Pref,Cumul,Fix/Float,6.94%,$0.25,54,-,-,-,False,15 k,9 400 k, 876 k, 0 k,6.88%,$25.00,4/15/2024,-,54
-AGNC,AGNCN,REIT - Mortgage,Pref,Cumul,Fix/Float,10.46%,-$0.68,Callable,-,-,-,False,28 k,13 000 k,1 212 k, 0 k,10.74%,$25.00,10/15/2022,-,Floating
-AGNC,AGNCO,REIT - Mortgage,Pref,Cumul,Fix/Float,6.66%,$0.60,237,-,-,-,False,24 k,16 100 k,1 501 k, 0 k,6.50%,$25.00,10/15/2024,-,237
-AGNC,AGNCP,REIT - Mortgage,Pref,Cumul,Fix/Float,6.53%,$1.54,419,-,-,-,False,39 k,23 000 k,2 144 k, 0 k,6.13%,$25.00,4/15/2025,-,419
-AHH,AHH-A,REIT - Diversified,Pref,Cumul,Fixed,7.35%,$2.05,118,-,-,-,False,6 k,6 843 k, 636 k, 0 k,6.75%,$25.00,6/18/2024,-,-
-APO,AHL-C,Asset Management,Pref,Non-cumul,Fix/Float,9.37%,-$0.71,Callable,-,Ba1,BB+,False,14 k,11 000 k,-,-,9.63%,$25.00,7/1/2023,-,Floating
-APO,AHL-D,Asset Management,Pref,Non-cumul,Fixed,6.76%,$4.19,1045,-,Ba1,BB+,False,10 k,10 000 k,-,-,5.63%,$25.00,1/1/2027,-,-
-APO,AHL-E,Asset Management,Pref,Non-cumul,Fixed,6.96%,$4.80,223,-,Ba1,BB+,False,10 k,10 000 k,-,-,5.63%,$25.00,10/1/2024,-,-
-AHT,AHT-D,REIT - Hotel & Motel,Pref,Cumul,Fixed,15.86%,$11.68,Callable,-,-,-,False,5 k,1 160 k,-,-,8.45%,$25.00,7/18/2012,-,-
-AHT,AHT-F,REIT - Hotel & Motel,Pref,Cumul,Fixed,15.83%,$13.35,Callable,-,-,-,False,6 k,1 175 k,-,-,7.38%,$25.00,7/15/2021,-,-
-AHT,AHT-G,REIT - Hotel & Motel,Pref,Cumul,Fixed,11.19%,$8.52,Callable,-,-,-,False,4 k,1 532 k,-,-,7.38%,$25.00,10/18/2021,-,-
-AHT,AHT-H,REIT - Hotel & Motel,Pref,Cumul,Fixed,15.43%,$12.85,Callable,-,-,-,False,2 k,1 170 k,-,-,7.50%,$25.00,8/25/2022,-,-
-AHT,AHT-I,REIT - Hotel & Motel,Pref,Cumul,Fixed,15.81%,$13.14,Callable,-,-,-,False,3 k,1 161 k,-,-,7.50%,$25.00,11/17/2022,-,-
-AIG,AIG-A,Insurance - Diversified,Pref,Non-cumul,Fixed,5.79%,-$0.27,23,-,Ba1,BBB-,True,59 k,20 000 k,1 864 k, 0 k,5.85%,$25.00,3/15/2024,-,-
-AIRT,AIRTP,Int Freight & Logistics,Pref,Cumul,Fixed,11.32%,$6.89,107,9238,-,-,False,2 k,1 089 k,-,-,8.00%,$25.00,6/7/2024,6/7/2049,-
-AIZ,AIZN,Insurance - Specialty,Bond,Interest,Fixed,6.49%,$4.32,694,13478,Ba1,BB+,False,72 k,10 000 k, 876 k, 0 k,5.25%,$25.00,1/15/2026,1/15/2061,-
-AL,AL-A,Rental & Leasing,Pref,Non-cumul,Fix/Float,6.08%,-$0.27,23,-,-,BB+,False,12 k,10 000 k, 940 k, 0 k,6.15%,$25.00,3/15/2024,-,23
-ALL,ALL-B,Insurance - Property & Casualty,Bond,Interest,Fix/Float,8.40%,-$0.91,Callable,10556,Baa1,BBB,True,42 k,20 000 k,1 864 k, 0 k,8.74%,$25.00,1/15/2023,1/15/2053,Floating
-ALL,ALL-H,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,5.43%,$1.50,237,-,Baa2,BBB,True,78 k,46 000 k,4 272 k, 0 k,5.10%,$25.00,10/15/2024,-,-
-ALL,ALL-I,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,5.20%,$2.15,329,-,Baa2,BBB,True,18 k,12 000 k,1 145 k, 0 k,4.75%,$25.00,1/15/2025,-,-
-ALL,ALL-J,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,5.17%,-$2.16,1606,-,Baa2,BBB,True,45 k,24 000 k,2 237 k, 0 k,7.38%,$25.00,7/15/2028,-,-
-ALTG,ALTG-A,Rental & Leasing,Pref,Cumul,Fixed,9.73%,-$0.70,670,-,-,-,False,4 k,1 200 k,-,-,10.00%,$25.00,12/22/2025,-,-
-AMH,AMH-G,REIT - Residential,Pref,Cumul,Fixed,6.12%,$1.01,Callable,-,-,BB+,False,5 k,4 600 k, 449 k, 0 k,5.88%,$25.00,7/17/2022,-,-
-AMH,AMH-H,REIT - Residential,Pref,Cumul,Fixed,6.24%,-$0.05,Callable,-,Ba1,BB,False,7 k,4 600 k, 432 k, 0 k,6.25%,$25.00,9/19/2023,-,-
-APO,APOS,Asset Management,Bond,Interest,Reset,5.36%,-$2.28,1668,10799,A3,BBB,True,78 k,24 000 k,2 237 k, 0 k,7.63%,$25.00,9/15/2028,9/15/2053,1668
-AQN,AQNB,Utilities - Renewable,Bond,Interest,Fix/Float,6.19%,-$0.06,131,-,-,BB+,False,33 k,14 000 k,1 299 k, 0 k,6.20%,$25.00,7/1/2024,-,131
-ARBK,ARBKL,Capital Markets,Bond,Interest,Fixed,55.03%,$16.50,Callable,1013,-,-,False,11 k,1 600 k,-,-,8.75%,$25.50,11/30/2023,11/30/2026,-
-ARGO,ARGD,Insurance - Property & Casualty,Bond,Interest,Fixed,7.27%,$1.95,Callable,6781,-,BBB-,True,9 k,5 750 k,-,-,6.50%,$25.00,9/15/2017,9/15/2042,-
-ARGO,ARGO-A,Insurance - Property & Casualty,Pref,Non-cumul,Reset,7.35%,$1.19,572,-,-,-,False,18 k,6 000 k,-,-,7.00%,$25.00,9/15/2025,-,572
-ARR,ARR-C,REIT - Mortgage,Pref,Cumul,Fixed,8.26%,$3.81,342,-,-,-,False,13 k,6 847 k, 631 k, 0 k,7.00%,$25.00,1/28/2025,-,-
-ASB,ASB-E,Bank - Regional,Pref,Non-cumul,Fixed,7.24%,$4.70,Callable,-,Baa3,BB,True,6 k,4 000 k, 379 k, 0 k,5.88%,$25.00,12/15/2023,-,-
-ASB,ASB-F,Bank - Regional,Pref,Non-cumul,Fixed,7.27%,$5.65,572,-,Baa3,BB,True,6 k,4 000 k, 367 k, 0 k,5.63%,$25.00,9/15/2025,-,-
-ASB,ASBA,Bank - Regional,Bond,Interest,Reset,#N/A,-,1470,3296,Baa3,BBB-,True,-,-,1 117 k, 0 k,6.63%,$25.00,3/1/2028,3/1/2033,1470
-ATCO,ATCO-D,Asset Management,Pref,Cumul,Fixed,8.10%,$0.45,Callable,-,-,-,False,7 k,5 094 k,-,-,7.95%,$25.00,1/30/2018,-,-
-ATCO,ATCO-H,Asset Management,Pref,Cumul,Fixed,8.11%,$0.71,Callable,-,-,-,False,15 k,9 025 k,-,-,7.88%,$25.00,8/11/2021,-,-
-ATCO,ATCOL,Asset Management,Bond,Interest,Fixed,8.14%,$0.80,Callable,1347,-,-,False,3 k,2 094 k,-,-,7.13%,$25.00,5/13/2023,10/30/2027,-
-APO,ATH-A,Asset Management,Pref,Non-cumul,Fix/Float,6.37%,$0.09,1956,-,Baa3,BBB,True,246 k,34 500 k,-,-,6.35%,$25.00,6/30/2029,-,1956
-APO,ATH-B,Asset Management,Pref,Non-cumul,Fixed,6.46%,$3.22,222,-,Baa3,BBB,True,26 k,13 800 k,1 312 k, 0 k,5.63%,$25.00,9/30/2024,-,-
-APO,ATH-C,Asset Management,Pref,Non-cumul,Reset,6.37%,-$0.01,587,-,Baa3,BBB,True,62 k,24 000 k,2 237 k, 0 k,6.38%,$25.00,9/30/2025,-,587
-APO,ATH-D,Asset Management,Pref,Non-cumul,Fixed,6.67%,$6.73,678,-,Baa3,BBB,True,47 k,23 000 k,2 172 k, 0 k,4.88%,$25.00,12/30/2025,-,-
-APO,ATH-E,Asset Management,Pref,Non-cumul,Reset,7.37%,-$1.30,1408,-,Baa3,BBB,True,30 k,20 000 k,1 880 k, 0 k,7.75%,$25.00,12/30/2027,-,1408
-ATLC,ATLCL,Credit Services,Bond,Interest,Fixed,9.56%,$2.57,Callable,1013,-,-,False,8 k,5 928 k, 578 k, 0 k,6.13%,$25.50,11/30/2023,11/30/2026,-
-ATLC,ATLCP,Credit Services,Pref,Cumul,Fixed,8.67%,$3.02,841,-,-,-,False,7 k,3 257 k,-,-,7.63%,$25.00,6/11/2026,-,-
-AUB,AUB-A,Bank - Regional,Pref,Non-cumul,Fixed,7.13%,$0.89,558,-,-,-,False,30 k,6 900 k, 635 k, 0 k,6.88%,$25.00,9/1/2025,-,-
+ABR,ABR-D,REIT - Mortgage,Pref,Cumul,Fixed,8.88%,$7.05,831,-,-,-,False,27 k,9 200 k, 754 k, 0 k,6.38%,$25.00,6/2/2026,-,-
+ABR,ABR-E,REIT - Mortgage,Pref,Cumul,Fixed,8.67%,$6.98,901,-,-,-,False,9 k,5 750 k, 477 k, 0 k,6.25%,$25.00,8/11/2026,-,-
+ABR,ABR-F,REIT - Mortgage,Pref,Cumul,Fix/Float,8.32%,$6.23,963,-,-,-,False,42 k,11 342 k, 926 k, 0 k,6.25%,$25.00,10/12/2026,-,963
+ACGL,ACGLN,Insurance - Diversified,Pref,Non-cumul,Fixed,5.58%,$4.62,840,-,-,BBB,True,27 k,20 000 k,1 889 k, 0 k,4.55%,$25.00,6/11/2026,-,-
+ACGL,ACGLO,Insurance - Diversified,Pref,Non-cumul,Fixed,5.79%,$1.48,Callable,-,Baa3,BBB,True,16 k,13 200 k,1 253 k, 0 k,5.45%,$25.00,8/17/2022,-,-
+ACP,ACP-A,CEF - Debt,Pref,Cumul,Fixed,5.47%,$1.00,859,-,A2,-,True,2 k,1 600 k,-,-,5.25%,$25.00,6/30/2026,-,-
+ACR,ACR-C,REIT - Mortgage,Pref,Cumul,Fix/Float,9.00%,$1.05,159,-,-,-,False,9 k,4 800 k, 448 k, 0 k,8.63%,$25.00,7/30/2024,-,159
+ACR,ACR-D,REIT - Mortgage,Pref,Cumul,Fixed,8.80%,$2.64,819,-,-,-,False,9 k,4 608 k, 434 k, 0 k,7.88%,$25.00,5/21/2026,-,-
+ADC,ADC-A,REIT - Retail,Pref,Cumul,Fixed,5.72%,$6.43,938,-,Baa2,BB+,True,11 k,7 000 k, 670 k, 0 k,4.25%,$25.00,9/17/2026,-,-
+AEG,AEFC,Insurance - Diversified,Bond,Interest,Fixed,#N/A,-,297,9428,Baa1,BBB-,True,-,-,3 434 k, 0 k,5.10%,$25.00,12/15/2024,12/15/2049,-
+AEL,AEL-A,Insurance - Life,Pref,Non-cumul,Reset,6.32%,$1.45,283,-,-,BB,False,42 k,16 000 k,1 515 k, 0 k,5.95%,$25.00,12/1/2024,-,283
+AEL,AEL-B,Insurance - Life,Pref,Non-cumul,Reset,6.62%,-$0.02,557,-,-,BB,False,11 k,12 000 k,1 140 k, 0 k,6.63%,$25.00,9/1/2025,-,557
+AFG,AFGB,Insurance - Property & Casualty,Bond,Interest,Fixed,6.05%,$0.63,37,12820,Baa2,BBB-,True,7 k,5 000 k, 466 k, 0 k,5.88%,$25.00,3/30/2024,3/30/2059,-
+AFG,AFGC,Insurance - Property & Casualty,Bond,Interest,Fixed,6.01%,$3.24,297,13080,Baa2,BBB-,True,9 k,8 000 k, 745 k, 0 k,5.13%,$25.00,12/15/2024,12/15/2059,-
+AFG,AFGD,Insurance - Property & Casualty,Bond,Interest,Fixed,6.13%,$1.80,465,13249,Baa2,BBB-,True,9 k,6 000 k, 559 k, 0 k,5.63%,$25.00,6/1/2025,6/1/2060,-
+AFG,AFGE,Insurance - Property & Casualty,Bond,Interest,Fixed,5.97%,$5.45,571,13355,Baa2,BBB-,True,9 k,8 000 k, 745 k, 0 k,4.50%,$25.00,9/15/2025,9/15/2060,-
+AGM,AGM-C,Credit Services,Pref,Non-cumul,Fix/Float,6.00%,$0.00,147,-,-,-,False,39 k,3 000 k,-,-,6.00%,$25.00,7/18/2024,-,147
+AGM,AGM-D,Credit Services,Pref,Non-cumul,Fixed,5.89%,$0.80,146,-,-,-,False,3 k,4 000 k, 380 k, 0 k,5.70%,$25.00,7/17/2024,-,-
+AGM,AGM-E,Credit Services,Pref,Non-cumul,Fixed,5.99%,$1.02,511,-,-,-,False,3 k,3 180 k,-,-,5.75%,$25.00,7/17/2025,-,-
+AGM,AGM-F,Credit Services,Pref,Non-cumul,Fixed,5.90%,$2.75,603,-,-,-,False,8 k,4 800 k, 449 k, 0 k,5.25%,$25.00,10/17/2025,-,-
+AGM,AGM-G,Credit Services,Pref,Non-cumul,Fixed,5.99%,$4.66,876,-,-,-,False,7 k,5 000 k, 468 k, 0 k,4.88%,$25.00,7/17/2026,-,-
+AGNC,AGNCL,REIT - Mortgage,Pref,Cumul,Reset,8.33%,$1.75,1331,-,-,-,False,22 k,6 000 k, 559 k, 0 k,7.75%,$25.00,10/15/2027,-,1331
+AGNC,AGNCM,REIT - Mortgage,Pref,Cumul,Fix/Float,6.94%,$0.25,53,-,-,-,False,15 k,9 400 k, 876 k, 0 k,6.88%,$25.00,4/15/2024,-,53
+AGNC,AGNCN,REIT - Mortgage,Pref,Cumul,Fix/Float,10.47%,-$0.65,Callable,-,-,-,False,26 k,13 000 k,1 212 k, 0 k,10.74%,$25.00,10/15/2022,-,Floating
+AGNC,AGNCO,REIT - Mortgage,Pref,Cumul,Fix/Float,6.68%,$0.68,236,-,-,-,False,23 k,16 100 k,1 501 k, 0 k,6.50%,$25.00,10/15/2024,-,236
+AGNC,AGNCP,REIT - Mortgage,Pref,Cumul,Fix/Float,6.59%,$1.78,418,-,-,-,False,38 k,23 000 k,2 144 k, 0 k,6.13%,$25.00,4/15/2025,-,418
+AHH,AHH-A,REIT - Diversified,Pref,Cumul,Fixed,7.33%,$1.99,117,-,-,-,False,6 k,6 843 k, 636 k, 0 k,6.75%,$25.00,6/18/2024,-,-
+APO,AHL-C,Asset Management,Pref,Non-cumul,Fix/Float,9.32%,-$0.84,Callable,-,Ba1,BB+,False,14 k,11 000 k,-,-,9.63%,$25.00,7/1/2023,-,Floating
+APO,AHL-D,Asset Management,Pref,Non-cumul,Fixed,6.76%,$4.20,1044,-,Ba1,BB+,False,10 k,10 000 k,-,-,5.63%,$25.00,1/1/2027,-,-
+APO,AHL-E,Asset Management,Pref,Non-cumul,Fixed,6.94%,$4.73,222,-,Ba1,BB+,False,10 k,10 000 k,-,-,5.63%,$25.00,10/1/2024,-,-
+AHT,AHT-D,REIT - Hotel & Motel,Pref,Cumul,Fixed,15.65%,$11.50,Callable,-,-,-,False,5 k,1 160 k,-,-,8.45%,$25.00,7/18/2012,-,-
+AHT,AHT-F,REIT - Hotel & Motel,Pref,Cumul,Fixed,16.03%,$13.50,Callable,-,-,-,False,6 k,1 175 k,-,-,7.38%,$25.00,7/15/2021,-,-
+AHT,AHT-G,REIT - Hotel & Motel,Pref,Cumul,Fixed,11.97%,$9.60,Callable,-,-,-,False,4 k,1 532 k,-,-,7.38%,$25.00,10/18/2021,-,-
+AHT,AHT-H,REIT - Hotel & Motel,Pref,Cumul,Fixed,16.05%,$13.32,Callable,-,-,-,False,2 k,1 170 k,-,-,7.50%,$25.00,8/25/2022,-,-
+AHT,AHT-I,REIT - Hotel & Motel,Pref,Cumul,Fixed,15.73%,$13.08,Callable,-,-,-,False,3 k,1 161 k,-,-,7.50%,$25.00,11/17/2022,-,-
+AIG,AIG-A,Insurance - Diversified,Pref,Non-cumul,Fixed,5.79%,-$0.27,22,-,Ba1,BBB-,True,59 k,20 000 k,1 864 k, 0 k,5.85%,$25.00,3/15/2024,-,-
+AIRT,AIRTP,Int Freight & Logistics,Pref,Cumul,Fixed,11.56%,$7.27,106,9237,-,-,False,1 k,1 089 k,-,-,8.00%,$25.00,6/7/2024,6/7/2049,-
+AIZ,AIZN,Insurance - Specialty,Bond,Interest,Fixed,6.51%,$4.40,693,13477,Ba1,BB+,False,69 k,10 000 k, 876 k, 0 k,5.25%,$25.00,1/15/2026,1/15/2061,-
+AL,AL-A,Rental & Leasing,Pref,Non-cumul,Fix/Float,6.09%,-$0.25,22,-,-,BB+,False,12 k,10 000 k, 940 k, 0 k,6.15%,$25.00,3/15/2024,-,22
+ALL,ALL-B,Insurance - Property & Casualty,Bond,Interest,Fix/Float,8.41%,-$0.88,Callable,10555,Baa1,BBB,True,38 k,20 000 k,1 864 k, 0 k,8.74%,$25.00,1/15/2023,1/15/2053,Floating
+ALL,ALL-H,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,5.44%,$1.56,236,-,Baa2,BBB,True,76 k,46 000 k,4 272 k, 0 k,5.10%,$25.00,10/15/2024,-,-
+ALL,ALL-I,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,5.25%,$2.38,328,-,Baa2,BBB,True,17 k,12 000 k,1 145 k, 0 k,4.75%,$25.00,1/15/2025,-,-
+ALL,ALL-J,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,5.18%,-$2.14,1605,-,Baa2,BBB,True,44 k,24 000 k,2 237 k, 0 k,7.38%,$25.00,7/15/2028,-,-
+ALTG,ALTG-A,Rental & Leasing,Pref,Cumul,Fixed,9.74%,-$0.66,669,-,-,-,False,4 k,1 200 k,-,-,10.00%,$25.00,12/22/2025,-,-
+AMH,AMH-G,REIT - Residential,Pref,Cumul,Fixed,6.19%,$1.29,Callable,-,-,BB+,False,5 k,4 600 k, 449 k, 0 k,5.88%,$25.00,7/17/2022,-,-
+AMH,AMH-H,REIT - Residential,Pref,Cumul,Fixed,6.29%,$0.16,Callable,-,Ba1,BB,False,7 k,4 600 k, 432 k, 0 k,6.25%,$25.00,9/19/2023,-,-
+APO,APOS,Asset Management,Bond,Interest,Reset,5.40%,-$2.24,1667,10798,A3,BBB,True,71 k,24 000 k,2 237 k, 0 k,7.63%,$25.00,9/15/2028,9/15/2053,1667
+AQN,AQNB,Utilities - Renewable,Bond,Interest,Fix/Float,6.18%,-$0.09,130,-,-,BB+,False,33 k,14 000 k,1 299 k, 0 k,6.20%,$25.00,7/1/2024,-,130
+ARBK,ARBKL,Capital Markets,Bond,Interest,Fixed,55.18%,$16.52,Callable,1012,-,-,False,12 k,1 600 k,-,-,8.75%,$25.50,11/30/2023,11/30/2026,-
+ARGO,ARGD,Insurance - Property & Casualty,Bond,Interest,Fixed,7.15%,$1.66,Callable,6780,-,BBB-,True,8 k,5 750 k,-,-,6.50%,$25.00,9/15/2017,9/15/2042,-
+ARGO,ARGO-A,Insurance - Property & Casualty,Pref,Non-cumul,Reset,7.38%,$1.30,571,-,-,-,False,14 k,6 000 k,-,-,7.00%,$25.00,9/15/2025,-,571
+ARR,ARR-C,REIT - Mortgage,Pref,Cumul,Fixed,8.27%,$3.84,341,-,-,-,False,13 k,6 847 k, 631 k, 0 k,7.00%,$25.00,1/28/2025,-,-
+ASB,ASB-E,Bank - Regional,Pref,Non-cumul,Fixed,7.31%,$4.91,Callable,-,Baa3,BB,True,6 k,4 000 k, 379 k, 0 k,5.88%,$25.00,12/15/2023,-,-
+ASB,ASB-F,Bank - Regional,Pref,Non-cumul,Fixed,7.27%,$5.65,571,-,Baa3,BB,True,6 k,4 000 k, 367 k, 0 k,5.63%,$25.00,9/15/2025,-,-
+ASB,ASBA,Bank - Regional,Bond,Interest,Reset,#N/A,-,1469,3295,Baa3,BBB-,True,-,-,1 117 k, 0 k,6.63%,$25.00,3/1/2028,3/1/2033,1469
+ATCO,ATCO-D,Asset Management,Pref,Cumul,Fixed,8.19%,$0.74,Callable,-,-,-,False,7 k,5 094 k,-,-,7.95%,$25.00,1/30/2018,-,-
+ATCO,ATCO-H,Asset Management,Pref,Cumul,Fixed,8.20%,$0.99,Callable,-,-,-,False,14 k,9 025 k,-,-,7.88%,$25.00,8/11/2021,-,-
+ATCO,ATCOL,Asset Management,Bond,Interest,Fixed,8.06%,$0.74,Callable,1346,-,-,False,3 k,2 094 k,-,-,7.13%,$25.00,5/13/2023,10/30/2027,-
+APO,ATH-A,Asset Management,Pref,Non-cumul,Fix/Float,6.37%,$0.07,1955,-,Baa3,BBB,True,243 k,34 500 k,-,-,6.35%,$25.00,6/30/2029,-,1955
+APO,ATH-B,Asset Management,Pref,Non-cumul,Fixed,6.42%,$3.08,221,-,Baa3,BBB,True,26 k,13 800 k,1 312 k, 0 k,5.63%,$25.00,9/30/2024,-,-
+APO,ATH-C,Asset Management,Pref,Non-cumul,Reset,6.35%,-$0.10,586,-,Baa3,BBB,True,56 k,24 000 k,2 237 k, 0 k,6.38%,$25.00,9/30/2025,-,586
+APO,ATH-D,Asset Management,Pref,Non-cumul,Fixed,6.58%,$6.49,677,-,Baa3,BBB,True,47 k,23 000 k,2 172 k, 0 k,4.88%,$25.00,12/30/2025,-,-
+APO,ATH-E,Asset Management,Pref,Non-cumul,Reset,7.34%,-$1.40,1407,-,Baa3,BBB,True,29 k,20 000 k,1 880 k, 0 k,7.75%,$25.00,12/30/2027,-,1407
+ATLC,ATLCL,Credit Services,Bond,Interest,Fixed,8.72%,$2.08,Callable,1012,-,-,False,8 k,5 928 k, 578 k, 0 k,6.13%,$25.50,11/30/2023,11/30/2026,-
+ATLC,ATLCP,Credit Services,Pref,Cumul,Fixed,8.68%,$3.05,840,-,-,-,False,7 k,3 257 k,-,-,7.63%,$25.00,6/11/2026,-,-
+AUB,AUB-A,Bank - Regional,Pref,Non-cumul,Fixed,7.11%,$0.83,557,-,-,-,False,30 k,6 900 k, 635 k, 0 k,6.88%,$25.00,9/1/2025,-,-
 AULT,AULT-D,Aerospace & Defense,Pref,Cumul,Fixed,#N/A,-,Callable,-,-,-,False,-,-,-,-,13%,$25.50,-,-,-
-AUVI,AUVIP,"Furnishings, Fixtures & Appliances",Pref,Cumul,Fixed,74.29%,$25.76,Callable,-,-,-,False,3 k, 552 k,-,-,10.50%,$30.00,7/16/2022,-,-
-AXS,AXS-E,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,6.23%,$2.94,Callable,-,Baa3,BBB,True,32 k,22 000 k,2 047 k, 0 k,5.50%,$25.00,11/7/2021,-,-
-BAC,BAC-B,Bank - Diversified,Pref,Non-cumul,Fixed,5.96%,-$0.16,Callable,-,Baa3,BBB-,True,63 k,54 000 k,2 671 k, 0 k,6.00%,$25.00,5/16/2023,-,-
-BAC,BAC-E,Bank - Diversified,Pref,Non-cumul,Floating,6.46%,$2.08,Callable,-,Baa3,BBB-,True,24 k,12 317 k, 607 k, 0 k,5.92%,$25.00,11/15/2011,-,Floating
-BAC,BAC-K,Bank - Diversified,Pref,Non-cumul,Fixed,5.89%,$0.07,Callable,-,Baa3,BBB-,True,57 k,34 049 k,1 635 k, 0 k,5.88%,$25.00,7/24/2023,-,-
-BAC,BAC-M,Bank - Diversified,Pref,Non-cumul,Fixed,5.65%,$1.22,125,-,Baa3,BBB-,True,105 k,55 272 k,2 734 k, 0 k,5.38%,$25.00,6/25/2024,-,-
-BAC,BAC-N,Bank - Diversified,Pref,Non-cumul,Fixed,5.52%,$2.37,209,-,Baa3,BBB-,True,78 k,52 045 k,2 574 k, 0 k,5.00%,$25.00,9/17/2024,-,-
-BAC,BAC-O,Bank - Diversified,Pref,Non-cumul,Fixed,5.53%,$5.21,621,-,Baa3,BBB-,True,66 k,42 993 k,2 063 k, 0 k,4.38%,$25.00,11/3/2025,-,-
-BAC,BAC-P,Bank - Diversified,Pref,Non-cumul,Fixed,5.51%,$6.29,712,-,Baa3,BBB-,True,49 k,36 500 k,1 738 k, 0 k,4.13%,$25.00,2/2/2026,-,-
-BAC,BAC-Q,Bank - Diversified,Pref,Non-cumul,Fixed,5.59%,$5.98,1000,-,Baa3,BBB-,True,81 k,51 879 k,2 505 k, 0 k,4.25%,$25.00,11/17/2026,-,-
-BAC,BAC-S,Bank - Diversified,Pref,Non-cumul,Fixed,5.54%,$3.58,1092,-,Baa3,BBB-,True,65 k,27 463 k,1 302 k, 0 k,4.75%,$25.00,2/17/2027,-,-
-BANC,BANC-F,Bank - Regional,Pref,Non-cumul,Reset,8.89%,$3.20,1288,-,-,-,False,70 k,20 530 k,1 937 k, 0 k,7.75%,$25.00,9/1/2027,-,1288
-BANF,BANFP,Bank - Regional,Pref,Cumul,Fixed,6.74%,-$0.83,Callable,3691,-,-,False,1 k,1 040 k,-,-,7.20%,$25.00,3/31/2009,3/31/2034,-
-BC,BC-A,Recreational Vehicles,Bond,Interest,Fixed,6.65%,$0.46,Callable,9003,Baa2,BBB-,True,8 k,7 400 k, 690 k, 0 k,6.50%,$25.00,10/15/2023,10/15/2048,-
-BC,BC-B,Recreational Vehicles,Bond,Interest,Fixed,6.79%,$0.50,Callable,9095,Baa2,BBB-,True,37 k,5 000 k, 466 k, 0 k,6.63%,$25.00,1/15/2024,1/15/2049,-
-BC,BC-C,Recreational Vehicles,Bond,Interest,Fixed,6.67%,$0.90,54,9185,Baa2,BBB-,True,13 k,9 200 k, 858 k, 0 k,6.38%,$25.00,4/15/2024,4/15/2049,-
-BCV,BCV-A,CEF - Debt,Bond,Interest,Fixed,5.66%,$1.27,Callable,-,-,-,False,3 k,1 191 k,-,-,5.38%,$25.00,8/9/2021,-,-
-BEP,BEP-A,Utilities - Renewable,Pref,Cumul,Fixed,7.50%,$7.49,404,-,-,BBB-,True,8 k,8 000 k,-,-,5.25%,$25.00,3/31/2025,-,-
-BEP,BEPH,Utilities - Renewable,Bond,Interest,Fixed,7.28%,$9.12,799,-,-,BBB-,True,18 k,14 000 k,1 298 k, 0 k,4.63%,$25.00,4/30/2026,-,-
-BEP,BEPI,Utilities - Renewable,Bond,Interest,Fixed,7.31%,$8.32,1022,-,-,BBB-,True,15 k,10 400 k, 961 k, 0 k,4.88%,$25.00,12/9/2026,-,-
-BFS,BFS-D,REIT - Retail,Pref,Cumul,Fixed,6.68%,$2.09,Callable,-,-,-,False,4 k,3 000 k,-,-,6.13%,$25.00,1/23/2023,-,-
-BFS,BFS-E,REIT - Retail,Pref,Cumul,Fixed,6.56%,$2.13,209,-,-,-,False,4 k,4 400 k, 416 k, 0 k,6.00%,$25.00,9/17/2024,-,-
-BHF,BHFAL,Insurance - Life,Bond,Interest,Fixed,#N/A,-,Callable,12625,Ba1,BBB-,True,-,-,1 423 k, 0 k,6.25%,$25.00,9/15/2023,9/15/2058,-
-BHF,BHFAM,Insurance - Life,Pref,Non-cumul,Fixed,7.12%,$8.75,1038,-,Ba2,BBB-,True,41 k,14 000 k,1 341 k, 0 k,4.63%,$25.00,12/25/2026,-,-
-BHF,BHFAN,Insurance - Life,Pref,Non-cumul,Fixed,6.93%,$5.60,673,-,Ba2,BBB-,True,44 k,23 000 k,2 168 k, 0 k,5.38%,$25.00,12/25/2025,-,-
-BHF,BHFAO,Insurance - Life,Pref,Non-cumul,Fixed,6.94%,$0.68,490,-,Ba1,BBB-,True,30 k,16 100 k,1 525 k, 0 k,6.75%,$25.00,6/25/2025,-,-
-BHF,BHFAP,Insurance - Life,Pref,Non-cumul,Fixed,6.91%,$1.13,33,-,Ba2,BBB-,True,34 k,17 000 k,1 609 k, 0 k,6.60%,$25.00,3/25/2024,-,-
-BHR,BHR-B,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.58%,$12.00,Callable,-,-,-,False,7 k,3 078 k,-,-,5.50%,$25.00,6/11/2020,-,-
+AUVI,AUVIP,"Furnishings, Fixtures & Appliances",Pref,Cumul,Fixed,66.32%,$25.25,Callable,-,-,-,False,3 k, 552 k,-,-,10.50%,$30.00,7/16/2022,-,-
+AXS,AXS-E,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,6.22%,$2.90,Callable,-,Baa3,BBB,True,30 k,22 000 k,2 047 k, 0 k,5.50%,$25.00,11/7/2021,-,-
+BAC,BAC-B,Bank - Diversified,Pref,Non-cumul,Fixed,5.98%,-$0.07,Callable,-,Baa3,BBB-,True,63 k,54 000 k,2 671 k, 0 k,6.00%,$25.00,5/16/2023,-,-
+BAC,BAC-E,Bank - Diversified,Pref,Non-cumul,Floating,6.46%,$2.07,Callable,-,Baa3,BBB-,True,23 k,12 317 k, 607 k, 0 k,5.92%,$25.00,11/15/2011,-,Floating
+BAC,BAC-K,Bank - Diversified,Pref,Non-cumul,Fixed,5.91%,$0.16,Callable,-,Baa3,BBB-,True,58 k,34 049 k,1 635 k, 0 k,5.88%,$25.00,7/24/2023,-,-
+BAC,BAC-M,Bank - Diversified,Pref,Non-cumul,Fixed,5.67%,$1.31,124,-,Baa3,BBB-,True,103 k,55 272 k,2 734 k, 0 k,5.38%,$25.00,6/25/2024,-,-
+BAC,BAC-N,Bank - Diversified,Pref,Non-cumul,Fixed,5.55%,$2.46,208,-,Baa3,BBB-,True,78 k,52 045 k,2 574 k, 0 k,5.00%,$25.00,9/17/2024,-,-
+BAC,BAC-O,Bank - Diversified,Pref,Non-cumul,Fixed,5.55%,$5.29,620,-,Baa3,BBB-,True,68 k,42 993 k,2 063 k, 0 k,4.38%,$25.00,11/3/2025,-,-
+BAC,BAC-P,Bank - Diversified,Pref,Non-cumul,Fixed,5.52%,$6.31,711,-,Baa3,BBB-,True,48 k,36 500 k,1 738 k, 0 k,4.13%,$25.00,2/2/2026,-,-
+BAC,BAC-Q,Bank - Diversified,Pref,Non-cumul,Fixed,5.63%,$6.12,999,-,Baa3,BBB-,True,81 k,51 879 k,2 505 k, 0 k,4.25%,$25.00,11/17/2026,-,-
+BAC,BAC-S,Bank - Diversified,Pref,Non-cumul,Fixed,5.57%,$3.68,1091,-,Baa3,BBB-,True,66 k,27 463 k,1 302 k, 0 k,4.75%,$25.00,2/17/2027,-,-
+BANC,BANC-F,Bank - Regional,Pref,Non-cumul,Reset,8.98%,$3.42,1287,-,-,-,False,71 k,20 530 k,1 937 k, 0 k,7.75%,$25.00,9/1/2027,-,1287
+BANF,BANFP,Bank - Regional,Pref,Cumul,Fixed,6.74%,-$0.83,Callable,3690,-,-,False,1 k,1 040 k,-,-,7.20%,$25.00,3/31/2009,3/31/2034,-
+BC,BC-A,Recreational Vehicles,Bond,Interest,Fixed,6.69%,$0.57,Callable,9002,Baa2,BBB-,True,8 k,7 400 k, 690 k, 0 k,6.50%,$25.00,10/15/2023,10/15/2048,-
+BC,BC-B,Recreational Vehicles,Bond,Interest,Fixed,6.79%,$0.49,Callable,9094,Baa2,BBB-,True,37 k,5 000 k, 466 k, 0 k,6.63%,$25.00,1/15/2024,1/15/2049,-
+BC,BC-C,Recreational Vehicles,Bond,Interest,Fixed,6.65%,$0.85,53,9184,Baa2,BBB-,True,13 k,9 200 k, 858 k, 0 k,6.38%,$25.00,4/15/2024,4/15/2049,-
+BCV,BCV-A,CEF - Debt,Bond,Interest,Fixed,5.75%,$1.65,Callable,-,-,-,False,4 k,1 191 k,-,-,5.38%,$25.00,8/9/2021,-,-
+BEP,BEP-A,Utilities - Renewable,Pref,Cumul,Fixed,7.44%,$7.36,403,-,-,BBB-,True,7 k,8 000 k,-,-,5.25%,$25.00,3/31/2025,-,-
+BEP,BEPH,Utilities - Renewable,Bond,Interest,Fixed,7.38%,$9.34,798,-,-,BBB-,True,18 k,14 000 k,1 298 k, 0 k,4.63%,$25.00,4/30/2026,-,-
+BEP,BEPI,Utilities - Renewable,Bond,Interest,Fixed,7.34%,$8.39,1021,-,-,BBB-,True,15 k,10 400 k, 961 k, 0 k,4.88%,$25.00,12/9/2026,-,-
+BFS,BFS-D,REIT - Retail,Pref,Cumul,Fixed,6.72%,$2.20,Callable,-,-,-,False,4 k,3 000 k,-,-,6.13%,$25.00,1/23/2023,-,-
+BFS,BFS-E,REIT - Retail,Pref,Cumul,Fixed,6.52%,$2.00,208,-,-,-,False,4 k,4 400 k, 416 k, 0 k,6.00%,$25.00,9/17/2024,-,-
+BHF,BHFAL,Insurance - Life,Bond,Interest,Fixed,#N/A,-,Callable,12624,Ba1,BBB-,True,-,-,1 423 k, 0 k,6.25%,$25.00,9/15/2023,9/15/2058,-
+BHF,BHFAM,Insurance - Life,Pref,Non-cumul,Fixed,7.16%,$8.84,1037,-,Ba2,BBB-,True,41 k,14 000 k,1 341 k, 0 k,4.63%,$25.00,12/25/2026,-,-
+BHF,BHFAN,Insurance - Life,Pref,Non-cumul,Fixed,6.97%,$5.72,672,-,Ba2,BBB-,True,42 k,23 000 k,2 168 k, 0 k,5.38%,$25.00,12/25/2025,-,-
+BHF,BHFAO,Insurance - Life,Pref,Non-cumul,Fixed,6.99%,$0.85,489,-,Ba1,BBB-,True,30 k,16 100 k,1 525 k, 0 k,6.75%,$25.00,6/25/2025,-,-
+BHF,BHFAP,Insurance - Life,Pref,Non-cumul,Fixed,7.00%,$1.42,32,-,Ba2,BBB-,True,32 k,17 000 k,1 609 k, 0 k,6.60%,$25.00,3/25/2024,-,-
+BHR,BHR-B,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.27%,$11.61,Callable,-,-,-,False,6 k,3 078 k,-,-,5.50%,$25.00,6/11/2020,-,-
 BHR,BHR-D,REIT - Hotel & Motel,Pref,Cumul,Fixed,9.67%,$3.68,Callable,-,-,-,False,2 k,1 600 k,-,-,8.25%,$25.00,11/20/2023,-,-
-BIP,BIP-A,Utilities - Diversified,Pref,Cumul,Fixed,7.21%,$7.24,602,-,-,BBB-,True,7 k,8 000 k,-,-,5.13%,$25.00,10/15/2025,-,-
-BIP,BIP-B,Utilities - Diversified,Pref,Cumul,Fixed,7.33%,$7.94,726,-,-,BBB-,True,16 k,8 000 k,-,-,5.00%,$25.00,2/16/2026,-,-
-BIP,BIPH,Utilities - Diversified,Bond,Interest,Fixed,7.37%,$7.92,823,20912,-,BBB-,True,10 k,10 000 k, 924 k, 0 k,5.00%,$25.00,5/24/2026,5/24/2081,-
-BIP,BIPI,Utilities - Diversified,Bond,Interest,Fixed,7.41%,$7.72,1065,-,-,BBB-,True,39 k,12 000 k,1 111 k, 0 k,5.13%,$25.00,1/21/2027,-,-
-BAC,BML-G,Bank - Diversified,Pref,Non-cumul,Floating,7.46%,$3.80,Callable,-,Baa3,BBB-,True,10 k,3 823 k,-,-,6.32%,$25.00,11/28/2009,-,Floating
+BIP,BIP-A,Utilities - Diversified,Pref,Cumul,Fixed,7.13%,$7.03,601,-,-,BBB-,True,8 k,8 000 k,-,-,5.13%,$25.00,10/15/2025,-,-
+BIP,BIP-B,Utilities - Diversified,Pref,Cumul,Fixed,7.33%,$7.95,725,-,-,BBB-,True,16 k,8 000 k,-,-,5.00%,$25.00,2/16/2026,-,-
+BIP,BIPH,Utilities - Diversified,Bond,Interest,Fixed,7.15%,$7.38,822,20911,-,BBB-,True,10 k,10 000 k, 924 k, 0 k,5.00%,$25.00,5/24/2026,5/24/2081,-
+BIP,BIPI,Utilities - Diversified,Bond,Interest,Fixed,7.38%,$7.64,1064,-,-,BBB-,True,38 k,12 000 k,1 111 k, 0 k,5.13%,$25.00,1/21/2027,-,-
+BAC,BML-G,Bank - Diversified,Pref,Non-cumul,Floating,7.48%,$3.87,Callable,-,Baa3,BBB-,True,10 k,3 823 k,-,-,6.32%,$25.00,11/28/2009,-,Floating
 BAC,BML-H,Bank - Diversified,Pref,Non-cumul,Floating,7.43%,$4.06,Callable,-,Baa3,BBB-,True,32 k,11 960 k, 590 k, 0 k,6.22%,$25.00,11/28/2009,-,Floating
-BAC,BML-J,Bank - Diversified,Pref,Non-cumul,Floating,7.17%,$2.94,Callable,-,Baa3,BBB-,True,37 k,8 412 k, 415 k, 0 k,6.32%,$25.00,11/28/2010,-,Floating
-BAC,BML-L,Bank - Diversified,Pref,Non-cumul,Floating,6.98%,$3.26,Callable,-,Baa3,BBB-,True,20 k,16 707 k, 824 k, 0 k,6.07%,$25.00,5/21/2012,-,Floating
-BN,BNH,Asset Management,Bond,Interest,Fixed,6.87%,$8.01,603,20692,Baa2,BBB,True,21 k,16 000 k,1 491 k, 0 k,4.63%,$25.00,10/16/2025,10/16/2080,-
-BN,BNJ,Asset Management,Bond,Interest,Fixed,7.28%,$9.55,642,-,Baa2,BBB,True,18 k,9 200 k, 858 k, 0 k,4.50%,$25.00,11/24/2025,-,-
-BOH,BOH-A,Bank - Regional,Pref,Non-cumul,Fixed,6.58%,$8.37,892,-,Baa2,-,True,18 k,7 200 k, 663 k, 0 k,4.38%,$25.00,8/1/2026,-,-
-BPOP,BPOPM,Bank - Regional,Pref,Cumul,Fixed,5.88%,-$0.48,Callable,3936,Ba2,B+,False,2 k,4 041 k, 377 k, 0 k,6.13%,$25.00,12/1/2009,12/1/2034,-
-BN,BPYPM,Asset Management,Pref,Cumul,Fixed,12.12%,$12.10,886,20975,-,-,False,71 k,26 845 k,-,-,6.25%,$25.00,7/26/2026,7/26/2081,-
-BN,BPYPN,Asset Management,Pref,Cumul,Fixed,12.10%,$13.12,404,-,-,BB,False,27 k,11 500 k,-,-,5.75%,$25.00,3/31/2025,-,-
-BN,BPYPO,Asset Management,Pref,Cumul,Fixed,12.43%,$12.18,222,-,-,BB,False,80 k,10 000 k,-,-,6.38%,$25.00,9/30/2024,-,-
-BN,BPYPP,Asset Management,Pref,Cumul,Fixed,12.31%,$11.80,39,-,-,BB,False,22 k,7 360 k,-,-,6.50%,$25.00,3/31/2024,-,-
-BW,BW-A,Specialty Industrial Machinery,Pref,Cumul,Fixed,16.45%,$13.22,806,-,-,-,False,26 k,7 669 k, 717 k, 0 k,7.75%,$25.00,5/7/2026,-,-
-BWB,BWBBP,Bank - Regional,Pref,Non-cumul,Fixed,7.93%,$6.47,908,-,-,-,False,3 k,2 760 k,-,-,5.88%,$25.00,8/17/2026,-,-
-BW,BWNB,Specialty Industrial Machinery,Bond,Interest,Fixed,Special,-,Callable,1044,-,-,False,17 k,6 058 k, 566 k, 0 k,6.50%,-,-,12/31/2026,-
-BW,BWSN,Specialty Industrial Machinery,Bond,Interest,Fixed,21.43%,$5.84,Callable,738,-,-,False,16 k,7 721 k, 719 k, 0 k,8.13%,$25.50,2/28/2023,2/28/2026,-
-C,C-J,Bank - Diversified,Pref,Non-cumul,Fix/Float,9.23%,-$1.20,Callable,-,Ba1,BB+,False,80 k,22 000 k,2 048 k, 0 k,9.67%,$25.00,9/30/2023,-,Floating
-C,C-N,Bank - Diversified,Pref,Cumul,Fix/Float,Special,-$4.12,Callable,6096,Baa3,BB+,True,82 k,89 840 k,8 365 k, 0 k,12.00%,$25.00,10/30/2015,10/30/2040,Floating
-CADE,CADE-A,Bank - Regional,Pref,Non-cumul,Fixed,6.60%,$4.18,273,-,Ba1,BB+,False,19 k,6 900 k,-,-,5.50%,$25.00,11/20/2024,-,-
-CCIF,CCIA,Asset Management,Pref,Cumul,Fixed,8.20%,-$0.53,618,1714,-,-,False,5 k,2 080 k,-,-,8.75%,$25.00,10/31/2025,10/31/2028,-
-CCLD,CCLDP,Health Information Services,Pref,Cumul,Fixed,39.68%,$18.07,Callable,-,-,-,False,21 k,4 526 k, 439 k, 0 k,11.00%,$25.00,11/4/2020,-,-
-CCNE,CCNEP,Bank - Regional,Pref,Non-cumul,Fixed,7.92%,$2.51,558,-,-,-,False,2 k,2 415 k,-,-,7.13%,$25.00,9/1/2025,-,-
-WHLR,CDR-B,REIT - Retail,Pref,Cumul,Fixed,11.36%,$9.05,Callable,-,-,-,False,4 k,1 450 k,-,-,7.25%,$25.00,5/22/2017,-,-
-WHLR,CDR-C,REIT - Retail,Pref,Cumul,Fixed,12.73%,$12.23,Callable,-,-,-,False,7 k,5 000 k, 475 k, 0 k,6.50%,$25.00,8/24/2022,-,-
-CDZI,CDZIP,Utilities - Regulated Water,Pref,Cumul,Fixed,15.71%,$10.88,862,-,-,-,False,4 k,2 300 k,-,-,8.88%,$25.00,7/2/2026,-,-
-CFG,CFG-D,Bank - Regional,Pref,Non-cumul,Fix/Float,6.37%,$0.06,45,-,-,BB+,False,41 k,12 000 k,1 117 k, 0 k,6.35%,$25.00,4/6/2024,-,45
-CFG,CFG-E,Bank - Regional,Pref,Non-cumul,Fixed,6.08%,$4.44,320,-,-,BB+,False,38 k,18 000 k,1 676 k, 0 k,5.00%,$25.00,1/6/2025,-,-
-CFR,CFR-B,Bank - Regional,Pref,Non-cumul,Fixed,5.84%,$5.94,663,-,Baa2,BBB-,True,15 k,6 000 k, 561 k, 0 k,4.45%,$25.00,12/15/2025,-,-
-CG,CGABL,Asset Management,Bond,Interest,Fixed,6.21%,$5.75,814,13598,-,BBB,True,19 k,20 000 k,1 871 k, 0 k,4.63%,$25.00,5/15/2026,5/15/2061,-
-CGBD,CGBDL,Asset Management,Bond,Interest,Fixed,7.66%,-$0.54,649,1745,-,-,False,18 k,3 400 k,-,-,8.20%,$25.00,12/1/2025,12/1/2028,-
-CHMI,CHMI-A,REIT - Mortgage,Pref,Cumul,Fixed,8.75%,$1.56,Callable,-,-,-,False,4 k,2 782 k,-,-,8.20%,$25.00,8/17/2022,-,-
-CHMI,CHMI-B,REIT - Mortgage,Pref,Cumul,Fix/Float,8.58%,$0.95,54,-,-,-,False,26 k,1 742 k,-,-,8.25%,$25.00,4/15/2024,-,54
--,CHSCL,Farm Products,Pref,Cumul,Fixed,7.22%,-$0.96,335,-,-,-,False,32 k,20 700 k,1 929 k, 0 k,7.50%,$25.00,1/21/2025,-,-
--,CHSCM,Farm Products,Pref,Cumul,Reset,6.68%,-$0.28,222,-,-,-,False,35 k,19 700 k,1 836 k, 0 k,6.75%,$25.00,9/30/2024,-,222
--,CHSCN,Farm Products,Pref,Cumul,Reset,6.93%,-$0.62,39,-,-,-,False,19 k,16 800 k,1 566 k, 0 k,7.10%,$25.00,3/31/2024,-,39
--,CHSCO,Farm Products,Pref,Cumul,Fixed,7.37%,-$1.73,Callable,-,-,-,False,17 k,21 459 k,2 000 k, 0 k,7.88%,$25.00,9/26/2023,-,-
--,CHSCP,Farm Products,Pref,Cumul,Fixed,Special,-$6.14,Callable,-,-,-,False,7 k,12 272 k,1 144 k, 0 k,8.00%,$25.00,7/18/2023,-,-
-CIM,CIM-A,REIT - Mortgage,Pref,Cumul,Fixed,9.26%,$3.40,Callable,-,-,-,False,8 k,5 800 k, 543 k, 0 k,8.00%,$25.00,10/30/2021,-,-
-CIM,CIM-B,REIT - Mortgage,Pref,Cumul,Fix/Float,8.24%,$0.74,38,-,-,-,False,53 k,13 000 k,1 212 k, 0 k,8.00%,$25.00,3/30/2024,-,38
-CIM,CIM-C,REIT - Mortgage,Pref,Cumul,Fix/Float,9.26%,$4.07,587,-,-,-,False,21 k,10 400 k, 966 k, 0 k,7.75%,$25.00,9/30/2025,-,587
-CIM,CIM-D,REIT - Mortgage,Pref,Cumul,Fix/Float,8.32%,$0.96,38,-,-,-,False,23 k,8 000 k, 746 k, 0 k,8.00%,$25.00,3/30/2024,-,38
-CIO,CIO-A,REIT - Office,Pref,Cumul,Fixed,9.80%,$8.10,Callable,-,-,-,False,9 k,4 480 k, 418 k, 0 k,6.63%,$25.00,10/4/2021,-,-
-CLDT,CLDT-A,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.49%,$2.88,860,-,-,-,False,4 k,4 800 k, 453 k, 0 k,6.63%,$25.00,6/30/2026,-,-
-CMRE,CMRE-B,Marine Shipping,Pref,Cumul,Fixed,7.53%,-$0.33,Callable,-,-,-,False,2 k,1 971 k,-,-,7.63%,$25.00,8/6/2018,-,-
-CMRE,CMRE-C,Marine Shipping,Pref,Cumul,Fixed,8.20%,-$0.91,Callable,-,-,-,False,3 k,3 973 k,-,-,8.50%,$25.00,1/21/2019,-,-
-CMRE,CMRE-D,Marine Shipping,Pref,Cumul,Fixed,8.45%,-$0.90,Callable,-,-,-,False,5 k,3 987 k,-,-,8.75%,$25.00,5/13/2020,-,-
-CMRE,CMRE-E,Marine Shipping,Pref,Cumul,Fixed,8.30%,-$1.73,Callable,-,-,-,False,8 k,4 574 k,-,-,8.88%,$25.00,1/30/2023,-,-
-CMS,CMS-B,Utilities - Regulated Electric,Pref,Cumul,Fixed,6.18%,$29.90,Callable,-,-,-,False,0 k, 373 k,-,-,4.50%,$110.00,-,-,-
-CMS,CMS-C,Utilities - Regulated Electric,Pref,Cumul,Fixed,5.17%,$4.68,875,-,Ba1,BBB-,True,11 k,9 200 k, 859 k, 0 k,4.20%,$25.00,7/15/2026,-,-
-CMS,CMSA,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19746,Baa3,BBB-,True,-,-, 746 k, 0 k,5.63%,$25.00,3/15/2023,3/15/2078,-
-CMS,CMSC,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19960,Baa3,BBB-,True,-,-,1 044 k, 0 k,5.88%,$25.00,10/15/2023,10/15/2078,-
-CMS,CMSD,Utilities - Regulated Electric,Bond,Interest,Fixed,5.94%,$0.28,9,20097,Baa3,BBB-,True,76 k,25 200 k,2 341 k, 0 k,5.88%,$25.00,3/1/2024,3/1/2079,-
-CNFR,CNFRZ,Insurance - Property & Casualty,Bond,Interest,Fixed,24.88%,$10.21,587,1683,-,-,False,0 k, 875 k,-,-,9.75%,$25.00,9/30/2025,9/30/2028,-
-CNO,CNO-A,Insurance - Life,Bond,Interest,Fixed,7.90%,$8.28,643,13427,Ba1,BB,False,4 k,6 000 k, 560 k, 0 k,5.13%,$25.00,11/25/2025,11/25/2060,-
-CNOB,CNOBP,Bank - Regional,Pref,Non-cumul,Reset,6.87%,$5.90,923,-,-,-,False,12 k,4 600 k, 428 k, 0 k,5.25%,$25.00,9/1/2026,-,923
-CODI,CODI-A,Conglomerate,Pref,Non-cumul,Fixed,7.28%,$0.10,Callable,-,-,-,False,7 k,4 000 k, 378 k, 0 k,7.25%,$25.00,7/30/2022,-,-
-CODI,CODI-B,Conglomerate,Pref,Cumul,Fix/Float,7.88%,$0.00,1530,-,-,-,False,23 k,4 000 k, 374 k, 0 k,7.88%,$25.00,4/30/2028,-,1530
-CODI,CODI-C,Conglomerate,Pref,Cumul,Fixed,7.80%,-$0.25,344,-,-,-,False,6 k,4 600 k, 432 k, 0 k,7.88%,$25.00,1/30/2025,-,-
-COF,COF-I,Credit Services,Pref,Non-cumul,Fixed,6.15%,$4.69,284,-,Baa3,BB,True,126 k,60 000 k,5 587 k, 0 k,5.00%,$25.00,12/1/2024,-,-
-COF,COF-J,Credit Services,Pref,Non-cumul,Fixed,6.19%,$5.62,466,-,Baa3,BB,True,98 k,50 000 k,4 656 k, 0 k,4.80%,$25.00,6/1/2025,-,-
-COF,COF-K,Credit Services,Pref,Non-cumul,Fixed,6.05%,$5.88,649,-,BB,Baa3,False,11 k,5 000 k, 467 k, 0 k,4.63%,$25.00,12/1/2025,-,-
-COF,COF-L,Credit Services,Pref,Non-cumul,Fixed,6.10%,$7.06,923,-,Baa3,BB,True,50 k,27 000 k,2 516 k, 0 k,4.38%,$25.00,9/1/2026,-,-
-COF,COF-N,Credit Services,Pref,Non-cumul,Fixed,6.05%,$7.45,923,-,Baa3,BB,True,26 k,17 000 k,1 584 k, 0 k,4.25%,$25.00,9/1/2026,-,-
-CSR,CSR-C,REIT - Residential,Pref,Cumul,Fixed,6.79%,$0.62,Callable,-,-,-,False,5 k,3 881 k,-,-,6.63%,$25.00,10/2/2022,-,-
-CSSE,CSSEN,Entertainment,Bond,Interest,Fixed,207.35%,$21.73,Callable,526,-,-,False,11 k,1 794 k,-,-,9.50%,$25.00,7/31/2022,7/31/2025,-
-CSSE,CSSEP,Entertainment,Pref,Cumul,Fixed,241.34%,$23.99,Callable,-,-,-,False,67 k,6 004 k, 557 k, 0 k,9.75%,$25.00,6/27/2023,-,-
-CSWC,CSWCZ,Asset Management,Bond,Interest,Fixed,7.10%,-$0.61,527,1623,Baa3,-,True,8 k,2 875 k,-,-,7.75%,$25.00,8/1/2025,8/1/2028,-
-CTA,CTA-A,ETF,Pref,Cumul,Fixed,6.35%,$45.76,Callable,-,-,BBB,True,1 k, 700 k,-,-,3.50%,$102.00,-,-,-
-CTA,CTA-B,ETF,Pref,Cumul,Fixed,7.72%,$50.04,Callable,-,-,BBB,True,11 k,1 673 k, 162 k, 0 k,4.50%,$120.00,-,-,-
-LUMN,CTBB,Telecom Services,Bond,Interest,Fixed,16.51%,$15.08,Callable,11881,B3,BB-,False,113 k,39 100 k,3 645 k, 0 k,6.50%,$25.00,9/1/2021,9/1/2056,-
-LUMN,CTDD,Telecom Services,Bond,Interest,Fixed,17.06%,$15.05,Callable,12168,B2,BB-,False,102 k,26 400 k,2 461 k, 0 k,6.75%,$25.00,6/15/2022,6/15/2057,-
-CTO,CTO-A,REIT - Diversified,Pref,Cumul,Fixed,7.66%,$4.20,866,-,-,-,False,3 k,2 979 k,-,-,6.38%,$25.00,7/6/2026,-,-
-CUBI,CUBB,Bank - Regional,Bond,Interest,Fixed,8.01%,$4.75,2139,3965,-,-,False,2 k,2 990 k,-,-,5.38%,$25.00,12/30/2029,12/30/2034,-
-CUBI,CUBI-E,Bank - Regional,Pref,Non-cumul,Fix/Float,10.43%,-$0.82,Callable,-,-,-,False,4 k,2 300 k,-,-,10.77%,$25.00,6/15/2021,-,Floating
-CUBI,CUBI-F,Bank - Regional,Pref,Non-cumul,Fix/Float,10.19%,-$0.49,Callable,-,-,-,False,8 k,3 400 k,-,-,10.39%,$25.00,12/15/2021,-,Floating
-DBRG,DBRG-H,Real Estate Services,Pref,Cumul,Fixed,7.40%,$0.93,Callable,-,-,-,False,12 k,8 395 k,-,-,7.13%,$25.00,4/13/2020,-,-
-DBRG,DBRG-I,Real Estate Services,Pref,Cumul,Fixed,7.42%,$0.91,Callable,-,-,-,False,16 k,12 867 k,-,-,7.15%,$25.00,6/5/2022,-,-
-DBRG,DBRG-J,Real Estate Services,Pref,Cumul,Fixed,7.42%,$1.00,Callable,-,-,-,False,21 k,11 614 k,-,-,7.13%,$25.00,9/22/2022,-,-
-DCOM,DCOMP,Bank - Regional,Pref,Non-cumul,Fixed,8.28%,$8.39,360,-,-,-,False,10 k,5 299 k, 488 k, 0 k,5.50%,$25.00,2/15/2025,-,-
-DDS,DDT,Department Stores,Bond,Interest,Fixed,7.07%,-$0.96,Callable,5275,Ba1,B+,False,7 k,8 000 k, 757 k, 0 k,7.50%,$25.00,8/12/2003,8/1/2038,-
-DHC,DHCNI,REIT - Healthcare,Bond,Interest,Fixed,10.72%,$10.20,Callable,6736,B3,B,False,15 k,14 000 k,-,-,5.63%,$25.00,8/1/2017,8/1/2042,-
-DHC,DHCNL,REIT - Healthcare,Bond,Interest,Fixed,10.98%,$9.77,Callable,8016,B3,B,False,15 k,10 000 k,-,-,6.25%,$25.00,2/18/2021,2/1/2046,-
-DLNG,DLNG-A,Oil & Gas Midstream,Pref,Cumul,Fixed,8.94%,-$0.18,Callable,-,-,-,False,7 k,3 000 k,-,-,9.00%,$25.00,8/12/2020,-,-
-DLNG,DLNG-B,Oil & Gas Midstream,Pref,Cumul,Fix/Float,10.86%,-$0.70,Callable,-,-,-,False,4 k,2 200 k,-,-,11.17%,$25.00,11/22/2023,-,Floating
-DLR,DLR-J,REIT - Specialty,Pref,Cumul,Fixed,5.80%,$2.36,Callable,-,Baa3,BB+,True,10 k,8 000 k, 746 k, 0 k,5.25%,$25.00,8/7/2022,-,-
-DLR,DLR-K,REIT - Specialty,Pref,Cumul,Fixed,5.95%,$0.41,23,-,Baa3,BB+,True,16 k,8 400 k, 783 k, 0 k,5.85%,$25.00,3/15/2024,-,-
-DLR,DLR-L,REIT - Specialty,Pref,Cumul,Fixed,5.75%,$2.40,226,-,Baa3,BB+,True,19 k,13 800 k,1 286 k, 0 k,5.20%,$25.00,10/4/2024,-,-
-DRH,DRH-A,REIT - Hotel & Motel,Pref,Cumul,Fixed,8.06%,-$0.58,557,-,-,-,False,8 k,4 760 k, 457 k, 0 k,8.25%,$25.00,8/31/2025,-,-
-DSX,DSX-B,Marine Shipping,Pref,Cumul,Fixed,8.67%,-$0.59,Callable,-,-,-,False,3 k,2 600 k,-,-,8.88%,$25.00,2/14/2019,-,-
-DTE,DTB,Utilities - Regulated Electric,Bond,Interest,Fixed,5.32%,$4.22,602,20691,Baa3,BBB-,True,16 k,9 200 k, 858 k, 0 k,4.38%,$25.00,10/15/2025,10/15/2080,-
-DTE,DTG,Utilities - Regulated Electric,Bond,Interest,Fixed,5.25%,$3.95,1014,21103,Baa3,BBB-,True,15 k,11 200 k,1 044 k, 0 k,4.38%,$25.00,12/1/2026,12/1/2081,-
-DTE,DTW,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19642,Baa3,BBB-,True,-,-,1 491 k, 0 k,5.25%,$25.00,12/1/2022,12/1/2077,-
-DUK,DUK-A,Utilities - Regulated Electric,Pref,Cumul,Fixed,5.74%,-$0.06,115,-,Ba1,BBB-,True,56 k,40 000 k,3 715 k, 0 k,5.75%,$25.00,6/15/2024,-,-
-DUK,DUKB,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19930,Baa3,BBB-,True,-,-,1 864 k, 0 k,5.63%,$25.00,9/15/2023,9/15/2078,-
-DX,DX-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.19%,$1.00,419,-,-,-,False,8 k,4 460 k, 416 k, 0 k,6.90%,$25.00,4/15/2025,-,419
-ETR,EAI,Utilities - Regulated Electric,Bond,Interest,Fixed,Special,-$45.74,Callable,15533,A2,A,True,-,-,1 534 k, 0 k,4.88%,$25.00,9/1/2021,9/1/2066,-
-ECC,ECC-D,CEF - Debt,Pref,Cumul,Fixed,8.40%,$4.90,1012,-,-,-,False,16 k,1 384 k,-,-,6.75%,$25.00,11/29/2026,-,-
-ECC,ECCC,CEF - Debt,Pref,Cumul,Fixed,8.65%,$2.90,116,2686,-,-,False,5 k,2 173 k,-,-,6.50%,$25.00,6/16/2024,6/30/2031,-
-ECC,ECCV,CEF - Debt,Bond,Interest,Fixed,7.90%,$2.56,345,1806,-,-,False,5 k,3 730 k,-,-,5.38%,$25.00,1/31/2025,1/31/2029,-
-ECC,ECCW,CEF - Debt,Bond,Interest,Fixed,7.44%,$0.94,37,2595,-,-,False,1 k,1 794 k,-,-,6.75%,$25.00,3/29/2024,3/31/2031,-
-ECC,ECCX,CEF - Debt,Bond,Interest,Fixed,7.36%,$0.60,Callable,1530,-,-,False,3 k,1 297 k,-,-,6.69%,$25.00,4/30/2021,4/30/2028,-
-ECF,ECF-A,Asset Management,Pref,Cumul,Fixed,5.71%,$2.02,Callable,-,-,-,False,2 k,1 162 k,-,-,5.25%,$25.00,9/18/2022,-,-
-EFC,EFC-A,REIT - Mortgage,Pref,Cumul,Fix/Float,6.97%,$0.79,252,-,-,-,False,6 k,4 600 k, 424 k, 0 k,6.75%,$25.00,10/30/2024,-,252
-EFC,EFC-B,REIT - Mortgage,Pref,Cumul,Reset,7.44%,$4.01,1074,-,-,-,False,3 k,4 820 k, 447 k, 0 k,6.25%,$25.00,1/30/2027,-,1074
-EFC,EFC-C,REIT - Mortgage,Pref,Cumul,Reset,8.84%,$0.62,1530,-,-,-,False,4 k,4 000 k, 371 k, 0 k,8.63%,$25.00,4/30/2028,-,1530
-EFC,EFC-D,REIT - Mortgage,Pref,Cumul,Fixed,8.15%,$3.52,Callable,-,-,-,False,1 k, 380 k,-,-,7.00%,$25.00,5/12/2022,-,-
-EFC,EFC-E,REIT - Mortgage,Pref,Cumul,Fix/Float,8.20%,-$0.15,38,-,-,-,False,3 k, 957 k,-,-,8.25%,$25.00,3/30/2024,-,38
-EFSC,EFSCP,Bank - Regional,Pref,Non-cumul,Fixed,7.56%,$8.46,1028,-,-,-,False,4 k,3 000 k,-,-,5.00%,$25.00,12/15/2026,-,-
-EIC,EICA,CEF - Debt,Pref,Cumul,Fixed,7.48%,$1.50,Callable,982,-,-,False,4 k,1 522 k,-,-,5.00%,$25.00,10/30/2023,10/30/2026,-
-EIC,EICB,CEF - Debt,Pref,Cumul,Fixed,7.75%,$0.00,525,1622,-,-,False,5 k,1 418 k,-,-,7.75%,$25.00,7/30/2025,7/31/2028,-
-ETR,ELC,Utilities - Regulated Electric,Bond,Interest,Fixed,Error,Error,Callable,15533,A2,A,True,-,28 665 k,1 007 k, 0 k,4.88%,$25.00,9/1/2021,9/1/2066,-
-ETR,EMP,Utilities - Regulated Electric,Bond,Interest,Fixed,Error,Error,Callable,15563,A2,A,True,771 k,340 737 k, 969 k, 0 k,4.90%,$25.00,10/1/2021,10/1/2066,-
-ETR,ENJ,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,10511,Baa2,BBB,True,-,-,-,-,5.00%,$25.00,12/1/2017,12/1/2052,-
-ETR,ENO,Utilities - Regulated Electric,Bond,Interest,Fixed,7.72%,$6.90,Callable,15380,Baa2,BBB,True,28 k,87 000 k, 411 k, 0 k,5.50%,$25.00,4/1/2021,4/1/2066,-
-EPR,EPR-G,REIT - Specialty,Pref,Cumul,Fixed,7.35%,$5.45,Callable,-,Ba1,B+,False,8 k,6 000 k, 561 k, 0 k,5.75%,$25.00,11/30/2022,-,-
-EQH,EQH-A,Insurance - Diversified,Pref,Non-cumul,Fixed,5.78%,$2.31,298,-,Baa3,BBB-,True,51 k,32 000 k,2 946 k, 0 k,5.25%,$25.00,12/15/2024,-,-
-EQH,EQH-C,Insurance - Diversified,Pref,Non-cumul,Fixed,5.86%,$6.67,753,-,Baa3,BBB-,True,121 k,12 000 k,1 082 k, 0 k,4.30%,$25.00,3/15/2026,-,-
-ESGR,ESGRO,Insurance - Diversified,Pref,Non-cumul,Fixed,7.05%,$0.19,9,-,-,BB+,False,7 k,4 400 k, 410 k, 0 k,7.00%,$25.00,3/1/2024,-,-
-ESGR,ESGRP,Insurance - Diversified,Pref,Non-cumul,Fix/Float,6.93%,-$0.24,1673,-,-,BB+,False,16 k,16 000 k,1 511 k, 0 k,7.00%,$25.00,9/20/2028,-,1673
-ETR,ETI-,Utilities - Regulated Electric,Pref,Cumul,Fixed,5.68%,$1.34,237,-,Ba1,BBB-,True,2 k,1 400 k,-,-,5.38%,$25.00,10/15/2024,-,-
-F,F-B,Auto Manufacturer,Bond,Interest,Fixed,6.43%,$0.80,101,12884,Ba2,BB+,False,42 k,30 000 k,2 796 k, 0 k,6.20%,$25.00,6/1/2024,6/1/2059,-
-F,F-C,Auto Manufacturer,Bond,Interest,Fixed,6.33%,$1.15,284,13067,Ba2,BB,False,76 k,32 000 k,2 983 k, 0 k,6.00%,$25.00,12/1/2024,12/1/2059,-
-F,F-D,Auto Manufacturer,Bond,Interest,Fixed,6.55%,$0.19,1271,14055,Ba2,BB+,False,74 k,24 000 k,2 237 k, 0 k,6.50%,$25.00,8/15/2027,8/15/2062,-
-FAT,FATBP,Restaurants,Pref,Cumul,Fixed,14.63%,$11.56,Callable,-,-,-,False,10 k,7 380 k, 687 k, 0 k,8.25%,$26.50,7/16/2021,-,-
-FBIO,FBIOP,Biotechnology,Pref,Cumul,Fixed,16.04%,$10.39,Callable,-,-,-,False,15 k,3 427 k,-,-,9.38%,$25.00,12/15/2022,-,-
-FBRT,FBRT-E,REIT - Mortgage,Pref,Cumul,Fixed,9.04%,$4.26,Callable,-,-,-,False,23 k,10 329 k,-,-,7.50%,$25.00,5/13/2018,-,-
-FCNCA,FCNCO,Bank - Regional,Pref,Cumul,Fixed,6.15%,$2.14,298,-,Ba1,-,False,18 k,8 000 k,-,-,5.63%,$25.00,12/15/2024,-,-
-FCNCA,FCNCP,Bank - Regional,Pref,Cumul,Fixed,6.20%,$3.33,388,-,Ba1,-,False,26 k,13 800 k,1 285 k, 0 k,5.38%,$25.00,3/15/2025,-,-
-FGBI,FGBIP,Bank - Regional,Pref,Non-cumul,Fixed,9.18%,$6.61,791,-,-,-,False,2 k,1 380 k,-,-,6.75%,$25.00,4/22/2026,-,-
-FGF,FGFPP,Insurance - Diversified,Pref,Cumul,Fixed,10.81%,$6.50,Callable,-,-,-,False,2 k, 895 k,-,-,8.00%,$25.00,2/28/2023,-,-
-FHN,FHN-B,Bank - Regional,Pref,Non-cumul,Fix/Float,6.90%,$1.00,527,-,Ba1,-,False,8 k,3 200 k,-,-,6.63%,$25.00,8/1/2025,-,527
-FHN,FHN-C,Bank - Regional,Pref,Non-cumul,Fix/Float,6.96%,$1.30,800,-,Ba2,BB-,False,5 k,2 300 k,-,-,6.60%,$25.00,5/1/2026,-,800
-FHN,FHN-D,Bank - Regional,Pref,Non-cumul,Fix/Float,6.15%,$0.22,70,-,Ba2,BB-,False,13 k,4 000 k, 373 k, 0 k,6.10%,$25.00,5/1/2024,-,70
-FHN,FHN-E,Bank - Regional,Pref,Non-cumul,Fixed,6.81%,$1.14,597,-,Ba2,BB-,False,10 k,6 000 k, 557 k, 0 k,6.50%,$25.00,10/10/2025,-,-
-FHN,FHN-F,Bank - Regional,Pref,Non-cumul,Fixed,6.87%,$7.90,870,-,Ba2,BB-,False,12 k,6 000 k, 557 k, 0 k,4.70%,$25.00,7/10/2026,-,-
-FITB,FITBI,Bank - Regional,Pref,Non-cumul,Fix/Float,9.18%,-$0.42,Callable,-,Baa3,BB+,True,26 k,18 000 k,1 672 k, 0 k,9.34%,$25.00,12/31/2023,-,Floating
-FITB,FITBO,Bank - Regional,Pref,Non-cumul,Fixed,5.39%,$2.02,222,-,Baa3,BB+,True,15 k,10 000 k, 931 k, 0 k,4.95%,$25.00,9/30/2024,-,-
-FITB,FITBP,Bank - Regional,Pref,Non-cumul,Fixed,6.04%,$0.18,Callable,-,Baa3,BB+,True,17 k,8 000 k, 745 k, 0 k,6.00%,$25.00,11/25/2022,-,-
+BAC,BML-J,Bank - Diversified,Pref,Non-cumul,Floating,7.16%,$2.93,Callable,-,Baa3,BBB-,True,36 k,8 412 k, 415 k, 0 k,6.32%,$25.00,11/28/2010,-,Floating
+BAC,BML-L,Bank - Diversified,Pref,Non-cumul,Floating,6.95%,$3.16,Callable,-,Baa3,BBB-,True,20 k,16 707 k, 824 k, 0 k,6.07%,$25.00,5/21/2012,-,Floating
+BN,BNH,Asset Management,Bond,Interest,Fixed,6.84%,$7.92,602,20691,Baa2,BBB,True,21 k,16 000 k,1 491 k, 0 k,4.63%,$25.00,10/16/2025,10/16/2080,-
+BN,BNJ,Asset Management,Bond,Interest,Fixed,7.28%,$9.54,641,-,Baa2,BBB,True,18 k,9 200 k, 858 k, 0 k,4.50%,$25.00,11/24/2025,-,-
+BOH,BOH-A,Bank - Regional,Pref,Non-cumul,Fixed,6.63%,$8.50,891,-,Baa2,-,True,18 k,7 200 k, 663 k, 0 k,4.38%,$25.00,8/1/2026,-,-
+BPOP,BPOPM,Bank - Regional,Pref,Cumul,Fixed,5.88%,-$0.48,Callable,3935,Ba2,B+,False,2 k,4 041 k, 377 k, 0 k,6.13%,$25.00,12/1/2009,12/1/2034,-
+BN,BPYPM,Asset Management,Pref,Cumul,Fixed,12.10%,$12.08,885,20974,-,-,False,79 k,26 845 k,-,-,6.25%,$25.00,7/26/2026,7/26/2081,-
+BN,BPYPN,Asset Management,Pref,Cumul,Fixed,12.37%,$13.38,403,-,-,BB,False,28 k,11 500 k,-,-,5.75%,$25.00,3/31/2025,-,-
+BN,BPYPO,Asset Management,Pref,Cumul,Fixed,12.45%,$12.20,221,-,-,BB,False,81 k,10 000 k,-,-,6.38%,$25.00,9/30/2024,-,-
+BN,BPYPP,Asset Management,Pref,Cumul,Fixed,12.40%,$11.90,38,-,-,BB,False,23 k,7 360 k,-,-,6.50%,$25.00,3/31/2024,-,-
+BW,BW-A,Specialty Industrial Machinery,Pref,Cumul,Fixed,16.49%,$13.25,805,-,-,-,False,26 k,7 669 k, 717 k, 0 k,7.75%,$25.00,5/7/2026,-,-
+BWB,BWBBP,Bank - Regional,Pref,Non-cumul,Fixed,7.90%,$6.40,907,-,-,-,False,3 k,2 760 k,-,-,5.88%,$25.00,8/17/2026,-,-
+BW,BWNB,Specialty Industrial Machinery,Bond,Interest,Fixed,Special,-,Callable,1043,-,-,False,17 k,6 058 k, 566 k, 0 k,6.50%,-,-,12/31/2026,-
+BW,BWSN,Specialty Industrial Machinery,Bond,Interest,Fixed,22.20%,$6.10,Callable,737,-,-,False,17 k,7 721 k, 719 k, 0 k,8.13%,$25.50,2/28/2023,2/28/2026,-
+C,C-J,Bank - Diversified,Pref,Non-cumul,Fix/Float,9.22%,-$1.23,Callable,-,Ba1,BB+,False,78 k,22 000 k,2 048 k, 0 k,9.67%,$25.00,9/30/2023,-,Floating
+C,C-N,Bank - Diversified,Pref,Cumul,Fix/Float,Special,-$4.18,Callable,6095,Baa3,BB+,True,86 k,89 840 k,8 365 k, 0 k,12.00%,$25.00,10/30/2015,10/30/2040,Floating
+CADE,CADE-A,Bank - Regional,Pref,Non-cumul,Fixed,6.69%,$4.45,272,-,Ba1,BB+,False,19 k,6 900 k,-,-,5.50%,$25.00,11/20/2024,-,-
+CCIF,CCIA,Asset Management,Pref,Cumul,Fixed,8.08%,-$0.65,617,1713,-,-,False,5 k,2 080 k,-,-,8.75%,$25.00,10/31/2025,10/31/2028,-
+CCLD,CCLDP,Health Information Services,Pref,Cumul,Fixed,39.80%,$18.09,Callable,-,-,-,False,20 k,4 526 k, 439 k, 0 k,11.00%,$25.00,11/4/2020,-,-
+CCNE,CCNEP,Bank - Regional,Pref,Non-cumul,Fixed,7.89%,$2.41,557,-,-,-,False,2 k,2 415 k,-,-,7.13%,$25.00,9/1/2025,-,-
+WHLR,CDR-B,REIT - Retail,Pref,Cumul,Fixed,11.72%,$9.54,Callable,-,-,-,False,4 k,1 450 k,-,-,7.25%,$25.00,5/22/2017,-,-
+WHLR,CDR-C,REIT - Retail,Pref,Cumul,Fixed,12.85%,$12.35,Callable,-,-,-,False,6 k,5 000 k, 475 k, 0 k,6.50%,$25.00,8/24/2022,-,-
+CDZI,CDZIP,Utilities - Regulated Water,Pref,Cumul,Fixed,15.21%,$10.41,861,-,-,-,False,4 k,2 300 k,-,-,8.88%,$25.00,7/2/2026,-,-
+CFG,CFG-D,Bank - Regional,Pref,Non-cumul,Fix/Float,6.38%,$0.10,44,-,-,BB+,False,40 k,12 000 k,1 117 k, 0 k,6.35%,$25.00,4/6/2024,-,44
+CFG,CFG-E,Bank - Regional,Pref,Non-cumul,Fixed,6.17%,$4.75,319,-,-,BB+,False,38 k,18 000 k,1 676 k, 0 k,5.00%,$25.00,1/6/2025,-,-
+CFR,CFR-B,Bank - Regional,Pref,Non-cumul,Fixed,5.85%,$5.97,662,-,Baa2,BBB-,True,15 k,6 000 k, 561 k, 0 k,4.45%,$25.00,12/15/2025,-,-
+CG,CGABL,Asset Management,Bond,Interest,Fixed,6.20%,$5.71,813,13597,-,BBB,True,18 k,20 000 k,1 871 k, 0 k,4.63%,$25.00,5/15/2026,5/15/2061,-
+CGBD,CGBDL,Asset Management,Bond,Interest,Fixed,7.68%,-$0.52,648,1744,-,-,False,18 k,3 400 k,-,-,8.20%,$25.00,12/1/2025,12/1/2028,-
+CHMI,CHMI-A,REIT - Mortgage,Pref,Cumul,Fixed,8.69%,$1.40,Callable,-,-,-,False,4 k,2 782 k,-,-,8.20%,$25.00,8/17/2022,-,-
+CHMI,CHMI-B,REIT - Mortgage,Pref,Cumul,Fix/Float,8.59%,$0.99,53,-,-,-,False,26 k,1 740 k,-,-,8.25%,$25.00,4/15/2024,-,53
+-,CHSCL,Farm Products,Pref,Cumul,Fixed,7.23%,-$0.94,334,-,-,-,False,31 k,20 700 k,1 929 k, 0 k,7.50%,$25.00,1/21/2025,-,-
+-,CHSCM,Farm Products,Pref,Cumul,Reset,6.67%,-$0.29,221,-,-,-,False,35 k,19 700 k,1 836 k, 0 k,6.75%,$25.00,9/30/2024,-,221
+-,CHSCN,Farm Products,Pref,Cumul,Reset,6.92%,-$0.66,38,-,-,-,False,19 k,16 800 k,1 566 k, 0 k,7.10%,$25.00,3/31/2024,-,38
+-,CHSCO,Farm Products,Pref,Cumul,Fixed,7.39%,-$1.64,Callable,-,-,-,False,17 k,21 459 k,2 000 k, 0 k,7.88%,$25.00,9/26/2023,-,-
+-,CHSCP,Farm Products,Pref,Cumul,Fixed,Special,-$6.32,Callable,-,-,-,False,7 k,12 272 k,1 144 k, 0 k,8.00%,$25.00,7/18/2023,-,-
+CIM,CIM-A,REIT - Mortgage,Pref,Cumul,Fixed,9.35%,$3.61,Callable,-,-,-,False,8 k,5 800 k, 543 k, 0 k,8.00%,$25.00,10/30/2021,-,-
+CIM,CIM-B,REIT - Mortgage,Pref,Cumul,Fix/Float,8.18%,$0.55,37,-,-,-,False,53 k,13 000 k,1 212 k, 0 k,8.00%,$25.00,3/30/2024,-,37
+CIM,CIM-C,REIT - Mortgage,Pref,Cumul,Fix/Float,9.27%,$4.09,586,-,-,-,False,21 k,10 400 k, 966 k, 0 k,7.75%,$25.00,9/30/2025,-,586
+CIM,CIM-D,REIT - Mortgage,Pref,Cumul,Fix/Float,8.30%,$0.91,37,-,-,-,False,23 k,8 000 k, 746 k, 0 k,8.00%,$25.00,3/30/2024,-,37
+CIO,CIO-A,REIT - Office,Pref,Cumul,Fixed,9.99%,$8.42,Callable,-,-,-,False,9 k,4 480 k, 418 k, 0 k,6.63%,$25.00,10/4/2021,-,-
+CLDT,CLDT-A,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.49%,$2.88,859,-,-,-,False,4 k,4 800 k, 453 k, 0 k,6.63%,$25.00,6/30/2026,-,-
+CMRE,CMRE-B,Marine Shipping,Pref,Cumul,Fixed,7.59%,-$0.12,Callable,-,-,-,False,1 k,1 971 k,-,-,7.63%,$25.00,8/6/2018,-,-
+CMRE,CMRE-C,Marine Shipping,Pref,Cumul,Fixed,8.33%,-$0.52,Callable,-,-,-,False,3 k,3 973 k,-,-,8.50%,$25.00,1/21/2019,-,-
+CMRE,CMRE-D,Marine Shipping,Pref,Cumul,Fixed,8.41%,-$1.00,Callable,-,-,-,False,5 k,3 987 k,-,-,8.75%,$25.00,5/13/2020,-,-
+CMRE,CMRE-E,Marine Shipping,Pref,Cumul,Fixed,8.32%,-$1.68,Callable,-,-,-,False,9 k,4 574 k,-,-,8.88%,$25.00,1/30/2023,-,-
+CMS,CMS-B,Utilities - Regulated Electric,Pref,Cumul,Fixed,6.18%,$29.85,Callable,-,-,-,False,1 k, 373 k,-,-,4.50%,$110.00,-,-,-
+CMS,CMS-C,Utilities - Regulated Electric,Pref,Cumul,Fixed,5.17%,$4.68,874,-,Ba1,BBB-,True,11 k,9 200 k, 859 k, 0 k,4.20%,$25.00,7/15/2026,-,-
+CMS,CMSA,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19745,Baa3,BBB-,True,-,-, 746 k, 0 k,5.63%,$25.00,3/15/2023,3/15/2078,-
+CMS,CMSC,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19959,Baa3,BBB-,True,-,-,1 044 k, 0 k,5.88%,$25.00,10/15/2023,10/15/2078,-
+CMS,CMSD,Utilities - Regulated Electric,Bond,Interest,Fixed,5.94%,$0.28,8,20096,Baa3,BBB-,True,75 k,25 200 k,2 341 k, 0 k,5.88%,$25.00,3/1/2024,3/1/2079,-
+CNFR,CNFRZ,Insurance - Property & Casualty,Bond,Interest,Fixed,24.89%,$10.21,586,1682,-,-,False,0 k, 875 k,-,-,9.75%,$25.00,9/30/2025,9/30/2028,-
+CNO,CNO-A,Insurance - Life,Bond,Interest,Fixed,7.88%,$8.25,642,13426,Ba1,BB,False,4 k,6 000 k, 560 k, 0 k,5.13%,$25.00,11/25/2025,11/25/2060,-
+CNOB,CNOBP,Bank - Regional,Pref,Non-cumul,Reset,6.90%,$5.99,922,-,-,-,False,12 k,4 600 k, 428 k, 0 k,5.25%,$25.00,9/1/2026,-,922
+CODI,CODI-A,Conglomerate,Pref,Non-cumul,Fixed,7.38%,$0.45,Callable,-,-,-,False,7 k,4 000 k, 378 k, 0 k,7.25%,$25.00,7/30/2022,-,-
+CODI,CODI-B,Conglomerate,Pref,Cumul,Fix/Float,7.92%,$0.15,1529,-,-,-,False,23 k,4 000 k, 374 k, 0 k,7.88%,$25.00,4/30/2028,-,1529
+CODI,CODI-C,Conglomerate,Pref,Cumul,Fixed,7.78%,-$0.30,343,-,-,-,False,6 k,4 600 k, 432 k, 0 k,7.88%,$25.00,1/30/2025,-,-
+COF,COF-I,Credit Services,Pref,Non-cumul,Fixed,6.25%,$5.01,283,-,Baa3,BB,True,125 k,60 000 k,5 587 k, 0 k,5.00%,$25.00,12/1/2024,-,-
+COF,COF-J,Credit Services,Pref,Non-cumul,Fixed,6.27%,$5.85,465,-,Baa3,BB,True,97 k,50 000 k,4 656 k, 0 k,4.80%,$25.00,6/1/2025,-,-
+COF,COF-K,Credit Services,Pref,Non-cumul,Fixed,6.09%,$6.00,648,-,BB,Baa3,False,11 k,5 000 k, 467 k, 0 k,4.63%,$25.00,12/1/2025,-,-
+COF,COF-L,Credit Services,Pref,Non-cumul,Fixed,6.13%,$7.17,922,-,Baa3,BB,True,48 k,27 000 k,2 516 k, 0 k,4.38%,$25.00,9/1/2026,-,-
+COF,COF-N,Credit Services,Pref,Non-cumul,Fixed,6.07%,$7.49,922,-,Baa3,BB,True,26 k,17 000 k,1 584 k, 0 k,4.25%,$25.00,9/1/2026,-,-
+CSR,CSR-C,REIT - Residential,Pref,Cumul,Fixed,6.80%,$0.63,Callable,-,-,-,False,5 k,3 881 k,-,-,6.63%,$25.00,10/2/2022,-,-
+CSSE,CSSEN,Entertainment,Bond,Interest,Fixed,201.62%,$21.57,Callable,525,-,-,False,12 k,1 794 k,-,-,9.50%,$25.00,7/31/2022,7/31/2025,-
+CSSE,CSSEP,Entertainment,Pref,Cumul,Fixed,241.34%,$23.99,Callable,-,-,-,False,65 k,6 004 k, 557 k, 0 k,9.75%,$25.00,6/27/2023,-,-
+CSWC,CSWCZ,Asset Management,Bond,Interest,Fixed,7.09%,-$0.62,526,1622,Baa3,-,True,8 k,2 875 k,-,-,7.75%,$25.00,8/1/2025,8/1/2028,-
+CTA,CTA-A,ETF,Pref,Cumul,Fixed,6.26%,$44.98,Callable,-,-,BBB,True,1 k, 700 k,-,-,3.50%,$102.00,-,-,-
+CTA,CTA-B,ETF,Pref,Cumul,Fixed,7.73%,$50.15,Callable,-,-,BBB,True,11 k,1 673 k, 162 k, 0 k,4.50%,$120.00,-,-,-
+LUMN,CTBB,Telecom Services,Bond,Interest,Fixed,16.37%,$14.99,Callable,11880,B3,BB-,False,112 k,39 100 k,3 645 k, 0 k,6.50%,$25.00,9/1/2021,9/1/2056,-
+LUMN,CTDD,Telecom Services,Bond,Interest,Fixed,16.91%,$14.96,Callable,12167,B2,BB-,False,103 k,26 400 k,2 461 k, 0 k,6.75%,$25.00,6/15/2022,6/15/2057,-
+CTO,CTO-A,REIT - Diversified,Pref,Cumul,Fixed,7.64%,$4.13,865,-,-,-,False,2 k,2 979 k,-,-,6.38%,$25.00,7/6/2026,-,-
+CUBI,CUBB,Bank - Regional,Bond,Interest,Fixed,7.98%,$4.70,2138,3964,-,-,False,2 k,2 990 k,-,-,5.38%,$25.00,12/30/2029,12/30/2034,-
+CUBI,CUBI-E,Bank - Regional,Pref,Non-cumul,Fix/Float,10.48%,-$0.70,Callable,-,-,-,False,4 k,2 300 k,-,-,10.77%,$25.00,6/15/2021,-,Floating
+CUBI,CUBI-F,Bank - Regional,Pref,Non-cumul,Fix/Float,10.21%,-$0.45,Callable,-,-,-,False,8 k,3 400 k,-,-,10.39%,$25.00,12/15/2021,-,Floating
+DBRG,DBRG-H,Real Estate Services,Pref,Cumul,Fixed,7.41%,$0.95,Callable,-,-,-,False,13 k,8 395 k,-,-,7.13%,$25.00,4/13/2020,-,-
+DBRG,DBRG-I,Real Estate Services,Pref,Cumul,Fixed,7.44%,$0.97,Callable,-,-,-,False,16 k,12 867 k,-,-,7.15%,$25.00,6/5/2022,-,-
+DBRG,DBRG-J,Real Estate Services,Pref,Cumul,Fixed,7.41%,$0.95,Callable,-,-,-,False,22 k,11 614 k,-,-,7.13%,$25.00,9/22/2022,-,-
+DCOM,DCOMP,Bank - Regional,Pref,Non-cumul,Fixed,8.38%,$8.59,359,-,-,-,False,11 k,5 299 k, 488 k, 0 k,5.50%,$25.00,2/15/2025,-,-
+DDS,DDT,Department Stores,Bond,Interest,Fixed,7.06%,-$1.00,Callable,5274,Ba1,B+,False,7 k,8 000 k, 757 k, 0 k,7.50%,$25.00,8/12/2003,8/1/2038,-
+DHC,DHCNI,REIT - Healthcare,Bond,Interest,Fixed,10.97%,$10.53,Callable,6735,B3,B,False,14 k,14 000 k,-,-,5.63%,$25.00,8/1/2017,8/1/2042,-
+DHC,DHCNL,REIT - Healthcare,Bond,Interest,Fixed,11.04%,$9.86,Callable,8015,B3,B,False,14 k,10 000 k,-,-,6.25%,$25.00,2/18/2021,2/1/2046,-
+DLNG,DLNG-A,Oil & Gas Midstream,Pref,Cumul,Fixed,8.95%,-$0.15,Callable,-,-,-,False,7 k,3 000 k,-,-,9.00%,$25.00,8/12/2020,-,-
+DLNG,DLNG-B,Oil & Gas Midstream,Pref,Cumul,Fix/Float,10.85%,-$0.73,Callable,-,-,-,False,4 k,2 200 k,-,-,11.17%,$25.00,11/22/2023,-,Floating
+DLR,DLR-J,REIT - Specialty,Pref,Cumul,Fixed,5.82%,$2.44,Callable,-,Baa3,BB+,True,11 k,8 000 k, 746 k, 0 k,5.25%,$25.00,8/7/2022,-,-
+DLR,DLR-K,REIT - Specialty,Pref,Cumul,Fixed,5.95%,$0.42,22,-,Baa3,BB+,True,16 k,8 400 k, 783 k, 0 k,5.85%,$25.00,3/15/2024,-,-
+DLR,DLR-L,REIT - Specialty,Pref,Cumul,Fixed,5.78%,$2.49,225,-,Baa3,BB+,True,19 k,13 800 k,1 286 k, 0 k,5.20%,$25.00,10/4/2024,-,-
+DRH,DRH-A,REIT - Hotel & Motel,Pref,Cumul,Fixed,8.06%,-$0.60,556,-,-,-,False,8 k,4 760 k, 457 k, 0 k,8.25%,$25.00,8/31/2025,-,-
+DSX,DSX-B,Marine Shipping,Pref,Cumul,Fixed,8.58%,-$0.87,Callable,-,-,-,False,3 k,2 600 k,-,-,8.88%,$25.00,2/14/2019,-,-
+DTE,DTB,Utilities - Regulated Electric,Bond,Interest,Fixed,5.30%,$4.14,601,20690,Baa3,BBB-,True,15 k,9 200 k, 858 k, 0 k,4.38%,$25.00,10/15/2025,10/15/2080,-
+DTE,DTG,Utilities - Regulated Electric,Bond,Interest,Fixed,5.17%,$3.65,1013,21102,Baa3,BBB-,True,15 k,11 200 k,1 044 k, 0 k,4.38%,$25.00,12/1/2026,12/1/2081,-
+DTE,DTW,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19641,Baa3,BBB-,True,-,-,1 491 k, 0 k,5.25%,$25.00,12/1/2022,12/1/2077,-
+DUK,DUK-A,Utilities - Regulated Electric,Pref,Cumul,Fixed,5.75%,$0.00,114,-,Ba1,BBB-,True,54 k,40 000 k,3 715 k, 0 k,5.75%,$25.00,6/15/2024,-,-
+DUK,DUKB,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19929,Baa3,BBB-,True,-,-,1 864 k, 0 k,5.63%,$25.00,9/15/2023,9/15/2078,-
+DX,DX-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.13%,$0.80,418,-,-,-,False,7 k,4 460 k, 416 k, 0 k,6.90%,$25.00,4/15/2025,-,418
+ETR,EAI,Utilities - Regulated Electric,Bond,Interest,Fixed,Special,-$46.48,Callable,15532,A2,A,True,-,-,1 534 k, 0 k,4.88%,$25.00,9/1/2021,9/1/2066,-
+ECC,ECC-D,CEF - Debt,Pref,Cumul,Fixed,8.40%,$4.92,1011,-,-,-,False,16 k,1 384 k,-,-,6.75%,$25.00,11/29/2026,-,-
+ECC,ECCC,CEF - Debt,Pref,Cumul,Fixed,8.65%,$2.90,115,2685,-,-,False,5 k,2 173 k,-,-,6.50%,$25.00,6/16/2024,6/30/2031,-
+ECC,ECCV,CEF - Debt,Bond,Interest,Fixed,7.91%,$2.57,344,1805,-,-,False,5 k,3 730 k,-,-,5.38%,$25.00,1/31/2025,1/31/2029,-
+ECC,ECCW,CEF - Debt,Bond,Interest,Fixed,7.48%,$1.00,36,2594,-,-,False,1 k,1 794 k,-,-,6.75%,$25.00,3/29/2024,3/31/2031,-
+ECC,ECCX,CEF - Debt,Bond,Interest,Fixed,7.22%,$0.48,Callable,1529,-,-,False,3 k,1 297 k,-,-,6.69%,$25.00,4/30/2021,4/30/2028,-
+ECF,ECF-A,Asset Management,Pref,Cumul,Fixed,5.76%,$2.20,Callable,-,-,-,False,2 k,1 162 k,-,-,5.25%,$25.00,9/18/2022,-,-
+EFC,EFC-A,REIT - Mortgage,Pref,Cumul,Fix/Float,6.99%,$0.86,251,-,-,-,False,6 k,4 600 k, 424 k, 0 k,6.75%,$25.00,10/30/2024,-,251
+EFC,EFC-B,REIT - Mortgage,Pref,Cumul,Reset,7.45%,$4.02,1073,-,-,-,False,3 k,4 820 k, 447 k, 0 k,6.25%,$25.00,1/30/2027,-,1073
+EFC,EFC-C,REIT - Mortgage,Pref,Cumul,Reset,8.84%,$0.62,1529,-,-,-,False,4 k,4 000 k, 371 k, 0 k,8.63%,$25.00,4/30/2028,-,1529
+EFC,EFC-D,REIT - Mortgage,Pref,Cumul,Fixed,8.18%,$3.60,Callable,-,-,-,False,1 k, 380 k,-,-,7.00%,$25.00,5/12/2022,-,-
+EFC,EFC-E,REIT - Mortgage,Pref,Cumul,Fix/Float,8.19%,-$0.17,37,-,-,-,False,3 k, 957 k,-,-,8.25%,$25.00,3/30/2024,-,37
+EFSC,EFSCP,Bank - Regional,Pref,Non-cumul,Fixed,7.25%,$7.75,1027,-,-,-,False,4 k,3 000 k,-,-,5.00%,$25.00,12/15/2026,-,-
+EIC,EICA,CEF - Debt,Pref,Cumul,Fixed,7.21%,$1.34,Callable,981,-,-,False,4 k,1 522 k,-,-,5.00%,$25.00,10/30/2023,10/30/2026,-
+EIC,EICB,CEF - Debt,Pref,Cumul,Fixed,7.75%,$0.00,524,1621,-,-,False,5 k,1 418 k,-,-,7.75%,$25.00,7/30/2025,7/31/2028,-
+ETR,ELC,Utilities - Regulated Electric,Bond,Interest,Fixed,Error,Error,Callable,15532,A2,A,True,-,28 665 k,1 007 k, 0 k,4.88%,$25.00,9/1/2021,9/1/2066,-
+ETR,EMP,Utilities - Regulated Electric,Bond,Interest,Fixed,Error,Error,Callable,15562,A2,A,True,797 k,340 737 k, 969 k, 0 k,4.90%,$25.00,10/1/2021,10/1/2066,-
+ETR,ENJ,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,10510,Baa2,BBB,True,-,-,-,-,5.00%,$25.00,12/1/2017,12/1/2052,-
+ETR,ENO,Utilities - Regulated Electric,Bond,Interest,Fixed,7.63%,$6.70,Callable,15379,Baa2,BBB,True,28 k,87 000 k, 411 k, 0 k,5.50%,$25.00,4/1/2021,4/1/2066,-
+EPR,EPR-G,REIT - Specialty,Pref,Cumul,Fixed,7.36%,$5.47,Callable,-,Ba1,B+,False,8 k,6 000 k, 561 k, 0 k,5.75%,$25.00,11/30/2022,-,-
+EQH,EQH-A,Insurance - Diversified,Pref,Non-cumul,Fixed,5.77%,$2.27,297,-,Baa3,BBB-,True,50 k,32 000 k,2 946 k, 0 k,5.25%,$25.00,12/15/2024,-,-
+EQH,EQH-C,Insurance - Diversified,Pref,Non-cumul,Fixed,5.91%,$6.82,752,-,Baa3,BBB-,True,121 k,12 000 k,1 082 k, 0 k,4.30%,$25.00,3/15/2026,-,-
+ESGR,ESGRO,Insurance - Diversified,Pref,Non-cumul,Fixed,7.01%,$0.02,8,-,-,BB+,False,7 k,4 400 k, 410 k, 0 k,7.00%,$25.00,3/1/2024,-,-
+ESGR,ESGRP,Insurance - Diversified,Pref,Non-cumul,Fix/Float,6.91%,-$0.32,1672,-,-,BB+,False,15 k,16 000 k,1 511 k, 0 k,7.00%,$25.00,9/20/2028,-,1672
+ETR,ETI-,Utilities - Regulated Electric,Pref,Cumul,Fixed,5.66%,$1.24,236,-,Ba1,BBB-,True,2 k,1 400 k,-,-,5.38%,$25.00,10/15/2024,-,-
+F,F-B,Auto Manufacturer,Bond,Interest,Fixed,6.44%,$0.83,100,12883,Ba2,BB+,False,42 k,30 000 k,2 796 k, 0 k,6.20%,$25.00,6/1/2024,6/1/2059,-
+F,F-C,Auto Manufacturer,Bond,Interest,Fixed,6.32%,$1.14,283,13066,Ba2,BB,False,75 k,32 000 k,2 983 k, 0 k,6.00%,$25.00,12/1/2024,12/1/2059,-
+F,F-D,Auto Manufacturer,Bond,Interest,Fixed,6.54%,$0.13,1270,14054,Ba2,BB+,False,75 k,24 000 k,2 237 k, 0 k,6.50%,$25.00,8/15/2027,8/15/2062,-
+FAT,FATBP,Restaurants,Pref,Cumul,Fixed,14.50%,$11.42,Callable,-,-,-,False,10 k,7 380 k, 687 k, 0 k,8.25%,$26.50,7/16/2021,-,-
+FBIO,FBIOP,Biotechnology,Pref,Cumul,Fixed,15.47%,$9.85,Callable,-,-,-,False,15 k,3 427 k,-,-,9.38%,$25.00,12/15/2022,-,-
+FBRT,FBRT-E,REIT - Mortgage,Pref,Cumul,Fixed,9.05%,$4.28,Callable,-,-,-,False,23 k,10 329 k,-,-,7.50%,$25.00,5/13/2018,-,-
+FCNCA,FCNCO,Bank - Regional,Pref,Cumul,Fixed,6.20%,$2.32,297,-,Ba1,-,False,18 k,8 000 k,-,-,5.63%,$25.00,12/15/2024,-,-
+FCNCA,FCNCP,Bank - Regional,Pref,Cumul,Fixed,6.22%,$3.39,387,-,Ba1,-,False,25 k,13 800 k,1 285 k, 0 k,5.38%,$25.00,3/15/2025,-,-
+FGBI,FGBIP,Bank - Regional,Pref,Non-cumul,Fixed,8.91%,$6.07,790,-,-,-,False,2 k,1 380 k,-,-,6.75%,$25.00,4/22/2026,-,-
+FGF,FGFPP,Insurance - Diversified,Pref,Cumul,Fixed,10.95%,$6.73,Callable,-,-,-,False,2 k, 895 k,-,-,8.00%,$25.00,2/28/2023,-,-
+FHN,FHN-B,Bank - Regional,Pref,Non-cumul,Fix/Float,6.96%,$1.20,526,-,Ba1,-,False,8 k,3 200 k,-,-,6.63%,$25.00,8/1/2025,-,526
+FHN,FHN-C,Bank - Regional,Pref,Non-cumul,Fix/Float,6.95%,$1.25,799,-,Ba2,BB-,False,5 k,2 300 k,-,-,6.60%,$25.00,5/1/2026,-,799
+FHN,FHN-D,Bank - Regional,Pref,Non-cumul,Fix/Float,6.10%,$0.01,69,-,Ba2,BB-,False,13 k,4 000 k, 373 k, 0 k,6.10%,$25.00,5/1/2024,-,69
+FHN,FHN-E,Bank - Regional,Pref,Non-cumul,Fixed,6.81%,$1.13,596,-,Ba2,BB-,False,10 k,6 000 k, 557 k, 0 k,6.50%,$25.00,10/10/2025,-,-
+FHN,FHN-F,Bank - Regional,Pref,Non-cumul,Fixed,6.92%,$8.01,869,-,Ba2,BB-,False,12 k,6 000 k, 557 k, 0 k,4.70%,$25.00,7/10/2026,-,-
+FITB,FITBI,Bank - Regional,Pref,Non-cumul,Fix/Float,9.16%,-$0.48,Callable,-,Baa3,BB+,True,26 k,18 000 k,1 672 k, 0 k,9.34%,$25.00,12/31/2023,-,Floating
+FITB,FITBO,Bank - Regional,Pref,Non-cumul,Fixed,5.37%,$1.97,221,-,Baa3,BB+,True,15 k,10 000 k, 931 k, 0 k,4.95%,$25.00,9/30/2024,-,-
+FITB,FITBP,Bank - Regional,Pref,Non-cumul,Fixed,6.01%,$0.05,Callable,-,Baa3,BB+,True,17 k,8 000 k, 745 k, 0 k,6.00%,$25.00,11/25/2022,-,-
 FNB,FNB-E,Bank - Regional,Pref,Non-cumul,Fix/Float,10.18%,$0.01,Callable,-,Ba1,-,False,29 k,4 435 k, 413 k, 0 k,10.17%,$25.00,2/15/2024,-,Floating
-FOSL,FOSLL,Luxury Goods,Bond,Interest,Fixed,44.78%,$15.10,Callable,1013,-,B,False,8 k,6 000 k, 566 k, 0 k,7.00%,$25.50,11/30/2023,11/30/2026,-
-FRME,FRMEP,Bank - Regional,Pref,Non-cumul,Fixed,7.39%,-$0.36,541,-,-,-,False,1 k,1 000 k,-,-,7.50%,$25.00,8/15/2025,-,-
-FRT,FRT-C,REIT - Retail,Pref,Cumul,Fixed,5.38%,$1.77,Callable,-,Baa2,BBB-,True,9 k,6 000 k,-,-,5.00%,$25.00,9/29/2022,-,-
-FTAI,FTAIM,Rental & Leasing,Pref,Cumul,Reset,9.28%,-$0.60,1576,-,B1,-,False,7 k,2 600 k,-,-,9.50%,$25.00,6/15/2028,-,1576
-FTAI,FTAIN,Rental & Leasing,Pref,Cumul,Reset,8.34%,$0.28,845,-,-,-,False,6 k,4 200 k,-,-,8.25%,$25.00,6/15/2026,-,845
-FTAI,FTAIO,Rental & Leasing,Pref,Cumul,Fix/Float,7.88%,-$0.38,298,-,-,-,False,12 k,4 940 k,-,-,8.00%,$25.00,12/15/2024,-,298
-FTAI,FTAIP,Rental & Leasing,Pref,Cumul,Fix/Float,8.15%,-$0.30,207,-,-,-,False,7 k,4 180 k,-,-,8.25%,$25.00,9/15/2024,-,207
-FULT,FULTP,Bank - Regional,Pref,Non-cumul,Fixed,7.15%,$7.09,694,-,Ba1,-,False,26 k,8 000 k, 736 k, 0 k,5.13%,$25.00,1/15/2026,-,-
-GAB,GAB-G,CEF - Equity,Pref,Cumul,Fixed,5.71%,$3.12,Callable,-,A1,-,True,4 k,2 520 k,-,-,5.00%,$25.00,8/1/2017,-,-
-GAB,GAB-H,CEF - Equity,Pref,Cumul,Fixed,5.72%,$3.13,Callable,-,A1,-,True,5 k,4 083 k,-,-,5.00%,$25.00,9/28/2017,-,-
-GAB,GAB-K,CEF - Equity,Pref,Cumul,Fixed,5.69%,$3.05,299,-,A1,-,True,3 k,3 811 k,-,-,5.00%,$25.00,12/16/2024,-,-
-GAIN,GAINL,Asset Management,Bond,Interest,Fixed,7.57%,-$0.40,527,1623,-,-,False,7 k,2 990 k,-,-,8.00%,$25.00,8/1/2025,8/1/2028,-
-GAIN,GAINN,Asset Management,Bond,Interest,Fixed,7.00%,$1.01,Callable,800,-,-,False,6 k,5 118 k, 476 k, 0 k,5.00%,$25.00,5/3/2023,5/1/2026,-
-GAIN,GAINZ,Asset Management,Bond,Interest,Fixed,6.88%,$2.00,Callable,1715,-,-,False,4 k,5 382 k, 501 k, 0 k,4.88%,$25.00,11/1/2023,11/1/2028,-
-GAM,GAM-B,CEF - Equity,Pref,Cumul,Fixed,5.93%,-$0.10,Callable,-,A1,-,True,5 k,7 602 k,-,-,5.95%,$25.00,9/24/2008,-,-
-GDV,GDV-H,CEF - Equity,Pref,Cumul,Fixed,5.60%,$0.99,107,-,Aa3,-,True,3 k,1 989 k,-,-,5.38%,$25.00,6/7/2024,-,-
-GDV,GDV-K,CEF - Equity,Pref,Cumul,Fixed,5.43%,$5.45,959,-,Aa3,-,True,9 k,5 735 k,-,-,4.25%,$25.00,10/7/2026,-,-
-GECC,GECCM,Asset Management,Bond,Interest,Fixed,#N/A,-,Callable,345,-,-,False,-,-,-,-,6.75%,$25.00,1/31/2021,1/31/2025,-
-GECC,GECCO,Asset Management,Bond,Interest,Fixed,6.91%,$0.56,Callable,860,-,-,False,1 k,2 300 k,-,-,5.88%,$25.00,6/30/2023,6/30/2026,-
-GEG,GEGGL,Medical Distribution,Bond,Interest,Fixed,11.01%,$2.61,130,1225,-,-,False,2 k,1 078 k,-,-,7.25%,$25.00,6/30/2024,6/30/2027,-
-GGN,GGN-B,Asset Management,Pref,Cumul,Fixed,5.61%,$2.72,Callable,-,A2,-,True,5 k,3 339 k,-,-,5.00%,$25.00,5/7/2018,-,-
-GGT,GGT-E,CEF - Equity,Pref,Cumul,Fixed,5.70%,$2.52,Callable,-,A3,-,True,1 k,1 997 k,-,-,5.13%,$25.00,9/26/2022,-,-
-GGT,GGT-G,CEF - Equity,Pref,Cumul,Fixed,5.64%,$2.29,303,-,A3,-,True,3 k,1 456 k,-,-,5.13%,$25.00,12/20/2024,-,-
-USM,GJH,Telecom Services,Cert,Interest,Fixed,7.77%,$0.95,Callable,3585,-,BB,False,1 k,1 250 k,-,-,6.38%,$10.00,4/21/2009,12/15/2033,-
-WMT,GJO,Discount Store,Cert,Interest,Floating,6.14%,$0.09,-,2186,-,-,False,0 k, 547 k,-,-,6.07%,$25.00,-,2/15/2030,-
-D,GJP,Utilities - Regulated Electric,Cert,Interest,Floating,Special,-$0.20,Callable,4132,-,-,False,0 k, 381 k,-,-,Special,$25.00,-,6/15/2035,-
-GS,GJS,Capital Markets,Cert,Interest,Floating,Special,$2.86,Callable,3282,-,-,False,1 k,1 086 k,-,-,Special,$25.00,-,2/15/2033,-
-ALL,GJT,Insurance - Property & Casualty,Cert,Interest,Floating,Special,$2.82,Callable,4423,-,-,False,1 k, 730 k,-,-,Special,$25.00,-,4/1/2036,-
-GL,GL-D,Insurance - Life,Bond,Interest,Fixed,5.40%,$4.60,845,13629,Baa2,BBB+,True,14 k,13 000 k,1 243 k, 0 k,4.25%,$25.00,6/15/2026,6/15/2061,-
-GLAD,GLADZ,CEF - Debt,Bond,Interest,Fixed,7.70%,-$0.05,558,1654,-,-,False,14 k,2 280 k,-,-,7.75%,$25.00,9/1/2025,9/1/2028,-
--,GLOG-A,Oil & Gas Midstream,Pref,Cumul,Fixed,8.40%,-$1.05,Callable,-,-,-,False,2 k, 200 k,-,-,8.75%,$25.00,4/7/2020,-,-
-GLOP,GLOP-A,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.75%,$0.35,1210,-,-,-,False,10 k,5 085 k,-,-,8.63%,$25.00,6/15/2027,-,1210
-GLOP,GLOP-B,Oil & Gas Midstream,Pref,Cumul,Fix/Float,11.31%,-$0.22,Callable,-,-,-,False,4 k,3 496 k,-,-,11.41%,$25.00,3/15/2023,-,Floating
-GLOP,GLOP-C,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.50%,$0.00,23,-,-,-,False,3 k,3 061 k,-,-,8.50%,$25.00,3/15/2024,-,23
+FOSL,FOSLL,Luxury Goods,Bond,Interest,Fixed,44.77%,$15.09,Callable,1012,-,B,False,9 k,6 000 k, 566 k, 0 k,7.00%,$25.50,11/30/2023,11/30/2026,-
+FRME,FRMEP,Bank - Regional,Pref,Non-cumul,Fixed,7.41%,-$0.30,540,-,-,-,False,1 k,1 000 k,-,-,7.50%,$25.00,8/15/2025,-,-
+FRT,FRT-C,REIT - Retail,Pref,Cumul,Fixed,5.45%,$2.06,Callable,-,Baa2,BBB-,True,8 k,6 000 k,-,-,5.00%,$25.00,9/29/2022,-,-
+FTAI,FTAIM,Rental & Leasing,Pref,Cumul,Reset,9.27%,-$0.62,1575,-,B1,-,False,6 k,2 600 k,-,-,9.50%,$25.00,6/15/2028,-,1575
+FTAI,FTAIN,Rental & Leasing,Pref,Cumul,Reset,8.28%,$0.10,844,-,-,-,False,6 k,4 200 k,-,-,8.25%,$25.00,6/15/2026,-,844
+FTAI,FTAIO,Rental & Leasing,Pref,Cumul,Fix/Float,7.87%,-$0.42,297,-,-,-,False,12 k,4 940 k,-,-,8.00%,$25.00,12/15/2024,-,297
+FTAI,FTAIP,Rental & Leasing,Pref,Cumul,Fix/Float,8.15%,-$0.31,206,-,-,-,False,7 k,4 180 k,-,-,8.25%,$25.00,9/15/2024,-,206
+FULT,FULTP,Bank - Regional,Pref,Non-cumul,Fixed,7.25%,$7.33,693,-,Ba1,-,False,25 k,8 000 k, 736 k, 0 k,5.13%,$25.00,1/15/2026,-,-
+GAB,GAB-G,CEF - Equity,Pref,Cumul,Fixed,5.67%,$2.97,Callable,-,A1,-,True,4 k,2 520 k,-,-,5.00%,$25.00,8/1/2017,-,-
+GAB,GAB-H,CEF - Equity,Pref,Cumul,Fixed,5.72%,$3.14,Callable,-,A1,-,True,5 k,4 083 k,-,-,5.00%,$25.00,9/28/2017,-,-
+GAB,GAB-K,CEF - Equity,Pref,Cumul,Fixed,5.69%,$3.05,298,-,A1,-,True,3 k,3 811 k,-,-,5.00%,$25.00,12/16/2024,-,-
+GAIN,GAINL,Asset Management,Bond,Interest,Fixed,7.57%,-$0.40,526,1622,-,-,False,7 k,2 990 k,-,-,8.00%,$25.00,8/1/2025,8/1/2028,-
+GAIN,GAINN,Asset Management,Bond,Interest,Fixed,7.08%,$1.05,Callable,799,-,-,False,6 k,5 118 k, 476 k, 0 k,5.00%,$25.00,5/3/2023,5/1/2026,-
+GAIN,GAINZ,Asset Management,Bond,Interest,Fixed,7.14%,$2.24,Callable,1714,-,-,False,4 k,5 382 k, 501 k, 0 k,4.88%,$25.00,11/1/2023,11/1/2028,-
+GAM,GAM-B,CEF - Equity,Pref,Cumul,Fixed,5.93%,-$0.08,Callable,-,A1,-,True,5 k,7 602 k,-,-,5.95%,$25.00,9/24/2008,-,-
+GDV,GDV-H,CEF - Equity,Pref,Cumul,Fixed,5.60%,$1.00,106,-,Aa3,-,True,3 k,1 989 k,-,-,5.38%,$25.00,6/7/2024,-,-
+GDV,GDV-K,CEF - Equity,Pref,Cumul,Fixed,5.46%,$5.55,958,-,Aa3,-,True,8 k,5 735 k,-,-,4.25%,$25.00,10/7/2026,-,-
+GECC,GECCM,Asset Management,Bond,Interest,Fixed,#N/A,-,Callable,344,-,-,False,-,-,-,-,6.75%,$25.00,1/31/2021,1/31/2025,-
+GECC,GECCO,Asset Management,Bond,Interest,Fixed,6.89%,$0.55,Callable,859,-,-,False,1 k,2 300 k,-,-,5.88%,$25.00,6/30/2023,6/30/2026,-
+GEG,GEGGL,Medical Distribution,Bond,Interest,Fixed,11.24%,$2.76,129,1224,-,-,False,2 k,1 078 k,-,-,7.25%,$25.00,6/30/2024,6/30/2027,-
+GGN,GGN-B,Asset Management,Pref,Cumul,Fixed,5.59%,$2.65,Callable,-,A2,-,True,5 k,3 339 k,-,-,5.00%,$25.00,5/7/2018,-,-
+GGT,GGT-E,CEF - Equity,Pref,Cumul,Fixed,5.64%,$2.28,Callable,-,A3,-,True,1 k,1 997 k,-,-,5.13%,$25.00,9/26/2022,-,-
+GGT,GGT-G,CEF - Equity,Pref,Cumul,Fixed,5.63%,$2.24,302,-,A3,-,True,3 k,1 456 k,-,-,5.13%,$25.00,12/20/2024,-,-
+USM,GJH,Telecom Services,Cert,Interest,Fixed,7.94%,$1.06,Callable,3584,-,BB,False,1 k,1 250 k,-,-,6.38%,$10.00,4/21/2009,12/15/2033,-
+WMT,GJO,Discount Store,Cert,Interest,Floating,6.13%,$0.07,-,2185,-,-,False,0 k, 547 k,-,-,6.07%,$25.00,-,2/15/2030,-
+D,GJP,Utilities - Regulated Electric,Cert,Interest,Floating,Special,-$0.20,Callable,4131,-,-,False,0 k, 381 k,-,-,Special,$25.00,-,6/15/2035,-
+GS,GJS,Capital Markets,Cert,Interest,Floating,Special,$2.60,Callable,3281,-,-,False,1 k,1 086 k,-,-,Special,$25.00,-,2/15/2033,-
+ALL,GJT,Insurance - Property & Casualty,Cert,Interest,Floating,Special,$2.55,Callable,4422,-,-,False,1 k, 730 k,-,-,Special,$25.00,-,4/1/2036,-
+GL,GL-D,Insurance - Life,Bond,Interest,Fixed,5.41%,$4.65,844,13628,Baa2,BBB+,True,14 k,13 000 k,1 243 k, 0 k,4.25%,$25.00,6/15/2026,6/15/2061,-
+GLAD,GLADZ,CEF - Debt,Bond,Interest,Fixed,7.70%,-$0.05,557,1653,-,-,False,14 k,2 280 k,-,-,7.75%,$25.00,9/1/2025,9/1/2028,-
+-,GLOG-A,Oil & Gas Midstream,Pref,Cumul,Fixed,Special,-$2.82,Callable,-,-,-,False,1 k, 200 k,-,-,8.75%,$25.00,4/7/2020,-,-
+GLOP,GLOP-A,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.71%,$0.25,1209,-,-,-,False,9 k,5 085 k,-,-,8.63%,$25.00,6/15/2027,-,1209
+GLOP,GLOP-B,Oil & Gas Midstream,Pref,Cumul,Fix/Float,11.22%,-$0.42,Callable,-,-,-,False,3 k,3 496 k,-,-,11.41%,$25.00,3/15/2023,-,Floating
+GLOP,GLOP-C,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.50%,$0.00,22,-,-,-,False,3 k,3 061 k,-,-,8.50%,$25.00,3/15/2024,-,22
 GLP,GLP-A,Oil & Gas Midstream,Pref,Cumul,Fix/Float,#N/A,-,Callable,-,-,-,False,-,-,-,-,12.35%,$25.00,8/15/2023,-,Floating
-GLP,GLP-B,Oil & Gas Midstream,Pref,Cumul,Fixed,9.08%,-$1.16,814,-,-,-,False,6 k,3 000 k,-,-,9.50%,$25.00,5/15/2026,-,-
-GMRE,GMRE-A,REIT - Healthcare,Pref,Cumul,Fixed,7.51%,$0.03,Callable,-,-,-,False,8 k,3 105 k,-,-,7.50%,$25.00,9/15/2022,-,-
-GNL,GNL-A,REIT - Diversified,Pref,Cumul,Fixed,8.52%,$3.72,Callable,-,-,-,False,10 k,6 799 k, 634 k, 0 k,7.25%,$25.00,9/12/2022,-,-
-GNL,GNL-B,REIT - Diversified,Pref,Cumul,Fixed,8.45%,$4.66,279,-,-,-,False,6 k,4 696 k, 440 k, 0 k,6.88%,$25.00,11/26/2024,-,-
-GNL,GNL-D,REIT - Diversified,Pref,Cumul,Fixed,8.76%,$3.60,34,-,-,-,False,11 k,7 934 k,-,-,7.50%,$25.00,3/26/2024,-,-
-GNL,GNL-E,REIT - Diversified,Pref,Cumul,Fixed,8.71%,$3.83,666,-,-,-,False,6 k,4 595 k,-,-,7.38%,$25.00,12/18/2025,-,-
-GNT,GNT-A,Asset Management,Pref,Cumul,Fixed,5.70%,$2.18,Callable,-,A2,-,True,2 k,1 085 k,-,-,5.20%,$25.00,10/26/2022,-,-
-GOOD,GOODN,REIT - Diversified,Pref,Cumul,Fixed,7.41%,$2.65,226,-,-,-,False,5 k,3 061 k,-,-,6.63%,$25.00,10/4/2024,-,-
-GOOD,GOODO,REIT - Diversified,Pref,Cumul,Fixed,7.82%,$5.81,858,-,-,-,False,7 k,3 991 k,-,-,6.00%,$25.00,6/28/2026,-,-
-SO,GPJA,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19581,Baa2,BBB-,True,-,-,1 007 k, 0 k,5.00%,$25.00,10/1/2022,10/1/2077,-
-GPMT,GPMT-A,REIT - Mortgage,Pref,Cumul,Fix/Float,10.33%,$8.06,1013,-,-,-,False,19 k,8 230 k, 767 k, 0 k,7.00%,$25.00,11/30/2026,-,1013
-GRBK,GRBK-A,Residential Construction,Pref,Cumul,Fixed,6.65%,$3.38,1036,-,-,-,False,38 k,2 000 k,-,-,5.75%,$25.00,12/23/2026,-,-
-GREE,GREEL,Capital Markets,Bond,Interest,Fixed,52.00%,$15.81,Callable,983,-,-,False,15 k,2 888 k,-,-,8.50%,$25.50,10/31/2023,10/31/2026,-
-GS,GS-A,Capital Markets,Pref,Non-cumul,Floating,7.02%,$2.49,Callable,-,Ba1,BB+,False,43 k,29 999 k,2 796 k, 0 k,6.32%,$25.00,4/10/2010,-,Floating
-GS,GS-C,Capital Markets,Pref,Non-cumul,Floating,7.00%,$2.43,Callable,-,Ba1,BB+,False,14 k,8 000 k, 746 k, 0 k,6.32%,$25.00,10/31/2010,-,Floating
-GS,GS-D,Capital Markets,Pref,Non-cumul,Floating,6.99%,$2.68,Callable,-,Ba1,BB+,False,70 k,53 999 k,5 035 k, 0 k,6.24%,$25.00,5/24/2011,-,Floating
-GS,GS-K,Capital Markets,Pref,Non-cumul,Fix/Float,6.28%,-$0.38,79,-,Ba1,BB+,False,46 k,28 000 k,2 612 k, 0 k,6.38%,$25.00,5/10/2024,-,79
-GSL,GSL-B,Marine Shipping,Pref,Cumul,Fixed,8.35%,-$1.19,Callable,-,-,-,False,10 k,4 359 k,-,-,8.75%,$25.00,8/20/2019,-,-
-GUT,GUT-C,CEF - Equity,Pref,Cumul,Fixed,5.54%,$0.73,Callable,-,A1,-,True,4 k,1 973 k,-,-,5.38%,$25.00,5/31/2021,-,-
-HBAN,HBANL,Bank - Regional,Pref,Non-cumul,Reset,#N/A,-,1515,-,Baa3,BB+,True,-,-,1 209 k, 0 k,6.88%,$25.00,4/15/2028,-,1515
-HBAN,HBANM,Bank - Regional,Pref,Non-cumul,Fixed,6.30%,$2.38,Callable,-,Baa3,BB+,True,12 k,7 000 k,-,-,5.70%,$25.00,12/1/2022,-,-
-HBAN,HBANP,Bank - Regional,Pref,Non-cumul,Fixed,5.98%,$6.18,784,-,Baa3,BB+,True,39 k,20 000 k,1 864 k, 0 k,4.50%,$25.00,4/15/2026,-,-
-HTGC,HCXY,Asset Management,Bond,Interest,Fixed,#N/A,-,Callable,3539,-,-,False,-,-,-,-,6.25%,$25.00,10/30/2023,10/30/2033,-
-HFRO,HFRO-A,Asset Management,Pref,Cumul,Fixed,7.02%,$5.85,222,-,A1,-,True,10 k,5 800 k,-,-,5.38%,$25.00,9/30/2024,-,-
-HIG,HIG-G,Insurance - Diversified,Pref,Non-cumul,Fixed,6.00%,-$0.02,Callable,-,Baa3,BBB-,True,24 k,13 800 k,1 306 k, 0 k,6.00%,$25.00,11/15/2023,-,-
-HNNA,HNNAZ,Asset Management,Bond,Interest,Fixed,6.50%,$1.05,Callable,1044,-,-,False,0 k,1 610 k,-,-,4.88%,$25.00,12/31/2023,12/31/2026,-
-HOV,HOVNP,Residential Construction,Pref,Non-cumul,Fixed,10.45%,$6.75,Callable,-,Caa3,C,False,5 k,5 600 k,-,-,7.63%,$25.00,7/12/2010,-,-
-HPP,HPP-C,REIT - Office,Pref,Cumul,Fixed,8.67%,$11.30,999,-,Ba1,-,False,45 k,17 000 k,1 568 k, 0 k,4.75%,$25.00,11/16/2026,-,-
-HROW,HROWL,Drug Manufacturer,Bond,Interest,Fixed,10.10%,$0.72,711,799,-,-,False,6 k,3 000 k,-,-,8.63%,$25.00,2/1/2026,4/30/2026,-
-HROW,HROWM,Drug Manufacturer,Bond,Interest,Fixed,10.47%,-$0.60,314,1409,-,-,False,4 k,1 610 k,-,-,11.88%,$25.50,12/31/2024,12/31/2027,-
-HRZN,HTFB,Asset Management,Bond,Interest,Fixed,5.93%,$0.52,Callable,768,-,-,False,2 k,2 300 k,-,-,4.88%,$25.00,3/30/2023,3/30/2026,-
-HRZN,HTFC,Asset Management,Bond,Interest,Fixed,6.68%,$0.32,115,1210,-,-,False,2 k,2 300 k,-,-,6.25%,$25.00,6/15/2024,6/15/2027,-
--,HTIA,REIT - Healthcare,Pref,Cumul,Fixed,11.93%,$9.55,294,-,-,-,False,10 k,3 977 k,-,-,7.38%,$25.00,12/11/2024,-,-
--,HTIBP,REIT - Healthcare,Pref,Cumul,Fixed,11.21%,$9.11,958,-,-,-,False,6 k,3 630 k,-,-,7.13%,$25.00,10/6/2026,-,-
-HTLF,HTLFP,Bank - Regional,Pref,Non-cumul,Reset,7.04%,$0.15,510,-,-,-,False,4 k,4 600 k, 429 k, 0 k,7.00%,$25.00,7/15/2025,-,510
-HWC,HWCPZ,Bank - Regional,Bond,Interest,Fixed,6.40%,$0.52,480,13264,Baa3,BBB-,True,8 k,6 900 k, 644 k, 0 k,6.25%,$25.00,6/15/2025,6/15/2060,-
-HWM,HWM-,Aerospace & Defense,Pref,Cumul,Fixed,6.20%,$39.50,Callable,-,Ba2,B+,False,1 k, 534 k,-,-,3.75%,$100.00,-,-,-
--,ICR-A,REIT - Mortgage,Pref,Cumul,Reset,8.27%,$4.59,944,-,-,-,False,2 k,3 545 k,-,-,6.75%,$25.00,9/22/2026,-,944
+GLP,GLP-B,Oil & Gas Midstream,Pref,Cumul,Fixed,9.10%,-$1.11,813,-,-,-,False,6 k,3 000 k,-,-,9.50%,$25.00,5/15/2026,-,-
+GMRE,GMRE-A,REIT - Healthcare,Pref,Cumul,Fixed,7.55%,$0.15,Callable,-,-,-,False,8 k,3 105 k,-,-,7.50%,$25.00,9/15/2022,-,-
+GNL,GNL-A,REIT - Diversified,Pref,Cumul,Fixed,8.64%,$4.01,Callable,-,-,-,False,10 k,6 799 k, 634 k, 0 k,7.25%,$25.00,9/12/2022,-,-
+GNL,GNL-B,REIT - Diversified,Pref,Cumul,Fixed,8.60%,$5.02,278,-,-,-,False,6 k,4 696 k, 440 k, 0 k,6.88%,$25.00,11/26/2024,-,-
+GNL,GNL-D,REIT - Diversified,Pref,Cumul,Fixed,8.74%,$3.54,33,-,-,-,False,10 k,7 934 k,-,-,7.50%,$25.00,3/26/2024,-,-
+GNL,GNL-E,REIT - Diversified,Pref,Cumul,Fixed,8.71%,$3.84,665,-,-,-,False,7 k,4 595 k,-,-,7.38%,$25.00,12/18/2025,-,-
+GNT,GNT-A,Asset Management,Pref,Cumul,Fixed,5.74%,$2.36,Callable,-,A2,-,True,2 k,1 085 k,-,-,5.20%,$25.00,10/26/2022,-,-
+GOOD,GOODN,REIT - Diversified,Pref,Cumul,Fixed,7.44%,$2.75,225,-,-,-,False,5 k,3 061 k,-,-,6.63%,$25.00,10/4/2024,-,-
+GOOD,GOODO,REIT - Diversified,Pref,Cumul,Fixed,7.81%,$5.80,857,-,-,-,False,7 k,3 991 k,-,-,6.00%,$25.00,6/28/2026,-,-
+SO,GPJA,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19580,Baa2,BBB-,True,-,-,1 007 k, 0 k,5.00%,$25.00,10/1/2022,10/1/2077,-
+GPMT,GPMT-A,REIT - Mortgage,Pref,Cumul,Fix/Float,10.28%,$7.98,1012,-,-,-,False,19 k,8 230 k, 767 k, 0 k,7.00%,$25.00,11/30/2026,-,1012
+GRBK,GRBK-A,Residential Construction,Pref,Cumul,Fixed,6.58%,$3.16,1035,-,-,-,False,38 k,2 000 k,-,-,5.75%,$25.00,12/23/2026,-,-
+GREE,GREEL,Capital Markets,Bond,Interest,Fixed,53.32%,$16.05,Callable,982,-,-,False,14 k,2 888 k,-,-,8.50%,$25.50,10/31/2023,10/31/2026,-
+GS,GS-A,Capital Markets,Pref,Non-cumul,Floating,7.03%,$2.50,Callable,-,Ba1,BB+,False,43 k,29 999 k,2 796 k, 0 k,6.32%,$25.00,4/10/2010,-,Floating
+GS,GS-C,Capital Markets,Pref,Non-cumul,Floating,7.03%,$2.50,Callable,-,Ba1,BB+,False,14 k,8 000 k, 746 k, 0 k,6.32%,$25.00,10/31/2010,-,Floating
+GS,GS-D,Capital Markets,Pref,Non-cumul,Floating,7.03%,$2.79,Callable,-,Ba1,BB+,False,70 k,53 999 k,5 035 k, 0 k,6.24%,$25.00,5/24/2011,-,Floating
+GS,GS-K,Capital Markets,Pref,Non-cumul,Fix/Float,6.28%,-$0.39,78,-,Ba1,BB+,False,46 k,28 000 k,2 612 k, 0 k,6.38%,$25.00,5/10/2024,-,78
+GSL,GSL-B,Marine Shipping,Pref,Cumul,Fixed,8.45%,-$0.90,Callable,-,-,-,False,10 k,4 359 k,-,-,8.75%,$25.00,8/20/2019,-,-
+GUT,GUT-C,CEF - Equity,Pref,Cumul,Fixed,5.53%,$0.71,Callable,-,A1,-,True,3 k,1 973 k,-,-,5.38%,$25.00,5/31/2021,-,-
+HBAN,HBANL,Bank - Regional,Pref,Non-cumul,Reset,#N/A,-,1514,-,Baa3,BB+,True,-,-,1 209 k, 0 k,6.88%,$25.00,4/15/2028,-,1514
+HBAN,HBANM,Bank - Regional,Pref,Non-cumul,Fixed,6.40%,$2.75,Callable,-,Baa3,BB+,True,11 k,7 000 k,-,-,5.70%,$25.00,12/1/2022,-,-
+HBAN,HBANP,Bank - Regional,Pref,Non-cumul,Fixed,6.07%,$6.46,783,-,Baa3,BB+,True,38 k,20 000 k,1 864 k, 0 k,4.50%,$25.00,4/15/2026,-,-
+HTGC,HCXY,Asset Management,Bond,Interest,Fixed,#N/A,-,Callable,3538,-,-,False,-,-,-,-,6.25%,$25.00,10/30/2023,10/30/2033,-
+HFRO,HFRO-A,Asset Management,Pref,Cumul,Fixed,7.01%,$5.83,221,-,A1,-,True,10 k,5 800 k,-,-,5.38%,$25.00,9/30/2024,-,-
+HIG,HIG-G,Insurance - Diversified,Pref,Non-cumul,Fixed,6.01%,$0.05,Callable,-,Baa3,BBB-,True,24 k,13 800 k,1 306 k, 0 k,6.00%,$25.00,11/15/2023,-,-
+HNNA,HNNAZ,Asset Management,Bond,Interest,Fixed,6.50%,$1.05,Callable,1043,-,-,False,0 k,1 610 k,-,-,4.88%,$25.00,12/31/2023,12/31/2026,-
+HOV,HOVNP,Residential Construction,Pref,Non-cumul,Fixed,10.48%,$6.81,Callable,-,Caa3,C,False,5 k,5 600 k,-,-,7.63%,$25.00,7/12/2010,-,-
+HPP,HPP-C,REIT - Office,Pref,Cumul,Fixed,8.73%,$11.39,998,-,Ba1,-,False,42 k,17 000 k,1 568 k, 0 k,4.75%,$25.00,11/16/2026,-,-
+HROW,HROWL,Drug Manufacturer,Bond,Interest,Fixed,9.96%,$0.65,710,798,-,-,False,6 k,3 000 k,-,-,8.63%,$25.00,2/1/2026,4/30/2026,-
+HROW,HROWM,Drug Manufacturer,Bond,Interest,Fixed,10.41%,-$0.65,313,1408,-,-,False,3 k,1 610 k,-,-,11.88%,$25.50,12/31/2024,12/31/2027,-
+HRZN,HTFB,Asset Management,Bond,Interest,Fixed,6.66%,$0.87,Callable,767,-,-,False,2 k,2 300 k,-,-,4.88%,$25.00,3/30/2023,3/30/2026,-
+HRZN,HTFC,Asset Management,Bond,Interest,Fixed,6.93%,$0.50,114,1209,-,-,False,2 k,2 300 k,-,-,6.25%,$25.00,6/15/2024,6/15/2027,-
+-,HTIA,REIT - Healthcare,Pref,Cumul,Fixed,12.17%,$9.85,293,-,-,-,False,9 k,3 977 k,-,-,7.38%,$25.00,12/11/2024,-,-
+-,HTIBP,REIT - Healthcare,Pref,Cumul,Fixed,11.15%,$9.03,957,-,-,-,False,6 k,3 630 k,-,-,7.13%,$25.00,10/6/2026,-,-
+HTLF,HTLFP,Bank - Regional,Pref,Non-cumul,Reset,7.08%,$0.28,509,-,-,-,False,4 k,4 600 k, 429 k, 0 k,7.00%,$25.00,7/15/2025,-,509
+HWC,HWCPZ,Bank - Regional,Bond,Interest,Fixed,6.41%,$0.56,479,13263,Baa3,BBB-,True,7 k,6 900 k, 644 k, 0 k,6.25%,$25.00,6/15/2025,6/15/2060,-
+HWM,HWM-,Aerospace & Defense,Pref,Cumul,Fixed,6.26%,$40.08,Callable,-,Ba2,B+,False,1 k, 534 k,-,-,3.75%,$100.00,-,-,-
+-,ICR-A,REIT - Mortgage,Pref,Cumul,Reset,8.27%,$4.59,943,-,-,-,False,2 k,3 545 k,-,-,6.75%,$25.00,9/22/2026,-,943
 IIPR,IIPR-A,REIT - Industrial,Pref,Cumul,Fixed,#N/A,-,Callable,-,-,-,False,-,-,-,-,9.00%,$25.00,10/19/2022,-,-
-IMPP,IMPPP,Oil & Gas Midstream,Pref,Cumul,Fixed,10.26%,$3.79,Callable,-,-,-,False,1 k, 796 k,-,-,8.75%,$25.75,6/30/2022,-,-
-INBK,INBKZ,Bank - Regional,Bond,Interest,Fix/Float,7.85%,$2.01,130,1956,-,-,False,5 k,1 480 k,-,-,6.00%,$25.00,6/30/2024,6/30/2029,130
-INN,INN-E,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.40%,$3.89,Callable,-,-,-,False,7 k,6 400 k, 573 k, 0 k,6.25%,$25.00,11/13/2022,-,-
-INN,INN-F,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.27%,$4.80,903,-,-,-,False,6 k,4 000 k, 362 k, 0 k,5.88%,$25.00,8/12/2026,-,-
-BAC,IPB,Bank - Diversified,Cert,Interest,Fixed,Special,-,-,3371,Baa3,-,True,1 k,1 500 k,-,-,6.05%,-,-,5/15/2033,-
-IVR,IVR-B,REIT - Mortgage,Pref,Cumul,Fix/Float,7.93%,$0.56,310,-,-,-,False,11 k,4 327 k, 413 k, 0 k,7.75%,$25.00,12/27/2024,-,310
-IVR,IVR-C,REIT - Mortgage,Pref,Cumul,Fix/Float,8.13%,$1.94,1314,-,-,-,False,12 k,7 493 k, 703 k, 0 k,7.50%,$25.00,9/27/2027,-,1314
-GS,JBK,Capital Markets,Cert,Interest,Floating,6.21%,-$0.20,Callable,3647,Baa3,BB+,True,0 k, 544 k,-,-,6.32%,$25.00,3/19/2006,2/15/2034,Floating
-JPM,JPM-C,Bank - Diversified,Pref,Non-cumul,Fixed,#N/A,-,29,-,Baa2,BBB-,True,-,-,5 605 k, 0 k,6.00%,$25.00,3/21/2024,-,-
+IMPP,IMPPP,Oil & Gas Midstream,Pref,Cumul,Fixed,10.36%,$4.00,Callable,-,-,-,False,1 k, 796 k,-,-,8.75%,$25.75,6/30/2022,-,-
+INBK,INBKZ,Bank - Regional,Bond,Interest,Fix/Float,7.85%,$2.01,129,1955,-,-,False,5 k,1 480 k,-,-,6.00%,$25.00,6/30/2024,6/30/2029,129
+INN,INN-E,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.45%,$4.02,Callable,-,-,-,False,7 k,6 400 k, 573 k, 0 k,6.25%,$25.00,11/13/2022,-,-
+INN,INN-F,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.27%,$4.80,902,-,-,-,False,7 k,4 000 k, 362 k, 0 k,5.88%,$25.00,8/12/2026,-,-
+BAC,IPB,Bank - Diversified,Cert,Interest,Fixed,Special,-,-,3370,Baa3,-,True,1 k,1 500 k,-,-,6.05%,-,-,5/15/2033,-
+IVR,IVR-B,REIT - Mortgage,Pref,Cumul,Fix/Float,7.93%,$0.58,309,-,-,-,False,11 k,4 327 k, 413 k, 0 k,7.75%,$25.00,12/27/2024,-,309
+IVR,IVR-C,REIT - Mortgage,Pref,Cumul,Fix/Float,8.02%,$1.63,1313,-,-,-,False,11 k,7 491 k, 703 k, 0 k,7.50%,$25.00,9/27/2027,-,1313
+GS,JBK,Capital Markets,Cert,Interest,Floating,6.21%,-$0.20,Callable,3646,Baa3,BB+,True,0 k, 544 k,-,-,6.32%,$25.00,3/19/2006,2/15/2034,Floating
+JPM,JPM-C,Bank - Diversified,Pref,Non-cumul,Fixed,#N/A,-,28,-,Baa2,BBB-,True,-,-,5 605 k, 0 k,6.00%,$25.00,3/21/2024,-,-
 JPM,JPM-D,Bank - Diversified,Pref,Non-cumul,Fixed,#N/A,-,Callable,-,Baa2,BBB-,True,-,-,5 129 k, 0 k,5.75%,$25.00,12/1/2023,-,-
-JPM,JPM-J,Bank - Diversified,Pref,Non-cumul,Fixed,5.28%,$2.49,284,-,Baa2,BBB-,True,61 k,36 000 k,2 670 k, 0 k,4.75%,$25.00,12/1/2024,-,-
-JPM,JPM-K,Bank - Diversified,Pref,Non-cumul,Fixed,5.37%,$3.82,831,-,Baa2,BBB-,True,104 k,60 000 k,4 507 k, 0 k,4.55%,$25.00,6/1/2026,-,-
-JPM,JPM-L,Bank - Diversified,Pref,Non-cumul,Fixed,5.38%,$3.50,831,-,Baa2,BBB-,True,116 k,74 000 k,5 550 k, 0 k,4.63%,$25.00,6/1/2026,-,-
-JPM,JPM-M,Bank - Diversified,Pref,Non-cumul,Fixed,5.34%,$5.34,923,-,Baa2,BBB-,True,185 k,80 000 k,5 999 k, 0 k,4.20%,$25.00,9/1/2026,-,-
-NAVI,JSM,Credit Services,Bond,Interest,Fixed,7.61%,$4.10,Callable,7237,Ba3,B+,False,10 k,12 000 k,-,-,6.00%,$25.00,12/15/2008,12/15/2043,-
-JXN,JXN-A,Insurance - Life,Pref,Non-cumul,Reset,7.61%,-$1.27,1499,-,Ba1,BB+,False,96 k,22 000 k,2 025 k, 0 k,8.00%,$25.00,3/30/2028,-,1499
-KEY,KEY-I,Bank - Regional,Pref,Non-cumul,Fix/Float,6.56%,$1.64,1028,-,Baa3,BB+,True,46 k,20 000 k,1 864 k, 0 k,6.13%,$25.00,12/15/2026,-,1028
-KEY,KEY-J,Bank - Regional,Pref,Non-cumul,Fixed,6.71%,$3.94,Callable,-,Baa3,BB+,True,34 k,17 000 k,1 584 k, 0 k,5.65%,$25.00,12/15/2023,-,-
-KEY,KEY-K,Bank - Regional,Pref,Non-cumul,Fixed,6.55%,$3.54,207,-,Baa3,BB+,True,51 k,18 000 k,1 682 k, 0 k,5.63%,$25.00,9/15/2024,-,-
-KEY,KEY-L,Bank - Regional,Pref,Non-cumul,Reset,6.83%,$2.30,1393,-,Baa3,BB+,True,81 k,24 000 k,2 235 k, 0 k,6.20%,$25.00,12/15/2027,-,1393
-KIM,KIM-L,REIT - Retail,Pref,Cumul,Fixed,5.52%,$1.77,Callable,-,Baa2,BBB-,True,10 k,8 902 k, 828 k, 0 k,5.13%,$25.00,8/16/2022,-,-
-KIM,KIM-M,REIT - Retail,Pref,Cumul,Fixed,5.64%,$1.71,Callable,-,Baa2,BBB-,True,11 k,10 465 k, 977 k, 0 k,5.25%,$25.00,12/20/2022,-,-
-KKR,KKRS,Asset Management,Bond,Interest,Fixed,6.08%,$5.36,770,13554,-,-,False,20 k,20 000 k,1 868 k, 0 k,4.63%,$25.00,4/1/2026,4/1/2061,-
-KMPR,KMPB,Insurance - Property & Casualty,Bond,Interest,Reset,6.90%,$3.44,1118,13902,Ba1,BB,False,20 k,6 000 k, 559 k, 0 k,5.88%,$25.00,3/15/2027,3/15/2062,1118
-KREF,KREF-A,REIT - Mortgage,Pref,Cumul,Fixed,8.63%,$6.17,785,-,-,-,False,22 k,13 110 k,1 222 k, 0 k,6.50%,$25.00,4/16/2026,-,-
-EXC,KTH,Utilities - Regulated Electric,Cert,Interest,Fixed,3.84%,-$3.95,-,1506,A3,BBB-,True,2 k,1 015 k,-,-,8.00%,$25.00,-,4/6/2028,-
-AON,KTN,Insurance Broker,Cert,Interest,Fixed,5.81%,-$1.57,-,1045,WR,BBB,True,2 k,1 607 k,-,-,8.21%,$25.00,-,1/1/2027,-
-LAND,LANDM,REIT - Specialty,Pref,Cumul,Fixed,7.43%,$1.09,Callable,710,-,-,False,4 k,2 415 k,-,-,5.00%,$25.00,1/31/2023,1/31/2026,-
-LAND,LANDO,REIT - Specialty,Pref,Cumul,Fixed,7.37%,$4.66,Callable,-,-,-,False,12 k,5 956 k, 554 k, 0 k,6.00%,$25.00,1/10/2022,-,-
-LAND,LANDP,REIT - Specialty,Pref,Cumul,Fixed,7.46%,$4.90,101,-,-,-,False,20 k,10 157 k,-,-,6.00%,$25.00,6/1/2024,-,-
-LBRDA,LBRDP,Telecom Services,Pref,Cumul,Fixed,Special,$2.57,-,-,-,-,False,13 k,7 163 k,-,-,7.00%,$25.00,-,n.a.,-
-LFMD,LFMDP,Health Information Services,Pref,Cumul,Fixed,11.67%,$6.10,Callable,-,-,-,False,24 k,1 400 k,-,-,8.88%,$25.50,10/15/2022,-,-
-LFT,LFT-A,REIT - Mortgage,Pref,Cumul,Fixed,9.70%,$4.70,804,-,-,-,False,5 k,2 400 k,-,-,7.88%,$25.00,5/5/2026,-,-
-LNC,LNC-D,Insurance - Life,Pref,Non-cumul,Fixed,5.53%,-$2.94,1379,-,Baa3,BBB-,True,65 k,20 000 k,1 841 k, 0 k,9.00%,$25.00,12/1/2027,-,-
-LUXH,LUXHP,Lodging,Pref,Cumul,Fixed,15.55%,$4.27,Callable,-,-,-,False,4 k, 294 k,-,-,13.00%,$26.00,-,-,-
-MAA,MAA-I,REIT - Residential,Pref,Cumul,Fixed,2.94%,-$6.96,953,-,WR,BBB,True,1 k, 868 k,-,-,8.50%,$50.00,10/1/2026,-,-
-MBIN,MBINM,Bank - Regional,Pref,Non-cumul,Reset,8.13%,-$0.37,1318,-,Ba3,-,False,11 k,5 700 k, 530 k, 0 k,8.25%,$25.00,10/1/2027,-,1318
-MBIN,MBINN,Bank - Regional,Pref,Non-cumul,Fixed,7.08%,$3.81,770,-,Ba3,-,False,7 k,7 847 k, 731 k, 0 k,6.00%,$25.00,4/1/2026,-,-
-MBIN,MBINO,Bank - Regional,Pref,Non-cumul,Fix/Float,6.15%,$0.60,223,-,Ba3,-,False,9 k,5 000 k, 480 k, 0 k,6.00%,$25.00,10/1/2024,-,223
-MBIN,MBINP,Bank - Regional,Pref,Non-cumul,Fix/Float,6.96%,-$0.15,40,-,Ba3,-,False,3 k,2 078 k,-,-,7.00%,$25.00,4/1/2024,-,40
-MFIN,MBNKP,Credit Services,Pref,Non-cumul,Fix/Float,7.92%,-$0.25,405,-,-,-,False,2 k,1 840 k,-,-,8.00%,$25.00,4/1/2025,-,405
-MDRR,MDRRP,REIT - Diversified,Pref,Cumul,Fixed,10.36%,$0.55,Callable,364,-,-,False,1 k, 200 k,-,-,8.00%,$25.00,2/19/2022,2/19/2025,-
-MDV,MDV-A,REIT - Diversified,Pref,Cumul,Fixed,7.85%,$1.52,939,-,-,-,False,2 k,2 000 k,-,-,7.38%,$25.00,9/17/2026,-,-
-BAC,MER-K,Bank - Diversified,Bond,Interest,Reset,Special,-,Callable,15638,Baa2,BBB-,True,-,-,2 077 k, 0 k,Special,$25.00,12/15/2011,12/15/2066,Reset
-MET,MET-A,Insurance - Life,Pref,Non-cumul,Floating,6.80%,$0.64,Callable,-,Baa3,BBB-,True,37 k,24 000 k,2 237 k, 0 k,6.63%,$25.00,9/15/2010,-,Floating
-MET,MET-E,Insurance - Life,Pref,Non-cumul,Fixed,5.69%,$0.30,Callable,-,Baa2,BBB,True,43 k,32 200 k,3 012 k, 0 k,5.63%,$25.00,6/15/2023,-,-
-MET,MET-F,Insurance - Life,Pref,Non-cumul,Fixed,5.46%,$3.26,388,-,Baa2,BBB,True,76 k,40 000 k,3 715 k, 0 k,4.75%,$25.00,3/15/2025,-,-
-MFA,MFA-B,REIT - Mortgage,Pref,Cumul,Fixed,8.99%,$4.14,Callable,-,-,-,False,13 k,8 000 k, 743 k, 0 k,7.50%,$25.00,4/15/2018,-,-
-MFA,MFA-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.40%,$3.03,404,-,-,-,False,23 k,11 000 k,1 027 k, 0 k,6.50%,$25.00,3/31/2025,-,404
-AMG,MGR,Asset Management,Bond,Interest,Fixed,Error,$22.78,38,12821,Baa1,BBB-,True,"11,594 k",3945 860 k,1 118 k, 0 k,5.88%,$25.00,3/30/2024,3/30/2059,-
-AMG,MGRB,Asset Management,Bond,Interest,Fixed,6.29%,$5.49,587,13371,Baa1,BBB-,True,15 k,11 000 k,1 025 k, 0 k,4.75%,$25.00,9/30/2025,9/30/2060,-
-AMG,MGRD,Asset Management,Bond,Interest,Fixed,6.35%,$7.68,952,13736,Baa1,BBB-,True,9 k,8 000 k, 746 k, 0 k,4.20%,$25.00,9/30/2026,9/30/2061,-
-MHLD,MHLA,Insurance - Reinsurance,Bond,Interest,Fixed,#N/A,-,Callable,8149,-,-,False,-,-, 449 k, 0 k,6.63%,$25.00,6/14/2021,6/14/2046,-
-MHLD,MHNC,Insurance - Reinsurance,Bond,Interest,Fixed,11.31%,$7.00,Callable,7223,-,-,False,2 k,6 100 k, 582 k, 0 k,7.75%,$25.00,12/1/2018,12/1/2043,-
-MIND,MINDP,Scientific & Technical Instruments,Pref,Cumul,Fixed,29.61%,$17.40,Callable,-,-,-,False,6 k,1 683 k,-,-,9.00%,$25.00,6/8/2021,-,-
-MITT,MITT-A,REIT - Mortgage,Pref,Cumul,Fixed,10.43%,$5.23,Callable,-,-,-,False,5 k,1 663 k,-,-,8.25%,$25.00,8/3/2017,-,-
-MITT,MITT-B,REIT - Mortgage,Pref,Cumul,Fixed,10.40%,$5.77,Callable,-,-,-,False,8 k,3 728 k,-,-,8.00%,$25.00,9/27/2017,-,-
-MITT,MITT-C,REIT - Mortgage,Pref,Cumul,Fix/Float,8.50%,$1.46,209,-,-,-,False,14 k,3 729 k,-,-,8.00%,$25.00,9/17/2024,-,209
-MNSB,MNSBP,Bank - Regional,Pref,Non-cumul,Fixed,7.84%,$1.09,587,-,-,-,False,2 k,1 150 k,-,-,7.50%,$25.00,9/30/2025,-,-
-MS,MS-A,Capital Markets,Pref,Non-cumul,Floating,6.90%,$2.26,Callable,-,Baa3,BBB-,True,66 k,44 000 k,4 097 k, 0 k,6.27%,$25.00,7/15/2011,-,Floating
-MS,MS-E,Capital Markets,Pref,Non-cumul,Fixed,7.00%,-$0.43,Callable,-,Baa3,BBB-,True,72 k,34 500 k,3 212 k, 0 k,7.13%,$25.00,10/15/2023,-,-
-MS,MS-F,Capital Markets,Pref,Non-cumul,Fixed,6.79%,-$0.32,Callable,-,Baa3,BBB-,True,42 k,34 000 k,3 086 k, 0 k,6.88%,$25.00,1/15/2024,-,-
-MS,MS-I,Capital Markets,Pref,Non-cumul,Fixed,6.34%,-$0.12,237,-,Baa3,BBB-,True,96 k,40 000 k,3 629 k, 0 k,6.38%,$25.00,10/15/2024,-,-
-MS,MS-K,Capital Markets,Pref,Non-cumul,Fixed,5.85%,$0.00,1149,-,Baa3,BBB-,True,64 k,40 000 k,3 630 k, 0 k,5.85%,$25.00,4/15/2027,-,-
-MS,MS-L,Capital Markets,Pref,Non-cumul,Fixed,5.35%,$2.24,329,-,Baa3,BBB-,True,27 k,20 000 k,1 749 k, 0 k,4.88%,$25.00,1/15/2025,-,-
-MS,MS-O,Capital Markets,Pref,Non-cumul,Fixed,5.45%,$5.52,1059,-,Baa3,BBB-,True,120 k,52 000 k,4 842 k, 0 k,4.25%,$25.00,1/15/2027,-,-
-MS,MS-P,Capital Markets,Pref,Non-cumul,Fixed,6.15%,-$1.44,1332,-,Baa3,BBB-,True,67 k,40 000 k,3 725 k, 0 k,6.50%,$25.00,10/15/2027,-,-
-MTB,MTB-H,Bank - Regional,Pref,Non-cumul,Fix/Float,5.78%,$0.66,1028,-,Baa2,BB+,True,41 k,10 000 k, 931 k, 0 k,5.63%,$25.00,12/15/2026,-,1028
-NCV,NCV-A,CEF - Debt,Pref,Cumul,Fixed,6.39%,$3.01,Callable,-,-,-,False,2 k,4 000 k,-,-,5.63%,$25.00,9/20/2023,-,-
-NCZ,NCZ-A,CEF - Debt,Pref,Cumul,Fixed,6.53%,$3.94,Callable,-,-,-,False,5 k,4 360 k,-,-,5.50%,$25.00,9/11/2023,-,-
-NEE,NEE-N,Utilities - Regulated Electric,Bond,Interest,Fixed,5.58%,-$0.30,115,20097,Baa2,BBB,True,35 k,27 500 k,2 554 k, 0 k,5.65%,$25.00,6/15/2024,3/1/2079,-
-NEWT,NEWTI,Asset Management,Bond,Interest,Fixed,8.10%,$0.09,558,1654,-,-,False,6 k,1 600 k,-,-,8.00%,$25.00,9/1/2025,9/1/2028,-
-NEWT,NEWTL,Asset Management,Bond,Interest,Fixed,7.59%,$0.20,Callable,162,-,-,False,6 k,1 530 k,-,-,5.75%,$25.00,8/1/2021,8/1/2024,-
-NEWT,NEWTZ,Asset Management,Bond,Interest,Fixed,8.19%,$1.20,Callable,711,-,-,False,7 k,4 600 k, 428 k, 0 k,5.50%,$25.00,2/1/2022,2/1/2026,-
-NI,NI-B,Utilities - Regulated Gas,Pref,Cumul,Reset,6.42%,-$0.31,23,-,Ba1,BBB-,True,56 k,20 000 k,1 860 k, 0 k,6.50%,$25.00,3/15/2024,-,23
-NLY,NLY-F,REIT - Mortgage,Pref,Cumul,Fix/Float,10.34%,-$0.55,Callable,-,-,-,False,55 k,28 800 k,2 684 k, 0 k,10.57%,$25.00,9/30/2022,-,Floating
-NLY,NLY-G,REIT - Mortgage,Pref,Cumul,Fix/Float,9.61%,-$0.36,Callable,-,-,-,False,24 k,17 000 k,1 584 k, 0 k,9.74%,$25.00,3/31/2023,-,Floating
-NLY,NLY-I,REIT - Mortgage,Pref,Cumul,Fix/Float,6.72%,-$0.12,130,-,-,-,False,29 k,17 700 k,1 650 k, 0 k,6.75%,$25.00,6/30/2024,-,130
+JPM,JPM-J,Bank - Diversified,Pref,Non-cumul,Fixed,5.30%,$2.61,283,-,Baa2,BBB-,True,61 k,36 000 k,2 670 k, 0 k,4.75%,$25.00,12/1/2024,-,-
+JPM,JPM-K,Bank - Diversified,Pref,Non-cumul,Fixed,5.39%,$3.90,830,-,Baa2,BBB-,True,100 k,60 000 k,4 507 k, 0 k,4.55%,$25.00,6/1/2026,-,-
+JPM,JPM-L,Bank - Diversified,Pref,Non-cumul,Fixed,5.41%,$3.62,830,-,Baa2,BBB-,True,113 k,74 000 k,5 550 k, 0 k,4.63%,$25.00,6/1/2026,-,-
+JPM,JPM-M,Bank - Diversified,Pref,Non-cumul,Fixed,5.37%,$5.45,922,-,Baa2,BBB-,True,181 k,80 000 k,5 999 k, 0 k,4.20%,$25.00,9/1/2026,-,-
+NAVI,JSM,Credit Services,Bond,Interest,Fixed,7.69%,$4.28,Callable,7236,Ba3,B+,False,9 k,12 000 k,-,-,6.00%,$25.00,12/15/2008,12/15/2043,-
+JXN,JXN-A,Insurance - Life,Pref,Non-cumul,Reset,7.43%,-$1.93,1498,-,Ba1,BB+,False,96 k,22 000 k,2 025 k, 0 k,8.00%,$25.00,3/30/2028,-,1498
+KEY,KEY-I,Bank - Regional,Pref,Non-cumul,Fix/Float,6.54%,$1.58,1027,-,Baa3,BB+,True,46 k,20 000 k,1 864 k, 0 k,6.13%,$25.00,12/15/2026,-,1027
+KEY,KEY-J,Bank - Regional,Pref,Non-cumul,Fixed,6.79%,$4.21,Callable,-,Baa3,BB+,True,34 k,17 000 k,1 584 k, 0 k,5.65%,$25.00,12/15/2023,-,-
+KEY,KEY-K,Bank - Regional,Pref,Non-cumul,Fixed,6.65%,$3.84,206,-,Baa3,BB+,True,50 k,18 000 k,1 682 k, 0 k,5.63%,$25.00,9/15/2024,-,-
+KEY,KEY-L,Bank - Regional,Pref,Non-cumul,Reset,6.88%,$2.46,1392,-,Baa3,BB+,True,80 k,24 000 k,2 235 k, 0 k,6.20%,$25.00,12/15/2027,-,1392
+KIM,KIM-L,REIT - Retail,Pref,Cumul,Fixed,5.53%,$1.82,Callable,-,Baa2,BBB-,True,10 k,8 902 k, 828 k, 0 k,5.13%,$25.00,8/16/2022,-,-
+KIM,KIM-M,REIT - Retail,Pref,Cumul,Fixed,5.64%,$1.72,Callable,-,Baa2,BBB-,True,11 k,10 465 k, 977 k, 0 k,5.25%,$25.00,12/20/2022,-,-
+KKR,KKRS,Asset Management,Bond,Interest,Fixed,6.11%,$5.44,769,13553,-,-,False,19 k,20 000 k,1 868 k, 0 k,4.63%,$25.00,4/1/2026,4/1/2061,-
+KMPR,KMPB,Insurance - Property & Casualty,Bond,Interest,Reset,6.87%,$3.35,1117,13901,Ba1,BB,False,20 k,6 000 k, 559 k, 0 k,5.88%,$25.00,3/15/2027,3/15/2062,1117
+KREF,KREF-A,REIT - Mortgage,Pref,Cumul,Fixed,8.60%,$6.10,784,-,-,-,False,22 k,13 110 k,1 222 k, 0 k,6.50%,$25.00,4/16/2026,-,-
+EXC,KTH,Utilities - Regulated Electric,Cert,Interest,Fixed,4.01%,-$3.77,-,1505,A3,BBB-,True,1 k,1 015 k,-,-,8.00%,$25.00,-,4/6/2028,-
+AON,KTN,Insurance Broker,Cert,Interest,Fixed,5.69%,-$1.65,-,1044,WR,BBB,True,2 k,1 607 k,-,-,8.21%,$25.00,-,1/1/2027,-
+LAND,LANDM,REIT - Specialty,Pref,Cumul,Fixed,7.37%,$1.06,Callable,709,-,-,False,4 k,2 415 k,-,-,5.00%,$25.00,1/31/2023,1/31/2026,-
+LAND,LANDO,REIT - Specialty,Pref,Cumul,Fixed,7.33%,$4.54,Callable,-,-,-,False,12 k,5 956 k, 554 k, 0 k,6.00%,$25.00,1/10/2022,-,-
+LAND,LANDP,REIT - Specialty,Pref,Cumul,Fixed,7.48%,$4.95,100,-,-,-,False,20 k,10 157 k,-,-,6.00%,$25.00,6/1/2024,-,-
+LBRDA,LBRDP,Telecom Services,Pref,Cumul,Fixed,Special,$2.56,-,-,-,-,False,13 k,7 163 k,-,-,7.00%,$25.00,-,n.a.,-
+LFMD,LFMDP,Health Information Services,Pref,Cumul,Fixed,11.32%,$5.50,Callable,-,-,-,False,24 k,1 400 k,-,-,8.88%,$25.50,10/15/2022,-,-
+LFT,LFT-A,REIT - Mortgage,Pref,Cumul,Fixed,10.02%,$5.35,803,-,-,-,False,5 k,2 400 k,-,-,7.88%,$25.00,5/5/2026,-,-
+LNC,LNC-D,Insurance - Life,Pref,Non-cumul,Fixed,5.70%,-$2.78,1378,-,Baa3,BBB-,True,62 k,20 000 k,1 841 k, 0 k,9.00%,$25.00,12/1/2027,-,-
+LUXH,LUXHP,Lodging,Pref,Cumul,Fixed,15.48%,$4.17,Callable,-,-,-,False,4 k, 294 k,-,-,13.00%,$26.00,-,-,-
+MAA,MAA-I,REIT - Residential,Pref,Cumul,Fixed,3.26%,-$6.53,952,-,WR,BBB,True,1 k, 868 k,-,-,8.50%,$50.00,10/1/2026,-,-
+MBIN,MBINM,Bank - Regional,Pref,Non-cumul,Reset,8.06%,-$0.60,1317,-,Ba3,-,False,11 k,5 700 k, 530 k, 0 k,8.25%,$25.00,10/1/2027,-,1317
+MBIN,MBINN,Bank - Regional,Pref,Non-cumul,Fixed,7.03%,$3.65,769,-,Ba3,-,False,7 k,7 847 k, 731 k, 0 k,6.00%,$25.00,4/1/2026,-,-
+MBIN,MBINO,Bank - Regional,Pref,Non-cumul,Fix/Float,6.14%,$0.58,222,-,Ba3,-,False,9 k,5 000 k, 480 k, 0 k,6.00%,$25.00,10/1/2024,-,222
+MBIN,MBINP,Bank - Regional,Pref,Non-cumul,Fix/Float,6.92%,-$0.29,39,-,Ba3,-,False,3 k,2 078 k,-,-,7.00%,$25.00,4/1/2024,-,39
+MFIN,MBNKP,Credit Services,Pref,Non-cumul,Fix/Float,8.06%,$0.20,404,-,-,-,False,2 k,1 840 k,-,-,8.00%,$25.00,4/1/2025,-,404
+MDRR,MDRRP,REIT - Diversified,Pref,Cumul,Fixed,10.36%,$0.55,Callable,363,-,-,False,1 k, 200 k,-,-,8.00%,$25.00,2/19/2022,2/19/2025,-
+MDV,MDV-A,REIT - Diversified,Pref,Cumul,Fixed,7.90%,$1.65,938,-,-,-,False,2 k,2 000 k,-,-,7.38%,$25.00,9/17/2026,-,-
+BAC,MER-K,Bank - Diversified,Bond,Interest,Reset,Special,-,Callable,15637,Baa2,BBB-,True,-,-,2 077 k, 0 k,Special,$25.00,12/15/2011,12/15/2066,Reset
+MET,MET-A,Insurance - Life,Pref,Non-cumul,Floating,6.82%,$0.70,Callable,-,Baa3,BBB-,True,38 k,24 000 k,2 237 k, 0 k,6.63%,$25.00,9/15/2010,-,Floating
+MET,MET-E,Insurance - Life,Pref,Non-cumul,Fixed,5.70%,$0.31,Callable,-,Baa2,BBB,True,43 k,32 200 k,3 012 k, 0 k,5.63%,$25.00,6/15/2023,-,-
+MET,MET-F,Insurance - Life,Pref,Non-cumul,Fixed,5.49%,$3.38,387,-,Baa2,BBB,True,76 k,40 000 k,3 715 k, 0 k,4.75%,$25.00,3/15/2025,-,-
+MFA,MFA-B,REIT - Mortgage,Pref,Cumul,Fixed,9.02%,$4.21,Callable,-,-,-,False,13 k,8 000 k, 743 k, 0 k,7.50%,$25.00,4/15/2018,-,-
+MFA,MFA-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.52%,$3.40,403,-,-,-,False,23 k,11 000 k,1 027 k, 0 k,6.50%,$25.00,3/31/2025,-,403
+AMG,MGR,Asset Management,Bond,Interest,Fixed,Error,$22.77,37,12820,Baa1,BBB-,True,"11,643 k",3945 860 k,1 118 k, 0 k,5.88%,$25.00,3/30/2024,3/30/2059,-
+AMG,MGRB,Asset Management,Bond,Interest,Fixed,6.31%,$5.56,586,13370,Baa1,BBB-,True,14 k,11 000 k,1 025 k, 0 k,4.75%,$25.00,9/30/2025,9/30/2060,-
+AMG,MGRD,Asset Management,Bond,Interest,Fixed,6.33%,$7.62,951,13735,Baa1,BBB-,True,9 k,8 000 k, 746 k, 0 k,4.20%,$25.00,9/30/2026,9/30/2061,-
+MHLD,MHLA,Insurance - Reinsurance,Bond,Interest,Fixed,#N/A,-,Callable,8148,-,-,False,-,-, 449 k, 0 k,6.63%,$25.00,6/14/2021,6/14/2046,-
+MHLD,MHNC,Insurance - Reinsurance,Bond,Interest,Fixed,11.31%,$7.00,Callable,7222,-,-,False,2 k,6 100 k, 582 k, 0 k,7.75%,$25.00,12/1/2018,12/1/2043,-
+MIND,MINDP,Scientific & Technical Instruments,Pref,Cumul,Fixed,29.96%,$17.49,Callable,-,-,-,False,6 k,1 683 k,-,-,9.00%,$25.00,6/8/2021,-,-
+MITT,MITT-A,REIT - Mortgage,Pref,Cumul,Fixed,10.53%,$5.41,Callable,-,-,-,False,5 k,1 663 k,-,-,8.25%,$25.00,8/3/2017,-,-
+MITT,MITT-B,REIT - Mortgage,Pref,Cumul,Fixed,10.43%,$5.83,Callable,-,-,-,False,8 k,3 728 k,-,-,8.00%,$25.00,9/27/2017,-,-
+MITT,MITT-C,REIT - Mortgage,Pref,Cumul,Fix/Float,8.50%,$1.47,208,-,-,-,False,14 k,3 729 k,-,-,8.00%,$25.00,9/17/2024,-,208
+MNSB,MNSBP,Bank - Regional,Pref,Non-cumul,Fixed,7.88%,$1.20,586,-,-,-,False,2 k,1 150 k,-,-,7.50%,$25.00,9/30/2025,-,-
+MS,MS-A,Capital Markets,Pref,Non-cumul,Floating,6.98%,$2.52,Callable,-,Baa3,BBB-,True,66 k,44 000 k,4 097 k, 0 k,6.27%,$25.00,7/15/2011,-,Floating
+MS,MS-E,Capital Markets,Pref,Non-cumul,Fixed,7.02%,-$0.38,Callable,-,Baa3,BBB-,True,71 k,34 500 k,3 212 k, 0 k,7.13%,$25.00,10/15/2023,-,-
+MS,MS-F,Capital Markets,Pref,Non-cumul,Fixed,6.78%,-$0.34,Callable,-,Baa3,BBB-,True,41 k,34 000 k,3 086 k, 0 k,6.88%,$25.00,1/15/2024,-,-
+MS,MS-I,Capital Markets,Pref,Non-cumul,Fixed,6.36%,-$0.06,236,-,Baa3,BBB-,True,94 k,40 000 k,3 629 k, 0 k,6.38%,$25.00,10/15/2024,-,-
+MS,MS-K,Capital Markets,Pref,Non-cumul,Fixed,5.88%,$0.11,1148,-,Baa3,BBB-,True,62 k,40 000 k,3 630 k, 0 k,5.85%,$25.00,4/15/2027,-,-
+MS,MS-L,Capital Markets,Pref,Non-cumul,Fixed,5.41%,$2.46,328,-,Baa3,BBB-,True,28 k,20 000 k,1 749 k, 0 k,4.88%,$25.00,1/15/2025,-,-
+MS,MS-O,Capital Markets,Pref,Non-cumul,Fixed,5.49%,$5.63,1058,-,Baa3,BBB-,True,121 k,52 000 k,4 842 k, 0 k,4.25%,$25.00,1/15/2027,-,-
+MS,MS-P,Capital Markets,Pref,Non-cumul,Fixed,6.19%,-$1.27,1331,-,Baa3,BBB-,True,66 k,40 000 k,3 725 k, 0 k,6.50%,$25.00,10/15/2027,-,-
+MTB,MTB-H,Bank - Regional,Pref,Non-cumul,Fix/Float,5.78%,$0.65,1027,-,Baa2,BB+,True,42 k,10 000 k, 931 k, 0 k,5.63%,$25.00,12/15/2026,-,1027
+NCV,NCV-A,CEF - Debt,Pref,Cumul,Fixed,6.37%,$2.92,Callable,-,-,-,False,2 k,4 000 k,-,-,5.63%,$25.00,9/20/2023,-,-
+NCZ,NCZ-A,CEF - Debt,Pref,Cumul,Fixed,6.50%,$3.84,Callable,-,-,-,False,5 k,4 360 k,-,-,5.50%,$25.00,9/11/2023,-,-
+NEE,NEE-N,Utilities - Regulated Electric,Bond,Interest,Fixed,5.60%,-$0.20,114,20096,Baa2,BBB,True,34 k,27 500 k,2 554 k, 0 k,5.65%,$25.00,6/15/2024,3/1/2079,-
+NEWT,NEWTI,Asset Management,Bond,Interest,Fixed,8.02%,$0.02,557,1653,-,-,False,6 k,1 600 k,-,-,8.00%,$25.00,9/1/2025,9/1/2028,-
+NEWT,NEWTL,Asset Management,Bond,Interest,Fixed,7.32%,$0.17,Callable,161,-,-,False,5 k,1 530 k,-,-,5.75%,$25.00,8/1/2021,8/1/2024,-
+NEWT,NEWTZ,Asset Management,Bond,Interest,Fixed,8.20%,$1.20,Callable,710,-,-,False,7 k,4 600 k, 428 k, 0 k,5.50%,$25.00,2/1/2022,2/1/2026,-
+NI,NI-B,Utilities - Regulated Gas,Pref,Cumul,Reset,6.42%,-$0.33,22,-,Ba1,BBB-,True,57 k,20 000 k,1 860 k, 0 k,6.50%,$25.00,3/15/2024,-,22
+NLY,NLY-F,REIT - Mortgage,Pref,Cumul,Fix/Float,10.31%,-$0.61,Callable,-,-,-,False,55 k,28 800 k,2 684 k, 0 k,10.57%,$25.00,9/30/2022,-,Floating
+NLY,NLY-G,REIT - Mortgage,Pref,Cumul,Fix/Float,9.57%,-$0.46,Callable,-,-,-,False,23 k,17 000 k,1 584 k, 0 k,9.74%,$25.00,3/31/2023,-,Floating
+NLY,NLY-I,REIT - Mortgage,Pref,Cumul,Fix/Float,6.73%,-$0.08,129,-,-,-,False,28 k,17 700 k,1 650 k, 0 k,6.75%,$25.00,6/30/2024,-,129
 NM,NM-G,Marine Shipping,Pref,Cumul,Fixed,#N/A,-,Callable,-,-,-,False,-,-,-,-,8.75%,$25.00,1/28/2019,-,-
 NM,NM-H,Marine Shipping,Pref,Cumul,Fixed,#N/A,-,Callable,-,-,-,False,-,-,-,-,8.63%,$25.00,7/8/2019,-,-
-NREF,NREF-A,REIT - Mortgage,Pref,Cumul,Fixed,10.02%,$3.80,519,-,-,-,False,3 k,1 645 k,-,-,8.50%,$25.00,7/24/2025,-,-
--,NRUC,-,Bond,Interest,Fixed,5.52%,$0.08,84,14694,A3,-,True,11 k,10 000 k, 931 k, 0 k,5.50%,$25.00,5/15/2024,5/15/2064,-
-NSA,NSA-A,REIT - Industrial,Pref,Cumul,Fixed,6.41%,$1.60,Callable,-,-,-,False,11 k,9 018 k, 848 k, 0 k,6.00%,$25.00,10/11/2022,-,-
-NS,NSS,Oil & Gas Midstream,Bond,Interest,Fix/Float,11.92%,-$0.72,Callable,6903,B2,B,False,61 k,16 100 k,1 503 k, 0 k,12.31%,$25.00,1/15/2018,1/15/2043,Floating
-NTRS,NTRSO,Asset Management,Pref,Non-cumul,Fixed,5.36%,$3.06,315,-,Baa1,BBB+,True,24 k,16 000 k,1 499 k, 0 k,4.70%,$25.00,1/1/2025,-,-
-NXDT,NXDT-A,REIT - Diversified,Pref,Cumul,Fixed,8.84%,$9.44,Callable,-,-,-,False,6 k,3 357 k,-,-,5.50%,$25.00,12/15/2023,-,-
-NYCB,NYCB-A,Bank - Regional,Pref,Non-cumul,Fix/Float,8.55%,$6.35,1120,-,Ba2,B+,False,400 k,20 600 k,1 919 k, 0 k,6.38%,$25.00,3/17/2027,-,1120
-NYMT,NYMTL,REIT - Mortgage,Pref,Cumul,Fix/Float,8.85%,$5.58,967,-,-,-,False,6 k,5 740 k, 491 k, 0 k,6.88%,$25.00,10/15/2026,-,967
-NYMT,NYMTM,REIT - Mortgage,Pref,Cumul,Fix/Float,8.54%,$1.94,329,-,-,-,False,9 k,7 343 k, 682 k, 0 k,7.88%,$25.00,1/15/2025,-,329
-NYMT,NYMTN,REIT - Mortgage,Pref,Cumul,Fix/Float,9.21%,$3.28,1332,-,-,-,False,9 k,6 107 k, 563 k, 0 k,8.00%,$25.00,10/15/2027,-,1332
-NYMT,NYMTZ,REIT - Mortgage,Pref,Cumul,Fixed,9.92%,$7.35,1059,-,-,-,False,6 k,2 974 k,-,-,7.00%,$25.00,1/15/2027,-,-
-OCCI,OCCIN,Asset Management,Pref,Cumul,Fixed,8.59%,$2.10,Callable,1044,-,-,False,16 k,1 400 k,-,-,5.25%,$25.00,12/31/2023,12/31/2026,-
-OCCI,OCCIO,Asset Management,Pref,Cumul,Fixed,8.80%,$1.32,Callable,799,-,-,False,1 k, 920 k,-,-,6.13%,$25.00,4/30/2023,4/30/2026,-
-OCFC,OCFCP,Bank - Regional,Pref,Non-cumul,Fix/Float,7.06%,$0.20,449,-,-,-,False,4 k,2 295 k,-,-,7.00%,$25.00,5/15/2025,-,449
-ONB,ONBPO,Bank - Regional,Pref,Non-cumul,Fixed,7.16%,$0.55,546,-,Baa2,-,True,8 k,4 900 k,-,-,7.00%,$25.00,8/20/2025,-,-
-ONB,ONBPP,Bank - Regional,Pref,Non-cumul,Fixed,7.14%,$0.50,546,-,Baa2,-,True,9 k,4 320 k,-,-,7.00%,$25.00,8/20/2025,-,-
-OPI,OPINL,REIT - Office,Bond,Interest,Fixed,15.78%,$14.65,488,9619,Ba1,BBB-,True,50 k,6 480 k,-,-,6.38%,$25.00,6/23/2025,6/23/2050,-
-OPP,OPP-A,Asset Management,Pref,Cumul,Fixed,5.99%,$6.75,633,-,A1,-,True,3 k,2 400 k,-,-,4.38%,$25.00,11/15/2025,-,-
-OPP,OPP-B,Asset Management,Pref,Cumul,Fixed,5.97%,$5.12,1090,-,A1,-,True,2 k,2 400 k,-,-,4.75%,$25.00,2/15/2027,-,-
-OXLC,OXLCL,CEF - Debt,Bond,Interest,Fixed,7.41%,$0.90,24,2595,-,-,False,3 k,4 000 k,-,-,6.75%,$25.00,3/16/2024,3/31/2031,-
-OXLC,OXLCM,CEF - Debt,Pref,Cumul,Fixed,7.20%,$0.04,Callable,130,-,-,False,6 k,2 725 k,-,-,6.75%,$25.00,6/30/2020,6/30/2024,-
-OXLC,OXLCN,CEF - Debt,Pref,Cumul,Fixed,#N/A,-,130,1956,-,-,False,-,-,-,-,7.13%,$25.00,6/30/2024,6/30/2029,-
-OXLC,OXLCO,CEF - Debt,Pref,Cumul,Fixed,8.91%,$3.15,192,2018,-,-,False,3 k,2 687 k,-,-,6.00%,$25.00,8/31/2024,8/31/2029,-
-OXLC,OXLCP,CEF - Debt,Pref,Cumul,Fixed,8.82%,$1.69,Callable,1103,-,-,False,3 k,3 525 k,-,-,6.25%,$25.00,2/28/2023,2/28/2027,-
-OXLC,OXLCZ,CEF - Debt,Bond,Interest,Fixed,7.79%,$1.82,Callable,1075,-,-,False,6 k,4 000 k,-,-,5.00%,$25.00,1/31/2024,1/31/2027,-
-OXSQ,OXSQG,Asset Management,Bond,Interest,Fixed,7.60%,$1.96,100,1622,-,-,False,1 k,3 220 k,-,-,5.50%,$25.00,5/31/2024,7/31/2028,-
-OXSQ,OXSQZ,Asset Management,Bond,Interest,Fixed,7.65%,$0.70,Callable,799,-,-,False,2 k,1 792 k,-,-,6.25%,$25.00,4/30/2022,4/30/2026,-
-OZK,OZKAP,Bank - Regional,Pref,Non-cumul,Fixed,6.79%,$7.97,998,-,Ba2,-,False,42 k,14 000 k,1 304 k, 0 k,4.63%,$25.00,11/15/2026,-,-
-PBI,PBI-B,Int Freight & Logistics,Bond,Interest,Fixed,9.26%,$5.70,Callable,6954,B,BB-,False,45 k,17 000 k,1 565 k, 0 k,6.70%,$25.00,3/7/2018,3/7/2043,-
-PCG,PCG-A,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.24%,$0.96,-,-,WR,-,False,6 k,4 212 k, 414 k, 0 k,6.00%,$25.00,-,-,-
-PCG,PCG-B,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.55%,$4.02,-,-,WR,-,False,2 k,1 123 k,-,-,5.50%,$25.00,-,-,-
-PCG,PCG-C,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.51%,$5.79,-,-,WR,-,False,1 k, 386 k,-,-,5.00%,$25.00,-,-,-
-PCG,PCG-D,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.68%,$6.28,Callable,-,WR,-,False,3 k, 934 k,-,-,5.00%,$25.00,-,-,-
-PCG,PCG-E,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.68%,$6.30,Callable,-,WR,-,False,1 k, 902 k,-,-,5.00%,$25.00,-,-,-
-PCG,PCG-G,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.67%,$7.00,Callable,-,WR,-,False,1 k, 793 k,-,-,4.80%,$25.00,-,-,-
+NREF,NREF-A,REIT - Mortgage,Pref,Cumul,Fixed,10.00%,$3.75,518,-,-,-,False,4 k,1 645 k,-,-,8.50%,$25.00,7/24/2025,-,-
+-,NRUC,-,Bond,Interest,Fixed,5.50%,$0.01,83,14693,A3,-,True,10 k,10 000 k, 931 k, 0 k,5.50%,$25.00,5/15/2024,5/15/2064,-
+NSA,NSA-A,REIT - Industrial,Pref,Cumul,Fixed,6.43%,$1.66,Callable,-,-,-,False,11 k,9 018 k, 848 k, 0 k,6.00%,$25.00,10/11/2022,-,-
+NS,NSS,Oil & Gas Midstream,Bond,Interest,Fix/Float,11.91%,-$0.74,Callable,6902,B2,B,False,62 k,16 100 k,1 503 k, 0 k,12.31%,$25.00,1/15/2018,1/15/2043,Floating
+NTRS,NTRSO,Asset Management,Pref,Non-cumul,Fixed,5.40%,$3.26,314,-,Baa1,BBB+,True,24 k,16 000 k,1 499 k, 0 k,4.70%,$25.00,1/1/2025,-,-
+NXDT,NXDT-A,REIT - Diversified,Pref,Cumul,Fixed,8.76%,$9.30,Callable,-,-,-,False,5 k,3 357 k,-,-,5.50%,$25.00,12/15/2023,-,-
+NYCB,NYCB-A,Bank - Regional,Pref,Non-cumul,Fix/Float,8.61%,$6.48,1119,-,Ba2,B+,False,401 k,20 600 k,1 919 k, 0 k,6.38%,$25.00,3/17/2027,-,1119
+NYMT,NYMTL,REIT - Mortgage,Pref,Cumul,Fix/Float,8.90%,$5.69,966,-,-,-,False,6 k,5 740 k, 491 k, 0 k,6.88%,$25.00,10/15/2026,-,966
+NYMT,NYMTM,REIT - Mortgage,Pref,Cumul,Fix/Float,8.56%,$1.99,328,-,-,-,False,9 k,7 343 k, 682 k, 0 k,7.88%,$25.00,1/15/2025,-,328
+NYMT,NYMTN,REIT - Mortgage,Pref,Cumul,Fix/Float,9.21%,$3.28,1331,-,-,-,False,8 k,6 107 k, 563 k, 0 k,8.00%,$25.00,10/15/2027,-,1331
+NYMT,NYMTZ,REIT - Mortgage,Pref,Cumul,Fixed,9.92%,$7.35,1058,-,-,-,False,6 k,2 974 k,-,-,7.00%,$25.00,1/15/2027,-,-
+OCCI,OCCIN,Asset Management,Pref,Cumul,Fixed,8.55%,$2.07,Callable,1043,-,-,False,16 k,1 400 k,-,-,5.25%,$25.00,12/31/2023,12/31/2026,-
+OCCI,OCCIO,Asset Management,Pref,Cumul,Fixed,8.80%,$1.32,Callable,798,-,-,False,1 k, 920 k,-,-,6.13%,$25.00,4/30/2023,4/30/2026,-
+OCFC,OCFCP,Bank - Regional,Pref,Non-cumul,Fix/Float,7.04%,$0.15,448,-,-,-,False,4 k,2 295 k,-,-,7.00%,$25.00,5/15/2025,-,448
+ONB,ONBPO,Bank - Regional,Pref,Non-cumul,Fixed,7.19%,$0.65,545,-,Baa2,-,True,7 k,4 900 k,-,-,7.00%,$25.00,8/20/2025,-,-
+ONB,ONBPP,Bank - Regional,Pref,Non-cumul,Fixed,7.19%,$0.67,545,-,Baa2,-,True,9 k,4 320 k,-,-,7.00%,$25.00,8/20/2025,-,-
+OPI,OPINL,REIT - Office,Bond,Interest,Fixed,15.81%,$14.67,487,9618,Ba1,BBB-,True,49 k,6 480 k,-,-,6.38%,$25.00,6/23/2025,6/23/2050,-
+OPP,OPP-A,Asset Management,Pref,Cumul,Fixed,6.00%,$6.76,632,-,A1,-,True,3 k,2 400 k,-,-,4.38%,$25.00,11/15/2025,-,-
+OPP,OPP-B,Asset Management,Pref,Cumul,Fixed,5.99%,$5.18,1089,-,A1,-,True,2 k,2 400 k,-,-,4.75%,$25.00,2/15/2027,-,-
+OXLC,OXLCL,CEF - Debt,Bond,Interest,Fixed,7.40%,$0.89,23,2594,-,-,False,3 k,4 000 k,-,-,6.75%,$25.00,3/16/2024,3/31/2031,-
+OXLC,OXLCM,CEF - Debt,Pref,Cumul,Fixed,7.54%,$0.07,Callable,129,-,-,False,6 k,2 725 k,-,-,6.75%,$25.00,6/30/2020,6/30/2024,-
+OXLC,OXLCN,CEF - Debt,Pref,Cumul,Fixed,#N/A,-,129,1955,-,-,False,-,-,-,-,7.13%,$25.00,6/30/2024,6/30/2029,-
+OXLC,OXLCO,CEF - Debt,Pref,Cumul,Fixed,8.90%,$3.14,191,2017,-,-,False,3 k,2 687 k,-,-,6.00%,$25.00,8/31/2024,8/31/2029,-
+OXLC,OXLCP,CEF - Debt,Pref,Cumul,Fixed,8.81%,$1.68,Callable,1102,-,-,False,3 k,3 525 k,-,-,6.25%,$25.00,2/28/2023,2/28/2027,-
+OXLC,OXLCZ,CEF - Debt,Bond,Interest,Fixed,8.05%,$1.98,Callable,1074,-,-,False,6 k,4 000 k,-,-,5.00%,$25.00,1/31/2024,1/31/2027,-
+OXSQ,OXSQG,Asset Management,Bond,Interest,Fixed,7.60%,$1.96,99,1621,-,-,False,1 k,3 220 k,-,-,5.50%,$25.00,5/31/2024,7/31/2028,-
+OXSQ,OXSQZ,Asset Management,Bond,Interest,Fixed,7.47%,$0.61,Callable,798,-,-,False,2 k,1 792 k,-,-,6.25%,$25.00,4/30/2022,4/30/2026,-
+OZK,OZKAP,Bank - Regional,Pref,Non-cumul,Fixed,6.78%,$7.95,997,-,Ba2,-,False,42 k,14 000 k,1 304 k, 0 k,4.63%,$25.00,11/15/2026,-,-
+PBI,PBI-B,Int Freight & Logistics,Bond,Interest,Fixed,9.51%,$6.15,Callable,6953,B,BB-,False,45 k,17 000 k,1 565 k, 0 k,6.70%,$25.00,3/7/2018,3/7/2043,-
+PCG,PCG-A,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.15%,$0.60,-,-,WR,-,False,6 k,4 212 k, 414 k, 0 k,6.00%,$25.00,-,-,-
+PCG,PCG-B,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.60%,$4.18,-,-,WR,-,False,2 k,1 123 k,-,-,5.50%,$25.00,-,-,-
+PCG,PCG-C,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.47%,$5.68,-,-,WR,-,False,1 k, 386 k,-,-,5.00%,$25.00,-,-,-
+PCG,PCG-D,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.58%,$6.01,Callable,-,WR,-,False,3 k, 934 k,-,-,5.00%,$25.00,-,-,-
+PCG,PCG-E,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.54%,$5.89,Callable,-,WR,-,False,1 k, 902 k,-,-,5.00%,$25.00,-,-,-
+PCG,PCG-G,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.61%,$6.84,Callable,-,WR,-,False,1 k, 793 k,-,-,4.80%,$25.00,-,-,-
 PCG,PCG-H,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.72%,$8.25,Callable,-,WR,-,False,1 k, 585 k,-,-,4.50%,$25.00,-,-,-
 PCG,PCG-I,Utilities - Regulated Electric,Pref,Non-cumul,Fixed,6.15%,$7.27,Callable,-,WR,-,False,2 k, 402 k,-,-,4.36%,$25.00,-,-,-
-PEB,PEB-E,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.32%,$3.23,Callable,-,-,-,False,3 k,4 400 k,-,-,6.38%,$25.00,3/4/2018,-,-
-PEB,PEB-F,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.39%,$3.69,Callable,-,-,-,False,7 k,6 000 k,-,-,6.30%,$25.00,5/25/2021,-,-
-PEB,PEB-G,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.34%,$3.29,812,-,-,-,False,7 k,9 200 k, 859 k, 0 k,6.38%,$25.00,5/13/2026,-,-
-PEB,PEB-H,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.43%,$5.81,887,-,-,-,False,12 k,8 000 k, 750 k, 0 k,5.70%,$25.00,7/27/2026,-,-
-PRU,PFH,Insurance - Life,Bond,Interest,Fixed,#N/A,-,558,13342,Baa1,BBB+,True,-,-,1 864 k, 0 k,4.13%,$25.00,9/1/2025,9/1/2060,-
-PFX,PFXNZ,Asset Management,Bond,Interest,Fixed,7.86%,$2.54,Callable,1715,-,-,False,0 k,2 300 k,-,-,5.25%,$25.00,11/1/2023,11/1/2028,-
-PMT,PMT-A,REIT - Mortgage,Pref,Cumul,Fixed,8.59%,$1.36,23,-,-,-,False,21 k,4 600 k, 431 k, 0 k,8.13%,$25.00,3/15/2024,-,-
-PMT,PMT-B,REIT - Mortgage,Pref,Cumul,Fixed,8.49%,$1.43,115,-,-,-,False,13 k,7 800 k, 727 k, 0 k,8.00%,$25.00,6/15/2024,-,-
-PMT,PMT-C,REIT - Mortgage,Pref,Cumul,Fixed,8.50%,$5.15,915,-,-,-,False,15 k,10 000 k, 932 k, 0 k,6.75%,$25.00,8/24/2026,-,-
-PNFP,PNFPP,Bank - Regional,Pref,Non-cumul,Fixed,7.11%,$1.27,558,-,-,-,False,12 k,9 000 k, 841 k, 0 k,6.75%,$25.00,9/1/2025,-,-
-POWW,POWWP,Aerospace & Defense,Pref,Cumul,Fixed,8.43%,-$0.94,817,-,-,-,False,2 k,1 400 k,-,-,8.75%,$25.00,5/18/2026,-,-
--,PRE-J,Insurance - Reinsurance,Pref,Non-cumul,Fixed,5.97%,$4.59,753,-,Baa2,BBB,True,27 k,8 000 k,-,-,4.88%,$25.00,3/15/2026,-,-
-PRU,PRH,Insurance - Life,Bond,Interest,Fixed,5.74%,-$0.83,1288,14072,Baa1,BBB+,True,41 k,12 000 k,1 118 k, 0 k,5.95%,$25.00,9/1/2027,9/1/2062,-
--,PRIF-D,CEF - Debt,Pref,Cumul,Fixed,8.79%,$1.89,Callable,1946,-,-,False,1 k,1 094 k,-,-,7.00%,$25.00,3/31/2022,6/20/2029,-
--,PRIF-F,CEF - Debt,Pref,Cumul,Fixed,9.27%,$1.89,Callable,1225,-,-,False,2 k,1 233 k,-,-,6.63%,$25.00,2/25/2023,6/30/2027,-
--,PRIF-G,CEF - Debt,Pref,Cumul,Fixed,8.52%,$1.20,Callable,860,-,-,False,1 k,1 472 k,-,-,6.25%,$25.00,3/19/2023,6/30/2026,-
--,PRIF-H,CEF - Debt,Pref,Cumul,Fixed,9.11%,$1.94,Callable,1044,-,-,False,2 k,1 196 k,-,-,6.00%,$25.00,5/6/2023,12/31/2026,-
--,PRIF-I,CEF - Debt,Pref,Cumul,Fixed,9.09%,$2.64,117,1591,-,-,False,2 k,1 600 k,-,-,6.13%,$25.00,6/17/2024,6/30/2028,-
--,PRIF-J,CEF - Debt,Pref,Cumul,Fixed,#N/A,-,901,1775,-,-,False,-,-,-,-,6.00%,$25.00,8/10/2026,12/31/2028,-
--,PRIF-K,CEF - Debt,Pref,Cumul,Fixed,8.39%,$4.13,952,-,-,-,False,2 k,1 600 k,-,-,7.00%,$25.00,9/30/2026,-,-
--,PRIF-L,CEF - Debt,Pref,Cumul,Fixed,7.95%,$1.64,373,1865,-,-,False,2 k,1 100 k,-,-,6.38%,$25.00,2/28/2025,3/31/2029,-
-PRU,PRS,Insurance - Life,Bond,Interest,Fixed,Error,Error,Callable,12594,Baa1,BBB+,True,680 k,270 149 k,2 099 k, 0 k,5.63%,$25.00,8/15/2023,8/15/2058,-
-PSA,PSA-F,REIT - Industrial,Pref,Cumul,Fixed,5.25%,$0.47,Callable,-,A3,BBB+,True,15 k,11 200 k,1 044 k, 0 k,5.15%,$25.00,6/2/2022,-,-
-PSA,PSA-G,REIT - Industrial,Pref,Cumul,Fixed,5.11%,$0.27,Callable,-,A3,BBB+,True,21 k,12 000 k,1 118 k, 0 k,5.05%,$25.00,8/9/2022,-,-
-PSA,PSA-H,REIT - Industrial,Pref,Cumul,Fixed,5.61%,$0.05,19,-,A3,BBB+,True,25 k,11 400 k,1 063 k, 0 k,5.60%,$25.00,3/11/2024,-,-
-PSA,PSA-I,REIT - Industrial,Pref,Cumul,Fixed,5.23%,$1.68,204,-,A3,BBB+,True,15 k,12 650 k,1 177 k, 0 k,4.88%,$25.00,9/12/2024,-,-
-PSA,PSA-J,REIT - Industrial,Pref,Cumul,Fixed,5.35%,$3.05,268,-,A3,BBB+,True,13 k,10 350 k, 965 k, 0 k,4.70%,$25.00,11/15/2024,-,-
-PSA,PSA-K,REIT - Industrial,Pref,Cumul,Fixed,5.41%,$3.05,303,-,A3,BBB+,True,12 k,9 200 k, 858 k, 0 k,4.75%,$25.00,12/20/2024,-,-
-PSA,PSA-L,REIT - Industrial,Pref,Cumul,Fixed,5.30%,$3.17,482,-,A3,BBB+,True,29 k,22 600 k,2 103 k, 0 k,4.63%,$25.00,6/17/2025,-,-
-PSA,PSA-M,REIT - Industrial,Pref,Cumul,Fixed,5.34%,$5.68,540,-,A3,BBB+,True,6 k,9 200 k, 858 k, 0 k,4.13%,$25.00,8/14/2025,-,-
-PSA,PSA-N,REIT - Industrial,Pref,Cumul,Fixed,5.43%,$7.15,593,-,A3,BBB+,True,15 k,11 300 k,1 056 k, 0 k,3.88%,$25.00,10/6/2025,-,-
-PSA,PSA-O,REIT - Industrial,Pref,Cumul,Fixed,#N/A,-,635,-,A3,BBB+,True,-,-, 636 k, 0 k,3.90%,$25.00,11/17/2025,-,-
-PSA,PSA-P,REIT - Industrial,Pref,Cumul,Fixed,#N/A,-,856,-,A3,BBB+,True,-,-,2 250 k, 0 k,4.00%,$25.00,6/26/2026,-,-
-PSA,PSA-Q,REIT - Industrial,Pref,Cumul,Fixed,5.42%,$6.77,908,-,A3,BBB+,True,7 k,5 750 k, 540 k, 0 k,3.95%,$25.00,8/17/2026,-,-
-PSA,PSA-R,REIT - Industrial,Pref,Cumul,Fixed,5.29%,$6.10,1002,-,A3,BBB+,True,23 k,17 400 k,1 620 k, 0 k,4.00%,$25.00,11/19/2026,-,-
-PSA,PSA-S,REIT - Industrial,Pref,Cumul,Fixed,5.31%,$5.71,1057,-,A3,BBB+,True,14 k,10 000 k, 931 k, 0 k,4.10%,$25.00,1/13/2027,-,-
-PSEC,PSEC-A,Asset Management,Pref,Cumul,Fixed,7.42%,$6.97,Callable,-,Ba2,BB,False,8 k,5 251 k, 488 k, 0 k,5.35%,$25.00,11/29/2023,-,-
+PEB,PEB-E,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.20%,$2.86,Callable,-,-,-,False,3 k,4 400 k,-,-,6.38%,$25.00,3/4/2018,-,-
+PEB,PEB-F,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.40%,$3.73,Callable,-,-,-,False,7 k,6 000 k,-,-,6.30%,$25.00,5/25/2021,-,-
+PEB,PEB-G,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.48%,$3.69,811,-,-,-,False,8 k,9 200 k, 859 k, 0 k,6.38%,$25.00,5/13/2026,-,-
+PEB,PEB-H,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.44%,$5.85,886,-,-,-,False,12 k,8 000 k, 750 k, 0 k,5.70%,$25.00,7/27/2026,-,-
+PRU,PFH,Insurance - Life,Bond,Interest,Fixed,#N/A,-,557,13341,Baa1,BBB+,True,-,-,1 864 k, 0 k,4.13%,$25.00,9/1/2025,9/1/2060,-
+PFX,PFXNZ,Asset Management,Bond,Interest,Fixed,7.86%,$2.54,Callable,1714,-,-,False,0 k,2 300 k,-,-,5.25%,$25.00,11/1/2023,11/1/2028,-
+PMT,PMT-A,REIT - Mortgage,Pref,Cumul,Fixed,8.57%,$1.30,22,-,-,-,False,21 k,4 600 k, 431 k, 0 k,8.13%,$25.00,3/15/2024,-,-
+PMT,PMT-B,REIT - Mortgage,Pref,Cumul,Fixed,8.45%,$1.34,114,-,-,-,False,13 k,7 800 k, 727 k, 0 k,8.00%,$25.00,6/15/2024,-,-
+PMT,PMT-C,REIT - Mortgage,Pref,Cumul,Fixed,8.57%,$5.31,914,-,-,-,False,14 k,10 000 k, 932 k, 0 k,6.75%,$25.00,8/24/2026,-,-
+PNFP,PNFPP,Bank - Regional,Pref,Non-cumul,Fixed,7.14%,$1.35,557,-,-,-,False,12 k,9 000 k, 841 k, 0 k,6.75%,$25.00,9/1/2025,-,-
+POWW,POWWP,Aerospace & Defense,Pref,Cumul,Fixed,8.54%,-$0.60,816,-,-,-,False,2 k,1 400 k,-,-,8.75%,$25.00,5/18/2026,-,-
+-,PRE-J,Insurance - Reinsurance,Pref,Non-cumul,Fixed,6.00%,$4.68,752,-,Baa2,BBB,True,26 k,8 000 k,-,-,4.88%,$25.00,3/15/2026,-,-
+PRU,PRH,Insurance - Life,Bond,Interest,Fixed,5.74%,-$0.80,1287,14071,Baa1,BBB+,True,41 k,12 000 k,1 118 k, 0 k,5.95%,$25.00,9/1/2027,9/1/2062,-
+-,PRIF-D,CEF - Debt,Pref,Cumul,Fixed,8.82%,$1.92,Callable,1945,-,-,False,1 k,1 094 k,-,-,7.00%,$25.00,3/31/2022,6/20/2029,-
+-,PRIF-F,CEF - Debt,Pref,Cumul,Fixed,9.17%,$1.82,Callable,1224,-,-,False,2 k,1 233 k,-,-,6.63%,$25.00,2/25/2023,6/30/2027,-
+-,PRIF-G,CEF - Debt,Pref,Cumul,Fixed,8.69%,$1.29,Callable,859,-,-,False,1 k,1 472 k,-,-,6.25%,$25.00,3/19/2023,6/30/2026,-
+-,PRIF-H,CEF - Debt,Pref,Cumul,Fixed,9.03%,$1.89,Callable,1043,-,-,False,2 k,1 196 k,-,-,6.00%,$25.00,5/6/2023,12/31/2026,-
+-,PRIF-I,CEF - Debt,Pref,Cumul,Fixed,9.17%,$2.71,116,1590,-,-,False,2 k,1 600 k,-,-,6.13%,$25.00,6/17/2024,6/30/2028,-
+-,PRIF-J,CEF - Debt,Pref,Cumul,Fixed,#N/A,-,900,1774,-,-,False,-,-,-,-,6.00%,$25.00,8/10/2026,12/31/2028,-
+-,PRIF-K,CEF - Debt,Pref,Cumul,Fixed,8.35%,$4.03,951,-,-,-,False,2 k,1 600 k,-,-,7.00%,$25.00,9/30/2026,-,-
+-,PRIF-L,CEF - Debt,Pref,Cumul,Fixed,7.69%,$1.38,372,1864,-,-,False,2 k,1 100 k,-,-,6.38%,$25.00,2/28/2025,3/31/2029,-
+PRU,PRS,Insurance - Life,Bond,Interest,Fixed,Error,Error,Callable,12593,Baa1,BBB+,True,672 k,270 149 k,2 099 k, 0 k,5.63%,$25.00,8/15/2023,8/15/2058,-
+PSA,PSA-F,REIT - Industrial,Pref,Cumul,Fixed,5.29%,$0.65,Callable,-,A3,BBB+,True,15 k,11 200 k,1 044 k, 0 k,5.15%,$25.00,6/2/2022,-,-
+PSA,PSA-G,REIT - Industrial,Pref,Cumul,Fixed,5.12%,$0.35,Callable,-,A3,BBB+,True,28 k,12 000 k,1 118 k, 0 k,5.05%,$25.00,8/9/2022,-,-
+PSA,PSA-H,REIT - Industrial,Pref,Cumul,Fixed,5.62%,$0.10,18,-,A3,BBB+,True,25 k,11 400 k,1 063 k, 0 k,5.60%,$25.00,3/11/2024,-,-
+PSA,PSA-I,REIT - Industrial,Pref,Cumul,Fixed,5.25%,$1.80,203,-,A3,BBB+,True,15 k,12 650 k,1 177 k, 0 k,4.88%,$25.00,9/12/2024,-,-
+PSA,PSA-J,REIT - Industrial,Pref,Cumul,Fixed,5.39%,$3.21,267,-,A3,BBB+,True,13 k,10 350 k, 965 k, 0 k,4.70%,$25.00,11/15/2024,-,-
+PSA,PSA-K,REIT - Industrial,Pref,Cumul,Fixed,5.43%,$3.14,302,-,A3,BBB+,True,12 k,9 200 k, 858 k, 0 k,4.75%,$25.00,12/20/2024,-,-
+PSA,PSA-L,REIT - Industrial,Pref,Cumul,Fixed,5.33%,$3.30,481,-,A3,BBB+,True,28 k,22 600 k,2 103 k, 0 k,4.63%,$25.00,6/17/2025,-,-
+PSA,PSA-M,REIT - Industrial,Pref,Cumul,Fixed,5.35%,$5.72,539,-,A3,BBB+,True,6 k,9 200 k, 858 k, 0 k,4.13%,$25.00,8/14/2025,-,-
+PSA,PSA-N,REIT - Industrial,Pref,Cumul,Fixed,5.40%,$7.05,592,-,A3,BBB+,True,15 k,11 300 k,1 056 k, 0 k,3.88%,$25.00,10/6/2025,-,-
+PSA,PSA-O,REIT - Industrial,Pref,Cumul,Fixed,#N/A,-,634,-,A3,BBB+,True,-,-, 636 k, 0 k,3.90%,$25.00,11/17/2025,-,-
+PSA,PSA-P,REIT - Industrial,Pref,Cumul,Fixed,#N/A,-,855,-,A3,BBB+,True,-,-,2 250 k, 0 k,4.00%,$25.00,6/26/2026,-,-
+PSA,PSA-Q,REIT - Industrial,Pref,Cumul,Fixed,5.46%,$6.91,907,-,A3,BBB+,True,7 k,5 750 k, 540 k, 0 k,3.95%,$25.00,8/17/2026,-,-
+PSA,PSA-R,REIT - Industrial,Pref,Cumul,Fixed,5.33%,$6.25,1001,-,A3,BBB+,True,23 k,17 400 k,1 620 k, 0 k,4.00%,$25.00,11/19/2026,-,-
+PSA,PSA-S,REIT - Industrial,Pref,Cumul,Fixed,5.33%,$5.76,1056,-,A3,BBB+,True,14 k,10 000 k, 931 k, 0 k,4.10%,$25.00,1/13/2027,-,-
+PSEC,PSEC-A,Asset Management,Pref,Cumul,Fixed,7.48%,$7.13,Callable,-,Ba2,BB,False,8 k,5 251 k, 488 k, 0 k,5.35%,$25.00,11/29/2023,-,-
 PW,PW-A,REIT - Specialty,Pref,Cumul,Fixed,56.49%,$21.57,Callable,-,-,-,False,0 k, 338 k,-,-,7.75%,$25.00,2/28/2019,-,-
-GS,PYT,Capital Markets,Cert,Interest,Floating,7.82%,$2.40,Callable,3647,Baa3,BB+,True,1 k,1 400 k,-,-,6.42%,$25.00,8/15/2009,2/15/2034,Floating
-QRTEA,QRTEP,Internet Retail,Pref,Cumul,Fixed,25.21%,$60.15,575,2579,-,-,False,43 k,12 701 k,1 184 k, 0 k,8.00%,$104.00,9/18/2025,3/15/2031,-
-QRTEA,QVCC,Internet Retail,Bond,Interest,Fixed,12.16%,$12.09,279,16350,B2,B-,False,34 k,20 010 k,1 865 k, 0 k,6.25%,$25.00,11/26/2024,11/26/2068,-
-QRTEA,QVCD,Internet Retail,Bond,Interest,Fixed,12.48%,$12.17,Callable,15910,B2,B-,False,19 k,9 000 k, 847 k, 0 k,6.38%,$25.00,9/13/2023,9/13/2067,-
-RC,RC-E,REIT - Mortgage,Pref,Cumul,Fixed,8.42%,$5.71,840,-,-,-,False,16 k,4 600 k, 435 k, 0 k,6.50%,$25.00,6/10/2026,-,-
-RC,RCB,REIT - Mortgage,Bond,Interest,Fixed,7.93%,$1.20,Callable,890,-,-,False,3 k,4 185 k, 392 k, 0 k,6.20%,$25.25,7/30/2022,7/30/2026,-
-RC,RCC,REIT - Mortgage,Bond,Interest,Fixed,7.72%,$0.90,Callable,725,-,-,False,30 k,8 251 k, 769 k, 0 k,5.75%,$25.00,2/15/2023,2/15/2026,-
-REXR,REXR-B,REIT - Industrial,Pref,Cumul,Fixed,6.46%,$2.28,Callable,-,-,-,False,3 k,3 000 k,-,-,5.88%,$25.00,11/13/2022,-,-
-REXR,REXR-C,REIT - Industrial,Pref,Cumul,Fixed,6.47%,$3.28,212,-,-,-,False,7 k,3 450 k,-,-,5.63%,$25.00,9/20/2024,-,-
-RF,RF-B,Bank - Regional,Pref,Non-cumul,Fix/Float,6.57%,$0.75,207,-,Baa3,BB+,True,69 k,20 000 k,1 862 k, 0 k,6.38%,$25.00,9/15/2024,-,207
-RF,RF-C,Bank - Regional,Pref,Non-cumul,Fix/Float,6.34%,$2.51,1910,-,Baa3,BB+,True,57 k,20 000 k,1 862 k, 0 k,5.70%,$25.00,5/15/2029,-,1910
-RF,RF-E,Bank - Regional,Pref,Non-cumul,Fixed,6.25%,$7.20,845,-,Baa3,BB+,True,26 k,16 000 k,1 490 k, 0 k,4.45%,$25.00,6/15/2026,-,-
-RHE,RHE-A,Medical Care Facilities,Pref,Cumul,Fixed,Special,$4.21,Callable,-,-,-,False,1 k, 559 k,-,-,10.88%,$5.00,12/1/2017,-,-
-RILY,RILYG,Financial Conglomerate,Bond,Interest,Fixed,27.23%,$10.80,Callable,1044,-,-,False,40 k,12 989 k,1 211 k, 0 k,5.00%,$25.00,-,12/31/2026,-
-RILY,RILYK,Financial Conglomerate,Bond,Interest,Fixed,25.76%,$8.05,Callable,769,-,-,False,24 k,8 698 k, 811 k, 0 k,5.50%,$25.00,-,3/31/2026,-
-RILY,RILYL,Financial Conglomerate,Pref,Cumul,Fixed,11.18%,$8.51,561,-,-,-,False,13 k,1 729 k,-,-,7.38%,$25.00,9/4/2025,-,-
-RILY,RILYM,Financial Conglomerate,Bond,Interest,Fixed,31.48%,$5.80,Callable,373,-,-,False,37 k,5 857 k, 546 k, 0 k,6.38%,$25.50,2/28/2022,2/28/2025,-
-RILY,RILYN,Financial Conglomerate,Bond,Interest,Fixed,29.11%,$10.34,Callable,952,-,-,False,40 k,7 221 k, 673 k, 0 k,6.50%,$25.25,9/30/2023,9/30/2026,-
-RILY,RILYO,Financial Conglomerate,Bond,Interest,Fixed,7.78%,$0.07,Callable,100,-,-,False,32 k,5 620 k, 524 k, 0 k,6.75%,$25.00,5/31/2021,5/31/2024,-
-RILY,RILYP,Financial Conglomerate,Pref,Cumul,Fixed,13.01%,$11.79,229,-,-,-,False,15 k,2 834 k,-,-,6.88%,$25.00,10/7/2024,-,-
-RILY,RILYT,Financial Conglomerate,Bond,Interest,Fixed,25.98%,$12.85,Callable,1440,-,-,False,41 k,10 642 k, 992 k, 0 k,6.00%,$25.75,1/31/2022,1/31/2028,-
-RILY,RILYZ,Financial Conglomerate,Bond,Interest,Fixed,25.36%,$13.31,Callable,1653,-,-,False,132 k,16 219 k,1 512 k, 0 k,5.25%,$25.00,8/31/2023,8/31/2028,-
-RITM,RITM-A,REIT - Mortgage,Pref,Cumul,Fix/Float,7.66%,$0.51,176,-,-,-,False,16 k,6 200 k, 578 k, 0 k,7.50%,$25.00,8/15/2024,-,176
-RITM,RITM-B,REIT - Mortgage,Pref,Cumul,Fix/Float,7.42%,$1.00,176,-,-,-,False,29 k,11 261 k,1 049 k, 0 k,7.13%,$25.00,8/15/2024,-,176
-RITM,RITM-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.24%,$3.00,360,-,-,-,False,25 k,15 903 k,1 482 k, 0 k,6.38%,$25.00,2/15/2025,-,360
-RITM,RITM-D,REIT - Mortgage,Pref,Cumul,Reset,7.73%,$2.35,998,-,-,-,False,26 k,18 600 k,1 734 k, 0 k,7.00%,$25.00,11/15/2026,-,998
-RIV,RIV-A,CEF - Equity,Pref,Cumul,Fixed,6.28%,$1.12,1179,-,A1,-,True,6 k,3 910 k,-,-,6.00%,$25.00,5/15/2027,-,-
-RJF,RJF-B,Capital Markets,Pref,Non-cumul,Fix/Float,6.32%,-$0.23,151,-,Baa3,-,True,4 k,3 220 k,-,-,6.38%,$25.00,7/21/2024,-,151
-RSF,RMPL-,CEF - Debt,Pref,Cumul,Fixed,5.93%,$0.01,Callable,253,-,-,False,2 k,1 656 k,-,-,5.88%,$25.00,10/31/2020,10/31/2024,-
-RNR,RNR-F,Insurance - Reinsurance,Pref,Non-cumul,Fixed,5.78%,$0.15,Callable,-,Baa2,BBB,True,25 k,10 000 k, 956 k, 0 k,5.75%,$25.00,6/30/2023,-,-
-RNR,RNR-G,Insurance - Reinsurance,Pref,Non-cumul,Fixed,5.70%,$6.58,875,-,Baa2,BBB,True,31 k,20 000 k,-,-,4.20%,$25.00,7/15/2026,-,-
-RWAY,RWAYL,Credit Services,Bond,Interest,Fixed,7.66%,$0.12,158,1253,-,-,False,4 k,3 220 k,-,-,7.50%,$25.00,7/28/2024,7/28/2027,-
-RWAY,RWAYZ,Credit Services,Bond,Interest,Fixed,7.80%,-$0.16,314,1409,-,-,False,5 k,2 070 k,-,-,8.00%,$25.00,12/31/2024,12/31/2027,-
-RWT,RWT-A,REIT - Mortgage,Pref,Cumul,Reset,#N/A,-,1515,-,-,-,False,-,-,-,-,10.00%,$25.00,4/15/2028,-,1515
-RGA,RZB,Insurance - Reinsurance,Bond,Interest,Fix/Float,#N/A,-,845,11803,Baa2,BBB+,True,-,-,1 511 k, 0 k,5.75%,$25.00,6/15/2026,6/15/2056,845
-RGA,RZC,Insurance - Reinsurance,Bond,Interest,Reset,6.77%,-$1.11,1334,10464,Baa2,BBB+,True,67 k,28 000 k,2 622 k, 0 k,7.13%,$25.00,10/17/2027,10/15/2052,1334
-SACH,SACC,REIT - Mortgage,Bond,Interest,Fixed,8.63%,$0.36,Callable,313,-,-,False,3 k,1 380 k,-,-,6.88%,$25.00,11/7/2021,12/30/2024,-
-SACH,SACH-A,REIT - Mortgage,Pref,Cumul,Fixed,8.93%,$3.31,859,-,-,-,False,9 k,2 109 k,-,-,7.75%,$25.00,6/29/2026,-,-
-SAR,SAJ,Asset Management,Bond,Interest,Fixed,7.85%,-$0.12,249,1348,-,-,False,3 k,1 840 k,-,-,8.00%,$25.00,10/27/2024,10/31/2027,-
-SAR,SAT,Asset Management,Bond,Interest,Fixed,7.40%,$0.99,66,1164,-,-,False,4 k,4 220 k, 399 k, 0 k,6.00%,$25.00,4/27/2024,4/30/2027,-
-SAR,SAY,Asset Management,Bond,Interest,Fixed,7.94%,-$0.15,296,1409,-,-,False,3 k,2 415 k,-,-,8.13%,$25.00,12/13/2024,12/31/2027,-
-SAR,SAZ,Asset Management,Bond,Interest,Fixed,8.33%,-$0.15,418,1515,-,-,False,5 k,2 300 k,-,-,8.50%,$25.00,4/14/2025,4/15/2028,-
-SB,SB-C,Marine Shipping,Pref,Cumul,Fixed,7.89%,-$0.35,Callable,-,-,-,False,1 k, 805 k,-,-,8.00%,$25.00,5/31/2019,-,-
-SB,SB-D,Marine Shipping,Pref,Cumul,Fixed,7.87%,-$0.40,Callable,-,-,-,False,7 k,3 195 k,-,-,8.00%,$25.00,6/30/2019,-,-
-STNG,SBBA,Oil & Gas Midstream,Bond,Interest,Fixed,6.07%,-$0.05,Callable,495,-,-,False,5 k,2 823 k,-,-,7.00%,$25.25,6/30/2023,6/30/2025,-
-SACH,SCCB,REIT - Mortgage,Bond,Interest,Fixed,6.55%,-$0.05,Callable,130,-,-,False,4 k,5 573 k,-,-,7.13%,$25.00,6/30/2021,6/30/2024,-
-SACH,SCCC,REIT - Mortgage,Bond,Interest,Fixed,8.42%,$0.25,Callable,587,-,-,False,4 k,2 255 k,-,-,7.75%,$25.00,9/4/2022,9/30/2025,-
-SACH,SCCD,REIT - Mortgage,Bond,Interest,Fixed,11.03%,$3.05,Callable,1043,-,-,False,6 k,2 070 k,-,-,6.00%,$25.00,12/20/2023,12/30/2026,-
-SACH,SCCE,REIT - Mortgage,Bond,Interest,Fixed,10.51%,$2.96,17,1133,-,-,False,3 k,2 075 k,-,-,6.00%,$25.00,3/9/2024,3/30/2027,-
-SACH,SCCF,REIT - Mortgage,Bond,Interest,Fixed,10.97%,$2.67,80,1225,-,-,False,2 k,1 200 k,-,-,7.13%,$25.00,5/11/2024,6/30/2027,-
-SACH,SCCG,REIT - Mortgage,Bond,Interest,Fixed,10.12%,$1.59,184,1317,-,-,False,3 k,1 610 k,-,-,8.00%,$25.00,8/23/2024,9/30/2027,-
-EIX,SCE-G,Utilities - Regulated Electric,Pref,Cumul,Fixed,6.11%,$4.14,Callable,-,Baa3,BB+,True,11 k,16 000 k, 820 k, 0 k,5.10%,$25.00,3/15/2018,-,-
-EIX,SCE-H,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,5.73%,-$0.10,23,-,Baa3,BB+,True,17 k,11 000 k,1 025 k, 0 k,5.75%,$25.00,3/15/2024,-,23
-EIX,SCE-J,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,5.84%,$1.99,572,-,Baa3,BB+,True,28 k,13 000 k,1 218 k, 0 k,5.38%,$25.00,9/15/2025,-,572
-EIX,SCE-K,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,5.63%,$0.78,753,-,Baa3,BB+,True,13 k,12 000 k,1 118 k, 0 k,5.45%,$25.00,3/15/2026,-,753
-EIX,SCE-L,Utilities - Regulated Electric,Pref,Cumul,Fixed,6.17%,$4.75,Callable,-,Baa3,BB+,True,20 k,19 000 k,1 771 k, 0 k,5.00%,$25.00,6/26/2022,-,-
-SCHW,SCHW-D,Capital Markets,Pref,Non-cumul,Fixed,5.92%,-$0.11,Callable,-,Baa2,BBB,True,52 k,30 000 k,2 796 k, 0 k,5.95%,$25.00,6/1/2021,-,-
-SCHW,SCHW-J,Capital Markets,Pref,Non-cumul,Fixed,5.36%,$4.25,831,-,Baa2,BBB,True,52 k,24 000 k,2 237 k, 0 k,4.45%,$25.00,6/1/2026,-,-
--,SEAL-A,Oil & Gas Midstream,Pref,Cumul,Fixed,8.92%,-$0.22,Callable,-,-,-,False,6 k,5 000 k,-,-,9.00%,$25.00,10/5/2021,-,-
--,SEAL-B,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.46%,-$0.13,1332,-,-,-,False,9 k,6 800 k,-,-,8.50%,$25.00,10/15/2027,-,1332
-SF,SF-B,Capital Markets,Pref,Non-cumul,Fixed,6.32%,$0.29,23,-,-,BB-,False,9 k,6 400 k, 597 k, 0 k,6.25%,$25.00,3/15/2024,-,-
-SF,SF-C,Capital Markets,Pref,Non-cumul,Fixed,6.13%,$0.01,480,-,-,BB-,False,17 k,9 000 k, 838 k, 0 k,6.13%,$25.00,6/15/2025,-,-
-SF,SF-D,Capital Markets,Pref,Non-cumul,Fixed,6.17%,$6.78,906,-,-,BB-,False,30 k,12 000 k,1 126 k, 0 k,4.50%,$25.00,8/15/2026,-,-
-SF,SFB,Capital Markets,Bond,Interest,Fixed,Error,-,Callable,8637,-,BBB-,True,-,-, 839 k, 0 k,5.20%,$25.00,10/15/2022,10/15/2047,-
-SHO,SHO-H,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.08%,$3.37,823,-,-,-,False,6 k,4 600 k, 435 k, 0 k,6.13%,$25.00,5/24/2026,-,-
-SHO,SHO-I,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.11%,$4.95,876,-,-,-,False,6 k,4 000 k, 378 k, 0 k,5.70%,$25.00,7/16/2026,-,-
-SIGI,SIGIP,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,6.25%,$6.59,663,-,Ba1,BB+,False,8 k,8 000 k, 780 k, 0 k,4.60%,$25.00,12/15/2025,-,-
-SITC,SITC-A,REIT - Retail,Pref,Cumul,Fixed,6.62%,$0.91,Callable,-,Ba1,BB,False,14 k,7 000 k,-,-,6.38%,$25.00,6/5/2022,-,-
-SLG,SLG-I,REIT - Office,Pref,Cumul,Fixed,7.37%,$2.95,Callable,-,Ba3,BB,False,17 k,9 196 k, 689 k, 0 k,6.50%,$25.00,8/10/2017,-,-
-SLM,SLMBP,Credit Services,Pref,Non-cumul,Floating,9.95%,$26.90,Callable,-,Ba3,-,False,17 k,2 511 k, 234 k, 0 k,7.27%,$100.00,6/15/2010,-,Floating
-SLNH,SLNHP,Information Technology Services,Pref,Cumul,Fixed,68.39%,$21.71,914,-,-,-,False,3 k,3 061 k,-,-,9.00%,$25.00,8/23/2026,-,-
-SNCR,SNCRL,Software - Infrastructure,Bond,Interest,Fixed,16.72%,$4.50,Callable,860,-,-,False,19 k,5 643 k, 552 k, 0 k,8.38%,$25.50,6/30/2022,6/30/2026,-
-SNV,SNV-D,Bank - Regional,Pref,Non-cumul,Fix/Float,8.86%,-$0.18,Callable,-,-,BB-,False,11 k,8 000 k, 745 k, 0 k,8.92%,$25.00,6/21/2023,-,Floating
-SNV,SNV-E,Bank - Regional,Pref,Non-cumul,Reset,6.02%,$0.61,131,-,-,BB-,False,93 k,14 000 k,1 304 k, 0 k,5.88%,$25.00,7/1/2024,-,131
-SOHO,SOHOB,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.52%,$5.98,Callable,-,-,-,False,3 k,1 464 k,-,-,8.00%,$25.00,8/23/2021,-,-
-SOHO,SOHON,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.02%,$4.41,57,-,-,-,False,3 k,1 163 k,-,-,8.25%,$25.00,4/18/2024,-,-
-SOHO,SOHOO,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.10%,$5.50,Callable,-,-,-,False,3 k,1 346 k,-,-,7.88%,$25.00,10/15/2022,-,-
-SO,SOJC,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19642,Baa3,BBB-,True,-,-,1 678 k, 0 k,5.25%,$25.00,12/1/2022,12/1/2077,-
-SO,SOJD,Utilities - Regulated Electric,Bond,Interest,Fixed,5.33%,$1.70,344,20432,Baa3,BBB-,True,57 k,40 000 k,3 715 k, 0 k,4.95%,$25.00,1/30/2025,1/30/2080,-
-SO,SOJE,Utilities - Regulated Electric,Bond,Interest,Fixed,5.26%,$4.28,602,13386,Baa3,BBB-,True,43 k,30 000 k,2 796 k, 0 k,4.20%,$25.00,10/15/2025,10/15/2060,-
-SPG,SPG-J,REIT - Retail,Pref,Cumul,Fixed,1.49%,-$12.21,1332,-,WR,BBB,True,1 k, 797 k,-,-,8.38%,$50.00,10/15/2027,-,-
-SPNT,SPNT-B,Insurance - Reinsurance,Pref,Cumul,Reset,7.98%,-$0.05,736,-,-,BB+,False,15 k,8 000 k,-,-,8.00%,$25.00,2/26/2026,-,736
-SQFT,SQFTP,REIT - Diversified,Pref,Cumul,Fixed,14.65%,$9.00,845,-,-,-,False,3 k, 891 k,-,-,9.38%,$25.00,6/15/2026,-,-
-SR,SR-A,Utilities - Regulated Gas,Pref,Cumul,Fixed,6.11%,$0.87,176,-,Ba1,BBB,True,34 k,10 000 k, 939 k, 0 k,5.90%,$25.00,8/15/2024,-,-
-SRE,SREA,Utilities - Diversified,Bond,Interest,Fixed,5.80%,$0.19,223,20219,Baa3,BBB-,True,28 k,30 300 k,2 814 k, 0 k,5.75%,$25.00,10/1/2024,7/1/2079,-
+GS,PYT,Capital Markets,Cert,Interest,Floating,7.69%,$2.20,Callable,3646,Baa3,BB+,True,1 k,1 400 k,-,-,6.42%,$25.00,8/15/2009,2/15/2034,Floating
+QRTEA,QRTEP,Internet Retail,Pref,Cumul,Fixed,23.86%,$57.56,574,2578,-,-,False,40 k,12 701 k,1 184 k, 0 k,8.00%,$104.00,9/18/2025,3/15/2031,-
+QRTEA,QVCC,Internet Retail,Bond,Interest,Fixed,12.21%,$12.15,278,16349,B2,B-,False,35 k,20 010 k,1 865 k, 0 k,6.25%,$25.00,11/26/2024,11/26/2068,-
+QRTEA,QVCD,Internet Retail,Bond,Interest,Fixed,12.46%,$12.15,Callable,15909,B2,B-,False,18 k,9 000 k, 847 k, 0 k,6.38%,$25.00,9/13/2023,9/13/2067,-
+RC,RC-E,REIT - Mortgage,Pref,Cumul,Fixed,8.44%,$5.74,839,-,-,-,False,16 k,4 600 k, 435 k, 0 k,6.50%,$25.00,6/10/2026,-,-
+RC,RCB,REIT - Mortgage,Bond,Interest,Fixed,8.04%,$1.26,Callable,889,-,-,False,3 k,4 185 k, 392 k, 0 k,6.20%,$25.25,7/30/2022,7/30/2026,-
+RC,RCC,REIT - Mortgage,Bond,Interest,Fixed,7.82%,$0.94,Callable,724,-,-,False,30 k,8 251 k, 769 k, 0 k,5.75%,$25.00,2/15/2023,2/15/2026,-
+REXR,REXR-B,REIT - Industrial,Pref,Cumul,Fixed,6.50%,$2.40,Callable,-,-,-,False,3 k,3 000 k,-,-,5.88%,$25.00,11/13/2022,-,-
+REXR,REXR-C,REIT - Industrial,Pref,Cumul,Fixed,6.48%,$3.31,211,-,-,-,False,7 k,3 450 k,-,-,5.63%,$25.00,9/20/2024,-,-
+RF,RF-B,Bank - Regional,Pref,Non-cumul,Fix/Float,6.57%,$0.75,206,-,Baa3,BB+,True,67 k,20 000 k,1 862 k, 0 k,6.38%,$25.00,9/15/2024,-,206
+RF,RF-C,Bank - Regional,Pref,Non-cumul,Fix/Float,6.33%,$2.48,1909,-,Baa3,BB+,True,56 k,20 000 k,1 862 k, 0 k,5.70%,$25.00,5/15/2029,-,1909
+RF,RF-E,Bank - Regional,Pref,Non-cumul,Fixed,6.24%,$7.18,844,-,Baa3,BB+,True,27 k,16 000 k,1 490 k, 0 k,4.45%,$25.00,6/15/2026,-,-
+RHE,RHE-A,Medical Care Facilities,Pref,Cumul,Fixed,Special,$4.17,Callable,-,-,-,False,1 k, 559 k,-,-,10.88%,$5.00,12/1/2017,-,-
+RILY,RILYG,Financial Conglomerate,Bond,Interest,Fixed,28.19%,$11.12,Callable,1043,-,-,False,42 k,12 989 k,1 211 k, 0 k,5.00%,$25.00,-,12/31/2026,-
+RILY,RILYK,Financial Conglomerate,Bond,Interest,Fixed,26.43%,$8.25,Callable,768,-,-,False,28 k,8 698 k, 811 k, 0 k,5.50%,$25.00,-,3/31/2026,-
+RILY,RILYL,Financial Conglomerate,Pref,Cumul,Fixed,11.86%,$9.45,560,-,-,-,False,14 k,1 729 k,-,-,7.38%,$25.00,9/4/2025,-,-
+RILY,RILYM,Financial Conglomerate,Bond,Interest,Fixed,34.65%,$6.35,Callable,372,-,-,False,42 k,5 857 k, 546 k, 0 k,6.38%,$25.50,2/28/2022,2/28/2025,-
+RILY,RILYN,Financial Conglomerate,Bond,Interest,Fixed,32.19%,$11.30,Callable,951,-,-,False,43 k,7 221 k, 673 k, 0 k,6.50%,$25.25,9/30/2023,9/30/2026,-
+RILY,RILYO,Financial Conglomerate,Bond,Interest,Fixed,6.75%,$0.00,Callable,99,-,-,False,31 k,5 620 k, 524 k, 0 k,6.75%,$25.00,5/31/2021,5/31/2024,-
+RILY,RILYP,Financial Conglomerate,Pref,Cumul,Fixed,12.96%,$11.74,228,-,-,-,False,18 k,2 834 k,-,-,6.88%,$25.00,10/7/2024,-,-
+RILY,RILYT,Financial Conglomerate,Bond,Interest,Fixed,28.59%,$13.85,Callable,1439,-,-,False,43 k,10 642 k, 992 k, 0 k,6.00%,$25.75,1/31/2022,1/31/2028,-
+RILY,RILYZ,Financial Conglomerate,Bond,Interest,Fixed,27.84%,$14.28,Callable,1652,-,-,False,138 k,16 219 k,1 512 k, 0 k,5.25%,$25.00,8/31/2023,8/31/2028,-
+RITM,RITM-A,REIT - Mortgage,Pref,Cumul,Fix/Float,7.67%,$0.56,175,-,-,-,False,16 k,6 200 k, 578 k, 0 k,7.50%,$25.00,8/15/2024,-,175
+RITM,RITM-B,REIT - Mortgage,Pref,Cumul,Fix/Float,7.42%,$1.00,175,-,-,-,False,30 k,11 261 k,1 049 k, 0 k,7.13%,$25.00,8/15/2024,-,175
+RITM,RITM-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.25%,$3.03,359,-,-,-,False,25 k,15 903 k,1 482 k, 0 k,6.38%,$25.00,2/15/2025,-,359
+RITM,RITM-D,REIT - Mortgage,Pref,Cumul,Reset,7.73%,$2.37,997,-,-,-,False,26 k,18 600 k,1 734 k, 0 k,7.00%,$25.00,11/15/2026,-,997
+RIV,RIV-A,CEF - Equity,Pref,Cumul,Fixed,6.31%,$1.21,1178,-,A1,-,True,6 k,3 910 k,-,-,6.00%,$25.00,5/15/2027,-,-
+RJF,RJF-B,Capital Markets,Pref,Non-cumul,Fix/Float,6.31%,-$0.26,150,-,Baa3,-,True,4 k,3 220 k,-,-,6.38%,$25.00,7/21/2024,-,150
+RSF,RMPL-,CEF - Debt,Pref,Cumul,Fixed,6.17%,$0.05,Callable,252,-,-,False,2 k,1 656 k,-,-,5.88%,$25.00,10/31/2020,10/31/2024,-
+RNR,RNR-F,Insurance - Reinsurance,Pref,Non-cumul,Fixed,5.79%,$0.19,Callable,-,Baa2,BBB,True,23 k,10 000 k, 956 k, 0 k,5.75%,$25.00,6/30/2023,-,-
+RNR,RNR-G,Insurance - Reinsurance,Pref,Non-cumul,Fixed,5.68%,$6.51,874,-,Baa2,BBB,True,31 k,20 000 k,-,-,4.20%,$25.00,7/15/2026,-,-
+RWAY,RWAYL,Credit Services,Bond,Interest,Fixed,7.70%,$0.15,157,1252,-,-,False,5 k,3 220 k,-,-,7.50%,$25.00,7/28/2024,7/28/2027,-
+RWAY,RWAYZ,Credit Services,Bond,Interest,Fixed,7.88%,-$0.10,313,1408,-,-,False,5 k,2 070 k,-,-,8.00%,$25.00,12/31/2024,12/31/2027,-
+RWT,RWT-A,REIT - Mortgage,Pref,Cumul,Reset,#N/A,-,1514,-,-,-,False,-,-,-,-,10.00%,$25.00,4/15/2028,-,1514
+RGA,RZB,Insurance - Reinsurance,Bond,Interest,Fix/Float,#N/A,-,844,11802,Baa2,BBB+,True,-,-,1 511 k, 0 k,5.75%,$25.00,6/15/2026,6/15/2056,844
+RGA,RZC,Insurance - Reinsurance,Bond,Interest,Reset,6.76%,-$1.16,1333,10463,Baa2,BBB+,True,67 k,28 000 k,2 622 k, 0 k,7.13%,$25.00,10/17/2027,10/15/2052,1333
+SACH,SACC,REIT - Mortgage,Bond,Interest,Fixed,8.39%,$0.31,Callable,312,-,-,False,3 k,1 380 k,-,-,6.88%,$25.00,11/7/2021,12/30/2024,-
+SACH,SACH-A,REIT - Mortgage,Pref,Cumul,Fixed,9.03%,$3.55,858,-,-,-,False,8 k,2 109 k,-,-,7.75%,$25.00,6/29/2026,-,-
+SAR,SAJ,Asset Management,Bond,Interest,Fixed,7.95%,-$0.04,248,1347,-,-,False,3 k,1 840 k,-,-,8.00%,$25.00,10/27/2024,10/31/2027,-
+SAR,SAT,Asset Management,Bond,Interest,Fixed,7.42%,$1.00,65,1163,-,-,False,4 k,4 220 k, 399 k, 0 k,6.00%,$25.00,4/27/2024,4/30/2027,-
+SAR,SAY,Asset Management,Bond,Interest,Fixed,8.06%,-$0.05,295,1408,-,-,False,3 k,2 415 k,-,-,8.13%,$25.00,12/13/2024,12/31/2027,-
+SAR,SAZ,Asset Management,Bond,Interest,Fixed,8.26%,-$0.21,417,1514,-,-,False,5 k,2 300 k,-,-,8.50%,$25.00,4/14/2025,4/15/2028,-
+SB,SB-C,Marine Shipping,Pref,Cumul,Fixed,7.91%,-$0.27,Callable,-,-,-,False,1 k, 805 k,-,-,8.00%,$25.00,5/31/2019,-,-
+SB,SB-D,Marine Shipping,Pref,Cumul,Fixed,7.93%,-$0.21,Callable,-,-,-,False,7 k,3 195 k,-,-,8.00%,$25.00,6/30/2019,-,-
+STNG,SBBA,Oil & Gas Midstream,Bond,Interest,Fixed,6.07%,-$0.05,Callable,494,-,-,False,5 k,2 823 k,-,-,7.00%,$25.25,6/30/2023,6/30/2025,-
+SACH,SCCB,REIT - Mortgage,Bond,Interest,Fixed,7.34%,$0.02,Callable,129,-,-,False,4 k,5 573 k,-,-,7.13%,$25.00,6/30/2021,6/30/2024,-
+SACH,SCCC,REIT - Mortgage,Bond,Interest,Fixed,8.42%,$0.25,Callable,586,-,-,False,4 k,2 255 k,-,-,7.75%,$25.00,9/4/2022,9/30/2025,-
+SACH,SCCD,REIT - Mortgage,Bond,Interest,Fixed,10.98%,$3.02,Callable,1042,-,-,False,6 k,2 070 k,-,-,6.00%,$25.00,12/20/2023,12/30/2026,-
+SACH,SCCE,REIT - Mortgage,Bond,Interest,Fixed,10.57%,$2.99,16,1132,-,-,False,3 k,2 075 k,-,-,6.00%,$25.00,3/9/2024,3/30/2027,-
+SACH,SCCF,REIT - Mortgage,Bond,Interest,Fixed,10.89%,$2.62,79,1224,-,-,False,1 k,1 200 k,-,-,7.13%,$25.00,5/11/2024,6/30/2027,-
+SACH,SCCG,REIT - Mortgage,Bond,Interest,Fixed,10.17%,$1.62,183,1316,-,-,False,3 k,1 610 k,-,-,8.00%,$25.00,8/23/2024,9/30/2027,-
+EIX,SCE-G,Utilities - Regulated Electric,Pref,Cumul,Fixed,6.09%,$4.05,Callable,-,Baa3,BB+,True,11 k,16 000 k, 820 k, 0 k,5.10%,$25.00,3/15/2018,-,-
+EIX,SCE-H,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,5.73%,-$0.10,22,-,Baa3,BB+,True,17 k,11 000 k,1 025 k, 0 k,5.75%,$25.00,3/15/2024,-,22
+EIX,SCE-J,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,5.87%,$2.10,571,-,Baa3,BB+,True,28 k,13 000 k,1 218 k, 0 k,5.38%,$25.00,9/15/2025,-,571
+EIX,SCE-K,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,5.68%,$1.03,752,-,Baa3,BB+,True,12 k,12 000 k,1 118 k, 0 k,5.45%,$25.00,3/15/2026,-,752
+EIX,SCE-L,Utilities - Regulated Electric,Pref,Cumul,Fixed,6.20%,$4.85,Callable,-,Baa3,BB+,True,20 k,19 000 k,1 771 k, 0 k,5.00%,$25.00,6/26/2022,-,-
+SCHW,SCHW-D,Capital Markets,Pref,Non-cumul,Fixed,5.92%,-$0.14,Callable,-,Baa2,BBB,True,51 k,30 000 k,2 796 k, 0 k,5.95%,$25.00,6/1/2021,-,-
+SCHW,SCHW-J,Capital Markets,Pref,Non-cumul,Fixed,5.37%,$4.29,830,-,Baa2,BBB,True,53 k,24 000 k,2 237 k, 0 k,4.45%,$25.00,6/1/2026,-,-
+-,SEAL-A,Oil & Gas Midstream,Pref,Cumul,Fixed,8.94%,-$0.16,Callable,-,-,-,False,6 k,5 000 k,-,-,9.00%,$25.00,10/5/2021,-,-
+-,SEAL-B,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.44%,-$0.18,1331,-,-,-,False,9 k,6 800 k,-,-,8.50%,$25.00,10/15/2027,-,1331
+SF,SF-B,Capital Markets,Pref,Non-cumul,Fixed,6.35%,$0.40,22,-,-,BB-,False,9 k,6 400 k, 597 k, 0 k,6.25%,$25.00,3/15/2024,-,-
+SF,SF-C,Capital Markets,Pref,Non-cumul,Fixed,6.16%,$0.13,479,-,-,BB-,False,17 k,9 000 k, 838 k, 0 k,6.13%,$25.00,6/15/2025,-,-
+SF,SF-D,Capital Markets,Pref,Non-cumul,Fixed,6.16%,$6.74,905,-,-,BB-,False,30 k,12 000 k,1 126 k, 0 k,4.50%,$25.00,8/15/2026,-,-
+SF,SFB,Capital Markets,Bond,Interest,Fixed,Error,-,Callable,8636,-,BBB-,True,-,-, 839 k, 0 k,5.20%,$25.00,10/15/2022,10/15/2047,-
+SHO,SHO-H,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.00%,$3.11,822,-,-,-,False,6 k,4 600 k, 435 k, 0 k,6.13%,$25.00,5/24/2026,-,-
+SHO,SHO-I,REIT - Hotel & Motel,Pref,Cumul,Fixed,7.11%,$4.95,875,-,-,-,False,6 k,4 000 k, 378 k, 0 k,5.70%,$25.00,7/16/2026,-,-
+SIGI,SIGIP,Insurance - Property & Casualty,Pref,Non-cumul,Fixed,6.23%,$6.55,662,-,Ba1,BB+,False,8 k,8 000 k, 780 k, 0 k,4.60%,$25.00,12/15/2025,-,-
+SITC,SITC-A,REIT - Retail,Pref,Cumul,Fixed,6.72%,$1.30,Callable,-,Ba1,BB,False,14 k,7 000 k,-,-,6.38%,$25.00,6/5/2022,-,-
+SLG,SLG-I,REIT - Office,Pref,Cumul,Fixed,7.43%,$3.13,Callable,-,Ba3,BB,False,17 k,9 196 k, 689 k, 0 k,6.50%,$25.00,8/10/2017,-,-
+SLM,SLMBP,Credit Services,Pref,Non-cumul,Floating,9.92%,$26.67,Callable,-,Ba3,-,False,17 k,2 511 k, 234 k, 0 k,7.27%,$100.00,6/15/2010,-,Floating
+SLNH,SLNHP,Information Technology Services,Pref,Cumul,Fixed,68.60%,$21.72,913,-,-,-,False,3 k,3 061 k,-,-,9.00%,$25.00,8/23/2026,-,-
+SNCR,SNCRL,Software - Infrastructure,Bond,Interest,Fixed,16.98%,$4.61,Callable,859,-,-,False,20 k,5 643 k, 552 k, 0 k,8.38%,$25.50,6/30/2022,6/30/2026,-
+SNV,SNV-D,Bank - Regional,Pref,Non-cumul,Fix/Float,8.89%,-$0.10,Callable,-,-,BB-,False,11 k,8 000 k, 745 k, 0 k,8.92%,$25.00,6/21/2023,-,Floating
+SNV,SNV-E,Bank - Regional,Pref,Non-cumul,Reset,6.02%,$0.62,130,-,-,BB-,False,93 k,14 000 k,1 304 k, 0 k,5.88%,$25.00,7/1/2024,-,130
+SOHO,SOHOB,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.50%,$5.96,Callable,-,-,-,False,3 k,1 464 k,-,-,8.00%,$25.00,8/23/2021,-,-
+SOHO,SOHON,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.60%,$5.55,56,-,-,-,False,3 k,1 163 k,-,-,8.25%,$25.00,4/18/2024,-,-
+SOHO,SOHOO,REIT - Hotel & Motel,Pref,Cumul,Fixed,10.31%,$5.90,Callable,-,-,-,False,3 k,1 346 k,-,-,7.88%,$25.00,10/15/2022,-,-
+SO,SOJC,Utilities - Regulated Electric,Bond,Interest,Fixed,#N/A,-,Callable,19641,Baa3,BBB-,True,-,-,1 678 k, 0 k,5.25%,$25.00,12/1/2022,12/1/2077,-
+SO,SOJD,Utilities - Regulated Electric,Bond,Interest,Fixed,5.40%,$1.97,343,20431,Baa3,BBB-,True,56 k,40 000 k,3 715 k, 0 k,4.95%,$25.00,1/30/2025,1/30/2080,-
+SO,SOJE,Utilities - Regulated Electric,Bond,Interest,Fixed,5.30%,$4.45,601,13385,Baa3,BBB-,True,44 k,30 000 k,2 796 k, 0 k,4.20%,$25.00,10/15/2025,10/15/2060,-
+SPG,SPG-J,REIT - Retail,Pref,Cumul,Fixed,2.37%,-$10.47,1331,-,WR,BBB,True,1 k, 797 k,-,-,8.38%,$50.00,10/15/2027,-,-
+SPNT,SPNT-B,Insurance - Reinsurance,Pref,Cumul,Reset,7.95%,-$0.15,735,-,-,BB+,False,15 k,8 000 k,-,-,8.00%,$25.00,2/26/2026,-,735
+SQFT,SQFTP,REIT - Diversified,Pref,Cumul,Fixed,14.42%,$8.75,844,-,-,-,False,3 k, 891 k,-,-,9.38%,$25.00,6/15/2026,-,-
+SR,SR-A,Utilities - Regulated Gas,Pref,Cumul,Fixed,6.11%,$0.86,175,-,Ba1,BBB,True,34 k,10 000 k, 939 k, 0 k,5.90%,$25.00,8/15/2024,-,-
+SRE,SREA,Utilities - Diversified,Bond,Interest,Fixed,5.81%,$0.24,222,20218,Baa3,BBB-,True,29 k,30 300 k,2 814 k, 0 k,5.75%,$25.00,10/1/2024,7/1/2079,-
 SRG,SRG-A,REIT - Retail,Pref,Cumul,Fixed,7.29%,$1.00,Callable,-,-,-,False,2 k,2 800 k,-,-,7.00%,$25.00,12/14/2022,-,-
-SSSS,SSSSL,Asset Management,Bond,Interest,Fixed,7.65%,$1.05,313,1043,-,-,False,1 k,3 000 k,-,-,6.00%,$25.00,12/30/2024,12/30/2026,-
-STT,STT-D,Asset Management,Pref,Non-cumul,Fix/Float,5.84%,-$0.27,23,-,Baa1,BBB,True,76 k,30 000 k,2 796 k, 0 k,5.90%,$25.00,3/15/2024,-,23
-STT,STT-G,Asset Management,Pref,Non-cumul,Fixed,5.60%,$1.10,753,-,Baa1,BBB,True,49 k,20 000 k,1 864 k, 0 k,5.35%,$25.00,3/15/2026,-,-
-SWKH,SWKHL,Asset Management,Bond,Interest,Fixed,8.92%,-$0.05,587,1075,-,-,False,5 k,1 319 k,-,-,9.00%,$25.00,9/30/2025,1/31/2027,-
-SYF,SYF-A,Credit Services,Pref,Non-cumul,Fixed,7.70%,$6.73,268,-,-,BB-,False,111 k,30 000 k,2 787 k, 0 k,5.63%,$25.00,11/15/2024,-,-
-T,T-A,Telecom Services,Pref,Cumul,Fixed,5.72%,$3.14,295,-,Ba1,BB+,False,69 k,48 000 k,4 469 k, 0 k,5.00%,$25.00,12/12/2024,-,-
-T,T-C,Telecom Services,Pref,Cumul,Fixed,5.70%,$4.16,363,-,Ba1,BB+,False,83 k,70 000 k,6 518 k, 0 k,4.75%,$25.00,2/18/2025,-,-
-T,TBB,Telecom Services,Bond,Interest,Fixed,5.77%,$1.68,Callable,15594,Ba1,BBB,True,69 k,52 900 k,4 925 k, 0 k,5.35%,$25.00,11/1/2022,11/1/2066,-
-T,TBC,Telecom Services,Bond,Interest,Fixed,5.77%,$0.56,Callable,15867,Baa2,BBB,True,73 k,33 000 k,3 073 k, 0 k,5.63%,$25.00,8/1/2023,8/1/2067,-
-TCBI,TCBIO,Bank - Regional,Pref,Non-cumul,Fixed,7.40%,$5.57,845,-,Ba2,BB-,False,33 k,12 000 k,1 117 k, 0 k,5.75%,$25.00,6/15/2026,-,-
-TDS,TDS-U,Telecom Services,Pref,Cumul,Fixed,9.48%,$7.52,769,-,Ba3,B,False,38 k,16 800 k,1 566 k, 0 k,6.63%,$25.00,3/31/2026,-,-
-TDS,TDS-V,Telecom Services,Pref,Cumul,Fixed,9.78%,$9.66,952,-,Ba3,B,False,78 k,27 600 k,2 572 k, 0 k,6.00%,$25.00,9/30/2026,-,-
--,TECTP,Asset Management,Pref,Non-cumul,Fix/Float,8.90%,-$0.11,84,-,-,-,False,2 k,1 725 k,-,-,9.00%,$10.00,5/15/2024,-,84
-TELL,TELZ,Oil & Gas E&P,Bond,Interest,Fixed,21.57%,$10.53,Callable,1744,-,-,False,12 k,2 307 k,-,-,8.25%,$25.75,11/30/2023,11/30/2028,-
-TFC,TFC-I,Bank - Regional,Pref,Non-cumul,Floating,6.93%,$3.00,298,-,Baa2,BBB-,True,13 k,6 900 k, 643 k, 0 k,6.10%,$25.00,12/15/2024,-,298
-TFC,TFC-O,Bank - Regional,Pref,Non-cumul,Fixed,5.69%,$1.94,466,-,Baa2,BBB-,True,47 k,23 000 k,2 145 k, 0 k,5.25%,$25.00,6/1/2025,-,-
-TFC,TFC-R,Bank - Regional,Pref,Non-cumul,Fixed,5.64%,$3.95,558,-,Baa2,BBB-,True,72 k,37 000 k,3 445 k, 0 k,4.75%,$25.00,9/1/2025,-,-
-TFIN,TFINP,Bank - Regional,Pref,Non-cumul,Fixed,8.27%,$3.45,495,-,-,-,False,3 k,1 800 k,-,-,7.13%,$25.00,6/30/2025,-,-
--,TFSA,CEF - Debt,Bond,Interest,Fixed,12.32%,$2.44,Callable,769,-,-,False,1 k,1 535 k,-,-,7.00%,$25.00,2/10/2023,3/31/2026,-
-TGH,TGH-A,Rental & Leasing,Pref,Cumul,Reset,6.97%,-$0.12,845,-,-,-,False,20 k,6 000 k, 562 k, 0 k,7.00%,$25.00,6/15/2026,-,845
-TGH,TGH-B,Rental & Leasing,Pref,Cumul,Fixed,6.30%,$0.20,1028,-,-,-,False,35 k,6 000 k, 562 k, 0 k,6.25%,$25.00,12/15/2026,-,-
-TNP,TNP-E,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.72%,-$1.52,1192,-,-,-,False,6 k,4 746 k,-,-,9.25%,$25.00,5/28/2027,-,1192
-TNP,TNP-F,Oil & Gas Midstream,Pref,Cumul,Fix/Float,9.10%,-$1.09,1621,-,-,-,False,13 k,6 747 k,-,-,9.50%,$25.00,7/30/2028,-,1621
--,TPTA,REIT - Mortgage,Bond,Interest,Fixed,24.17%,$7.99,Callable,860,-,-,False,2 k,3 405 k,-,-,6.00%,$25.00,6/30/2023,6/30/2026,-
-TRIN,TRINL,Asset Management,Bond,Interest,Fixed,5.26%,-$0.38,Callable,330,-,-,False,9 k,7 300 k, 680 k, 0 k,7.00%,$25.00,1/16/2023,1/16/2025,-
-TRTN,TRTN-A,Rental & Leasing,Pref,Cumul,Fixed,8.25%,-$0.77,23,-,-,BB,False,5 k,3 450 k,-,-,8.50%,$25.00,3/15/2024,-,-
-TRTN,TRTN-B,Rental & Leasing,Pref,Cumul,Fixed,7.86%,-$0.45,207,-,-,BB,False,5 k,5 750 k,-,-,8.00%,$25.00,9/15/2024,-,-
-TRTN,TRTN-C,Rental & Leasing,Pref,Cumul,Fixed,7.23%,-$0.50,298,-,-,BB,False,11 k,7 000 k,-,-,7.38%,$25.00,12/15/2024,-,-
-TRTN,TRTN-D,Rental & Leasing,Pref,Cumul,Fixed,7.01%,$0.48,388,-,-,BB,False,6 k,6 000 k,-,-,6.88%,$25.00,3/15/2025,-,-
-TRTN,TRTN-E,Rental & Leasing,Pref,Cumul,Fixed,6.69%,$3.51,937,-,-,BB,False,9 k,7 000 k,-,-,5.75%,$25.00,9/15/2026,-,-
-TRTX,TRTX-C,REIT - Mortgage,Pref,Cumul,Fixed,9.78%,$9.03,844,-,-,-,False,15 k,8 050 k, 760 k, 0 k,6.25%,$25.00,6/14/2026,-,-
--,TVC,Utilities - Regulated Electric,Bond,Interest,Reset,Special,-,-,1562,Aaa,AA+,True,11 k,10 259 k, 960 k, 0 k,Special,-,-,6/1/2028,-
--,TVE,Utilities - Regulated Electric,Bond,Interest,Reset,Special,-,-,1896,Aaa,AA+,True,14 k,8 334 k, 777 k, 0 k,Special,-,-,5/1/2029,-
-TWO,TWO-A,REIT - Mortgage,Pref,Cumul,Fix/Float,8.80%,$1.93,1161,-,-,-,False,8 k,5 085 k, 476 k, 0 k,8.13%,$25.00,4/27/2027,-,1161
-TWO,TWO-B,REIT - Mortgage,Pref,Cumul,Fix/Float,8.48%,$2.51,1252,-,-,-,False,11 k,10 439 k, 978 k, 0 k,7.63%,$25.00,7/27/2027,-,1252
-TWO,TWO-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.84%,$1.88,341,-,-,-,False,23 k,9 832 k, 931 k, 0 k,7.25%,$25.00,1/27/2025,-,341
-TY,TY-,CEF - Equity,Pref,Cumul,Fixed,6.12%,$10.10,Callable,-,-,-,False,1 k, 713 k,-,-,5.00%,$55.00,-,-,-
-UCBI,UCBIO,Bank - Regional,Pref,Non-cumul,Fixed,7.16%,$1.00,572,-,-,-,False,11 k,3 662 k,-,-,6.88%,$25.00,9/15/2025,-,-
-UMH,UMH-D,REIT - Residential,Pref,Cumul,Fixed,7.02%,$2.29,Callable,-,-,-,False,16 k,10 601 k, 985 k, 0 k,6.38%,$25.00,1/22/2023,-,-
-UNM,UNMA,Insurance - Life,Bond,Interest,Fixed,#N/A,-,Callable,12533,Ba1,BB+,False,-,-,1 141 k, 0 k,6.25%,$25.00,6/15/2023,6/15/2058,-
-USB,USB-H,Bank - Regional,Pref,Non-cumul,Floating,7.31%,$3.89,Callable,-,Baa2,BBB,True,75 k,40 000 k,3 728 k, 0 k,6.17%,$25.00,4/15/2011,-,Floating
-USB,USB-P,Bank - Regional,Pref,Non-cumul,Fixed,5.66%,$0.72,Callable,-,Baa1,BBB+,True,67 k,23 000 k,2 144 k, 0 k,5.50%,$25.00,10/15/2023,-,-
-USB,USB-Q,Bank - Regional,Pref,Non-cumul,Fixed,5.48%,$7.90,694,-,Baa2,BBB,True,27 k,20 000 k,1 862 k, 0 k,3.75%,$25.00,1/15/2026,-,-
-USB,USB-R,Bank - Regional,Pref,Non-cumul,Fixed,5.55%,$6.97,784,-,Baa2,BBB,True,63 k,30 000 k,2 793 k, 0 k,4.00%,$25.00,4/15/2026,-,-
-USB,USB-S,Bank - Regional,Pref,Non-cumul,Fixed,5.55%,$4.73,1149,-,Baa2,BBB,True,42 k,18 000 k,1 675 k, 0 k,4.50%,$25.00,4/15/2027,-,-
-USM,UZD,Telecom Services,Bond,Interest,Fixed,8.15%,$5.68,558,16629,Ba2,BB,False,34 k,20 000 k,1 864 k, 0 k,6.25%,$25.00,9/1/2025,9/1/2069,-
-USM,UZE,Telecom Services,Bond,Interest,Fixed,7.98%,$7.56,739,16810,Ba2,BB,False,30 k,20 000 k,1 864 k, 0 k,5.50%,$25.00,3/1/2026,3/1/2070,-
-USM,UZF,Telecom Services,Bond,Interest,Fixed,7.99%,$7.60,831,16902,Ba2,BB,False,30 k,20 000 k,1 864 k, 0 k,5.50%,$25.00,6/1/2026,6/1/2070,-
-VIA,VIASP,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,16.20%,$6.25,Callable,-,-,-,False,12 k,3 568 k,-,-,12.15%,$25.00,4/15/2022,-,Floating
-VLY,VLYPO,Bank - Regional,Pref,Non-cumul,Fix/Float,10.07%,$2.28,Callable,-,WR,BB,False,39 k,4 000 k, 373 k, 0 k,9.15%,$25.00,6/30/2022,-,Floating
-VLY,VLYPP,Bank - Regional,Pref,Non-cumul,Fix/Float,7.76%,$4.86,495,-,WR,BB,False,39 k,4 600 k, 428 k, 0 k,6.25%,$25.00,6/30/2025,-,495
-VNO,VNO-L,REIT - Office,Pref,Cumul,Fixed,8.42%,$8.97,Callable,-,Ba1,BB,False,26 k,12 000 k,1 118 k, 0 k,5.40%,$25.00,1/25/2018,-,-
-VNO,VNO-M,REIT - Office,Pref,Cumul,Fixed,8.31%,$9.20,Callable,-,Ba1,BB,False,25 k,12 780 k,1 191 k, 0 k,5.25%,$25.00,12/13/2022,-,-
-VNO,VNO-N,REIT - Office,Pref,Cumul,Fixed,8.32%,$9.23,642,-,Ba1,BB,False,19 k,12 000 k,1 118 k, 0 k,5.25%,$25.00,11/24/2025,-,-
-VNO,VNO-O,REIT - Office,Pref,Cumul,Fixed,8.11%,$11.29,944,-,Ba1,BB,False,18 k,12 000 k,1 118 k, 0 k,4.45%,$25.00,9/22/2026,-,-
-VOYA,VOYA-B,Financial Conglomerate,Pref,Non-cumul,Reset,5.60%,$1.10,2033,-,Ba2,BBB-,True,21 k,12 000 k,1 116 k, 0 k,5.35%,$25.00,9/15/2029,-,2033
-WAFD,WAFDP,Bank - Regional,Pref,Non-cumul,Fixed,7.98%,$9.72,784,-,Ba1,-,False,57 k,12 000 k,1 105 k, 0 k,4.88%,$25.00,4/15/2026,-,-
-WAL,WAL-A,Bank - Regional,Pref,Non-cumul,Reset,6.13%,$7.66,952,-,Baa3,-,True,39 k,12 000 k,1 117 k, 0 k,4.25%,$25.00,9/30/2026,-,952
-WBS,WBS-F,Bank - Regional,Pref,Non-cumul,Fixed,6.60%,$5.10,Callable,-,Baa3,BB,True,10 k,6 000 k, 559 k, 0 k,5.25%,$25.00,12/15/2022,-,-
-WBS,WBS-G,Bank - Regional,Pref,Non-cumul,Fixed,7.02%,$1.85,Callable,-,-,-,False,8 k,5 400 k,-,-,6.50%,$25.00,10/15/2022,-,-
-WCC,WCC-A,Industrial Distribution,Pref,Cumul,Reset,9.86%,-$1.93,487,-,-,-,False,36 k,21 537 k,2 007 k, 0 k,10.63%,$25.00,6/22/2025,-,487
-WFC,WFC-A,Bank - Diversified,Pref,Non-cumul,Fixed,5.63%,$4.14,663,-,Baa2,BB+,True,79 k,46 800 k,2 936 k, 0 k,4.70%,$25.00,12/15/2025,-,-
-WFC,WFC-C,Bank - Diversified,Pref,Non-cumul,Fixed,5.59%,$5.45,753,-,Baa2,BB+,True,65 k,42 000 k,2 633 k, 0 k,4.38%,$25.00,3/15/2026,-,-
-WFC,WFC-D,Bank - Diversified,Pref,Non-cumul,Fixed,5.62%,$6.09,880,-,Baa2,BB+,True,80 k,50 000 k,3 134 k, 0 k,4.25%,$25.00,7/20/2026,-,-
-WFC,WFC-R,Bank - Diversified,Pref,Non-cumul,Fix/Float,6.54%,-$0.33,23,-,Baa2,BB+,True,86 k,33 600 k,2 108 k, 0 k,6.63%,$25.00,3/15/2024,-,23
-WFC,WFC-Y,Bank - Diversified,Pref,Non-cumul,Fixed,5.75%,$0.53,Callable,-,Baa2,BB+,True,53 k,27 600 k,1 673 k, 0 k,5.63%,$25.00,6/15/2022,-,-
-WFC,WFC-Z,Bank - Diversified,Pref,Non-cumul,Fixed,5.61%,$3.85,388,-,Baa2,BB+,True,135 k,80 500 k,5 135 k, 0 k,4.75%,$25.00,3/15/2025,-,-
-WHF,WHFCL,Asset Management,Bond,Interest,Fixed,7.61%,-$0.25,572,1668,-,-,False,8 k,1 380 k,-,-,7.88%,$25.00,9/15/2025,9/15/2028,-
-WRB,WRB-E,Insurance - Property & Casualty,Bond,Interest,Fixed,5.71%,$0.02,Callable,12456,Baa2,BBB-,True,18 k,7 400 k, 714 k, 0 k,5.70%,$25.00,3/30/2023,3/30/2058,-
-WRB,WRB-F,Insurance - Property & Casualty,Bond,Interest,Fixed,5.58%,$1.87,313,13096,Baa2,BBB-,True,24 k,12 000 k,1 142 k, 0 k,5.10%,$25.00,12/30/2024,12/30/2059,-
-WRB,WRB-G,Insurance - Property & Casualty,Bond,Interest,Fixed,5.08%,$3.43,587,13371,Baa3,BBB-,True,5 k,10 000 k, 959 k, 0 k,4.25%,$25.00,9/30/2025,9/30/2060,-
-WRB,WRB-H,Insurance - Property & Casualty,Bond,Interest,Fixed,5.46%,$5.30,768,13552,Baa3,BBB-,True,11 k,12 000 k,1 146 k, 0 k,4.13%,$25.00,3/30/2026,3/30/2061,-
-WSBC,WSBCP,Bank - Regional,Pref,Non-cumul,Reset,7.07%,$1.14,633,-,-,-,False,7 k,6 000 k, 561 k, 0 k,6.75%,$25.00,11/15/2025,-,633
-WTFC,WTFCM,Bank - Regional,Pref,Non-cumul,Fix/Float,6.77%,$0.98,510,-,-,-,False,11 k,5 000 k, 465 k, 0 k,6.50%,$25.00,7/15/2025,-,510
-WTFC,WTFCP,Bank - Regional,Pref,Non-cumul,Reset,6.92%,$0.15,510,-,-,-,False,17 k,11 500 k,1 071 k, 0 k,6.88%,$25.00,7/15/2025,-,510
-WVVI,WVVIP,Wineries & Distilleries,Pref,Cumul,Fixed,5.33%,$0.02,Callable,-,-,-,False,2 k,9 304 k,-,-,5.30%,$4.15,6/1/2021,-,-
-XFLT,XFLT-A,CEF - Debt,Pref,Cumul,Fixed,7.37%,$0.42,Callable,769,-,-,False,4 k,1 596 k,-,-,6.50%,$25.00,3/31/2023,3/31/2026,-
-XOMA,XOMAO,Biotechnology,Pref,Cumul,Fixed,8.80%,$1.25,Callable,-,-,-,False,4 k,1 600 k,-,-,8.38%,$26.00,4/15/2022,-,-
+SSSS,SSSSL,Asset Management,Bond,Interest,Fixed,7.71%,$1.09,312,1042,-,-,False,1 k,3 000 k,-,-,6.00%,$25.00,12/30/2024,12/30/2026,-
+STT,STT-D,Asset Management,Pref,Non-cumul,Fix/Float,5.83%,-$0.28,22,-,Baa1,BBB,True,76 k,30 000 k,2 796 k, 0 k,5.90%,$25.00,3/15/2024,-,22
+STT,STT-G,Asset Management,Pref,Non-cumul,Fixed,5.58%,$1.04,752,-,Baa1,BBB,True,50 k,20 000 k,1 864 k, 0 k,5.35%,$25.00,3/15/2026,-,-
+SWKH,SWKHL,Asset Management,Bond,Interest,Fixed,8.72%,-$0.18,586,1074,-,-,False,5 k,1 319 k,-,-,9.00%,$25.00,9/30/2025,1/31/2027,-
+SYF,SYF-A,Credit Services,Pref,Non-cumul,Fixed,7.65%,$6.62,267,-,-,BB-,False,112 k,30 000 k,2 787 k, 0 k,5.63%,$25.00,11/15/2024,-,-
+T,T-A,Telecom Services,Pref,Cumul,Fixed,5.76%,$3.29,294,-,Ba1,BB+,False,70 k,48 000 k,4 469 k, 0 k,5.00%,$25.00,12/12/2024,-,-
+T,T-C,Telecom Services,Pref,Cumul,Fixed,5.79%,$4.50,362,-,Ba1,BB+,False,81 k,70 000 k,6 518 k, 0 k,4.75%,$25.00,2/18/2025,-,-
+T,TBB,Telecom Services,Bond,Interest,Fixed,5.79%,$1.74,Callable,15593,Ba1,BBB,True,60 k,52 900 k,4 925 k, 0 k,5.35%,$25.00,11/1/2022,11/1/2066,-
+T,TBC,Telecom Services,Bond,Interest,Fixed,5.78%,$0.60,Callable,15866,Baa2,BBB,True,73 k,33 000 k,3 073 k, 0 k,5.63%,$25.00,8/1/2023,8/1/2067,-
+TCBI,TCBIO,Bank - Regional,Pref,Non-cumul,Fixed,7.41%,$5.59,844,-,Ba2,BB-,False,35 k,12 000 k,1 117 k, 0 k,5.75%,$25.00,6/15/2026,-,-
+TDS,TDS-U,Telecom Services,Pref,Cumul,Fixed,9.09%,$6.78,768,-,Ba3,B,False,39 k,16 800 k,1 566 k, 0 k,6.63%,$25.00,3/31/2026,-,-
+TDS,TDS-V,Telecom Services,Pref,Cumul,Fixed,9.34%,$8.94,951,-,Ba3,B,False,81 k,27 600 k,2 572 k, 0 k,6.00%,$25.00,9/30/2026,-,-
+-,TECTP,Asset Management,Pref,Non-cumul,Fix/Float,8.88%,-$0.13,83,-,-,-,False,2 k,1 725 k,-,-,9.00%,$10.00,5/15/2024,-,83
+TELL,TELZ,Oil & Gas E&P,Bond,Interest,Fixed,21.99%,$10.75,Callable,1743,-,-,False,12 k,2 307 k,-,-,8.25%,$25.75,11/30/2023,11/30/2028,-
+TFC,TFC-I,Bank - Regional,Pref,Non-cumul,Floating,6.95%,$3.04,297,-,Baa2,BBB-,True,13 k,6 900 k, 643 k, 0 k,6.10%,$25.00,12/15/2024,-,297
+TFC,TFC-O,Bank - Regional,Pref,Non-cumul,Fixed,5.71%,$2.01,465,-,Baa2,BBB-,True,47 k,23 000 k,2 145 k, 0 k,5.25%,$25.00,6/1/2025,-,-
+TFC,TFC-R,Bank - Regional,Pref,Non-cumul,Fixed,5.66%,$4.03,557,-,Baa2,BBB-,True,72 k,37 000 k,3 445 k, 0 k,4.75%,$25.00,9/1/2025,-,-
+TFIN,TFINP,Bank - Regional,Pref,Non-cumul,Fixed,8.29%,$3.52,494,-,-,-,False,3 k,1 800 k,-,-,7.13%,$25.00,6/30/2025,-,-
+-,TFSA,CEF - Debt,Bond,Interest,Fixed,12.98%,$2.72,Callable,768,-,-,False,1 k,1 535 k,-,-,7.00%,$25.00,2/10/2023,3/31/2026,-
+TGH,TGH-A,Rental & Leasing,Pref,Cumul,Reset,6.96%,-$0.13,844,-,-,-,False,20 k,6 000 k, 562 k, 0 k,7.00%,$25.00,6/15/2026,-,844
+TGH,TGH-B,Rental & Leasing,Pref,Cumul,Fixed,6.30%,$0.18,1027,-,-,-,False,32 k,6 000 k, 562 k, 0 k,6.25%,$25.00,12/15/2026,-,-
+TNP,TNP-E,Oil & Gas Midstream,Pref,Cumul,Fix/Float,8.73%,-$1.49,1191,-,-,-,False,6 k,4 746 k,-,-,9.25%,$25.00,5/28/2027,-,1191
+TNP,TNP-F,Oil & Gas Midstream,Pref,Cumul,Fix/Float,9.12%,-$1.04,1620,-,-,-,False,13 k,6 747 k,-,-,9.50%,$25.00,7/30/2028,-,1620
+-,TPTA,REIT - Mortgage,Bond,Interest,Fixed,24.50%,$8.10,Callable,859,-,-,False,2 k,3 405 k,-,-,6.00%,$25.00,6/30/2023,6/30/2026,-
+TRIN,TRINL,Asset Management,Bond,Interest,Fixed,5.35%,-$0.36,Callable,329,-,-,False,9 k,7 300 k, 680 k, 0 k,7.00%,$25.00,1/16/2023,1/16/2025,-
+TRTN,TRTN-A,Rental & Leasing,Pref,Cumul,Fixed,8.26%,-$0.72,22,-,-,BB,False,5 k,3 450 k,-,-,8.50%,$25.00,3/15/2024,-,-
+TRTN,TRTN-B,Rental & Leasing,Pref,Cumul,Fixed,7.89%,-$0.35,206,-,-,BB,False,5 k,5 750 k,-,-,8.00%,$25.00,9/15/2024,-,-
+TRTN,TRTN-C,Rental & Leasing,Pref,Cumul,Fixed,7.33%,-$0.16,297,-,-,BB,False,11 k,7 000 k,-,-,7.38%,$25.00,12/15/2024,-,-
+TRTN,TRTN-D,Rental & Leasing,Pref,Cumul,Fixed,7.08%,$0.73,387,-,-,BB,False,6 k,6 000 k,-,-,6.88%,$25.00,3/15/2025,-,-
+TRTN,TRTN-E,Rental & Leasing,Pref,Cumul,Fixed,6.72%,$3.60,936,-,-,BB,False,9 k,7 000 k,-,-,5.75%,$25.00,9/15/2026,-,-
+TRTX,TRTX-C,REIT - Mortgage,Pref,Cumul,Fixed,9.59%,$8.70,843,-,-,-,False,15 k,8 050 k, 760 k, 0 k,6.25%,$25.00,6/14/2026,-,-
+-,TVC,Utilities - Regulated Electric,Bond,Interest,Reset,Special,-,-,1561,Aaa,AA+,True,11 k,10 259 k, 960 k, 0 k,Special,-,-,6/1/2028,-
+-,TVE,Utilities - Regulated Electric,Bond,Interest,Reset,Special,-,-,1895,Aaa,AA+,True,14 k,8 334 k, 777 k, 0 k,Special,-,-,5/1/2029,-
+TWO,TWO-A,REIT - Mortgage,Pref,Cumul,Fix/Float,8.79%,$1.90,1160,-,-,-,False,9 k,5 085 k, 476 k, 0 k,8.13%,$25.00,4/27/2027,-,1160
+TWO,TWO-B,REIT - Mortgage,Pref,Cumul,Fix/Float,8.51%,$2.61,1251,-,-,-,False,11 k,10 439 k, 978 k, 0 k,7.63%,$25.00,7/27/2027,-,1251
+TWO,TWO-C,REIT - Mortgage,Pref,Cumul,Fix/Float,7.90%,$2.05,340,-,-,-,False,23 k,9 832 k, 931 k, 0 k,7.25%,$25.00,1/27/2025,-,340
+TY,TY-,CEF - Equity,Pref,Cumul,Fixed,6.09%,$9.85,Callable,-,-,-,False,1 k, 713 k,-,-,5.00%,$55.00,-,-,-
+UCBI,UCBIO,Bank - Regional,Pref,Non-cumul,Fixed,7.16%,$1.00,571,-,-,-,False,11 k,3 662 k,-,-,6.88%,$25.00,9/15/2025,-,-
+UMH,UMH-D,REIT - Residential,Pref,Cumul,Fixed,7.08%,$2.50,Callable,-,-,-,False,16 k,10 601 k, 985 k, 0 k,6.38%,$25.00,1/22/2023,-,-
+UNM,UNMA,Insurance - Life,Bond,Interest,Fixed,#N/A,-,Callable,12532,Ba1,BB+,False,-,-,1 141 k, 0 k,6.25%,$25.00,6/15/2023,6/15/2058,-
+USB,USB-H,Bank - Regional,Pref,Non-cumul,Floating,7.31%,$3.90,Callable,-,Baa2,BBB,True,75 k,40 000 k,3 728 k, 0 k,6.17%,$25.00,4/15/2011,-,Floating
+USB,USB-P,Bank - Regional,Pref,Non-cumul,Fixed,5.69%,$0.83,Callable,-,Baa1,BBB+,True,67 k,23 000 k,2 144 k, 0 k,5.50%,$25.00,10/15/2023,-,-
+USB,USB-Q,Bank - Regional,Pref,Non-cumul,Fixed,5.50%,$7.97,693,-,Baa2,BBB,True,27 k,20 000 k,1 862 k, 0 k,3.75%,$25.00,1/15/2026,-,-
+USB,USB-R,Bank - Regional,Pref,Non-cumul,Fixed,5.57%,$7.05,783,-,Baa2,BBB,True,62 k,30 000 k,2 793 k, 0 k,4.00%,$25.00,4/15/2026,-,-
+USB,USB-S,Bank - Regional,Pref,Non-cumul,Fixed,5.58%,$4.84,1148,-,Baa2,BBB,True,42 k,18 000 k,1 675 k, 0 k,4.50%,$25.00,4/15/2027,-,-
+USM,UZD,Telecom Services,Bond,Interest,Fixed,8.07%,$5.48,557,16628,Ba2,BB,False,36 k,20 000 k,1 864 k, 0 k,6.25%,$25.00,9/1/2025,9/1/2069,-
+USM,UZE,Telecom Services,Bond,Interest,Fixed,7.93%,$7.46,738,16809,Ba2,BB,False,31 k,20 000 k,1 864 k, 0 k,5.50%,$25.00,3/1/2026,3/1/2070,-
+USM,UZF,Telecom Services,Bond,Interest,Fixed,8.04%,$7.70,830,16901,Ba2,BB,False,30 k,20 000 k,1 864 k, 0 k,5.50%,$25.00,6/1/2026,6/1/2070,-
+VIA,VIASP,Utilities - Regulated Electric,Pref,Cumul,Fix/Float,16.03%,$6.05,Callable,-,-,-,False,12 k,3 568 k,-,-,12.15%,$25.00,4/15/2022,-,Floating
+VLY,VLYPO,Bank - Regional,Pref,Non-cumul,Fix/Float,9.98%,$2.08,Callable,-,WR,BB,False,40 k,4 000 k, 373 k, 0 k,9.15%,$25.00,6/30/2022,-,Floating
+VLY,VLYPP,Bank - Regional,Pref,Non-cumul,Fix/Float,7.81%,$5.00,494,-,WR,BB,False,40 k,4 600 k, 428 k, 0 k,6.25%,$25.00,6/30/2025,-,494
+VNO,VNO-L,REIT - Office,Pref,Cumul,Fixed,8.44%,$9.00,Callable,-,Ba1,BB,False,26 k,12 000 k,1 118 k, 0 k,5.40%,$25.00,1/25/2018,-,-
+VNO,VNO-M,REIT - Office,Pref,Cumul,Fixed,8.37%,$9.31,Callable,-,Ba1,BB,False,22 k,12 780 k,1 191 k, 0 k,5.25%,$25.00,12/13/2022,-,-
+VNO,VNO-N,REIT - Office,Pref,Cumul,Fixed,8.41%,$9.40,641,-,Ba1,BB,False,19 k,12 000 k,1 118 k, 0 k,5.25%,$25.00,11/24/2025,-,-
+VNO,VNO-O,REIT - Office,Pref,Cumul,Fixed,8.22%,$11.47,943,-,Ba1,BB,False,16 k,12 000 k,1 118 k, 0 k,4.45%,$25.00,9/22/2026,-,-
+VOYA,VOYA-B,Financial Conglomerate,Pref,Non-cumul,Reset,5.59%,$1.06,2032,-,Ba2,BBB-,True,21 k,12 000 k,1 116 k, 0 k,5.35%,$25.00,9/15/2029,-,2032
+WAFD,WAFDP,Bank - Regional,Pref,Non-cumul,Fixed,8.01%,$9.79,783,-,Ba1,-,False,59 k,12 000 k,1 105 k, 0 k,4.88%,$25.00,4/15/2026,-,-
+WAL,WAL-A,Bank - Regional,Pref,Non-cumul,Reset,6.10%,$7.57,951,-,Baa3,-,True,36 k,12 000 k,1 117 k, 0 k,4.25%,$25.00,9/30/2026,-,951
+WBS,WBS-F,Bank - Regional,Pref,Non-cumul,Fixed,6.62%,$5.16,Callable,-,Baa3,BB,True,10 k,6 000 k, 559 k, 0 k,5.25%,$25.00,12/15/2022,-,-
+WBS,WBS-G,Bank - Regional,Pref,Non-cumul,Fixed,7.21%,$2.45,Callable,-,-,-,False,9 k,5 400 k,-,-,6.50%,$25.00,10/15/2022,-,-
+WCC,WCC-A,Industrial Distribution,Pref,Cumul,Reset,9.85%,-$1.98,486,-,-,-,False,33 k,21 537 k,2 007 k, 0 k,10.63%,$25.00,6/22/2025,-,486
+WFC,WFC-A,Bank - Diversified,Pref,Non-cumul,Fixed,5.68%,$4.31,662,-,Baa2,BB+,True,79 k,46 800 k,2 936 k, 0 k,4.70%,$25.00,12/15/2025,-,-
+WFC,WFC-C,Bank - Diversified,Pref,Non-cumul,Fixed,5.65%,$5.64,752,-,Baa2,BB+,True,66 k,42 000 k,2 633 k, 0 k,4.38%,$25.00,3/15/2026,-,-
+WFC,WFC-D,Bank - Diversified,Pref,Non-cumul,Fixed,5.64%,$6.15,879,-,Baa2,BB+,True,80 k,50 000 k,3 134 k, 0 k,4.25%,$25.00,7/20/2026,-,-
+WFC,WFC-R,Bank - Diversified,Pref,Non-cumul,Fix/Float,6.54%,-$0.32,22,-,Baa2,BB+,True,89 k,33 600 k,2 108 k, 0 k,6.63%,$25.00,3/15/2024,-,22
+WFC,WFC-Y,Bank - Diversified,Pref,Non-cumul,Fixed,5.76%,$0.57,Callable,-,Baa2,BB+,True,52 k,27 600 k,1 673 k, 0 k,5.63%,$25.00,6/15/2022,-,-
+WFC,WFC-Z,Bank - Diversified,Pref,Non-cumul,Fixed,5.67%,$4.05,387,-,Baa2,BB+,True,134 k,80 500 k,5 135 k, 0 k,4.75%,$25.00,3/15/2025,-,-
+WHF,WHFCL,Asset Management,Bond,Interest,Fixed,7.62%,-$0.24,571,1667,-,-,False,8 k,1 380 k,-,-,7.88%,$25.00,9/15/2025,9/15/2028,-
+WRB,WRB-E,Insurance - Property & Casualty,Bond,Interest,Fixed,5.73%,$0.10,Callable,12455,Baa2,BBB-,True,17 k,7 400 k, 714 k, 0 k,5.70%,$25.00,3/30/2023,3/30/2058,-
+WRB,WRB-F,Insurance - Property & Casualty,Bond,Interest,Fixed,5.55%,$1.75,312,13095,Baa2,BBB-,True,24 k,12 000 k,1 142 k, 0 k,5.10%,$25.00,12/30/2024,12/30/2059,-
+WRB,WRB-G,Insurance - Property & Casualty,Bond,Interest,Fixed,5.03%,$3.26,586,13370,Baa3,BBB-,True,5 k,10 000 k, 959 k, 0 k,4.25%,$25.00,9/30/2025,9/30/2060,-
+WRB,WRB-H,Insurance - Property & Casualty,Bond,Interest,Fixed,5.43%,$5.19,767,13551,Baa3,BBB-,True,10 k,12 000 k,1 146 k, 0 k,4.13%,$25.00,3/30/2026,3/30/2061,-
+WSBC,WSBCP,Bank - Regional,Pref,Non-cumul,Reset,7.06%,$1.10,632,-,-,-,False,7 k,6 000 k, 561 k, 0 k,6.75%,$25.00,11/15/2025,-,632
+WTFC,WTFCM,Bank - Regional,Pref,Non-cumul,Fix/Float,6.91%,$1.50,509,-,-,-,False,10 k,5 000 k, 465 k, 0 k,6.50%,$25.00,7/15/2025,-,509
+WTFC,WTFCP,Bank - Regional,Pref,Non-cumul,Reset,6.93%,$0.19,509,-,-,-,False,16 k,11 500 k,1 071 k, 0 k,6.88%,$25.00,7/15/2025,-,509
+WVVI,WVVIP,Wineries & Distilleries,Pref,Cumul,Fixed,5.30%,$0.00,Callable,-,-,-,False,2 k,9 304 k,-,-,5.30%,$4.15,6/1/2021,-,-
+XFLT,XFLT-A,CEF - Debt,Pref,Cumul,Fixed,7.35%,$0.41,Callable,768,-,-,False,4 k,1 596 k,-,-,6.50%,$25.00,3/31/2023,3/31/2026,-
+XOMA,XOMAO,Biotechnology,Pref,Cumul,Fixed,8.84%,$1.37,Callable,-,-,-,False,4 k,1 600 k,-,-,8.38%,$26.00,4/15/2022,-,-
 XOMA,XOMAP,Biotechnology,Pref,Cumul,Fixed,8.83%,$0.59,Callable,-,-,-,False,1 k, 984 k,-,-,8.63%,$25.50,12/15/2022,-,-
-ZION,ZIONL,Bank - Regional,Bond,Interest,Fix/Float,8.84%,-$0.58,Callable,1668,-,BBB,True,8 k,3 516 k,-,-,9.46%,$25.00,9/15/2023,9/15/2028,Floating
-ZION,ZIONO,Bank - Regional,Bond,Interest,Fix/Float,9.67%,-$0.52,Callable,-,-,BB+,False,39 k,5 536 k, 516 k, 0 k,9.87%,$25.00,3/15/2023,-,Floating
-ZION,ZIONP,Bank - Regional,Pref,Non-cumul,Floating,7.44%,$4.33,Callable,-,Baa3,BB+,True,8 k,2 646 k,-,-,6.15%,$25.00,12/15/2011,-,Floating
+ZION,ZIONL,Bank - Regional,Bond,Interest,Fix/Float,8.81%,-$0.61,Callable,1667,-,BBB,True,8 k,3 516 k,-,-,9.46%,$25.00,9/15/2023,9/15/2028,Floating
+ZION,ZIONO,Bank - Regional,Bond,Interest,Fix/Float,9.58%,-$0.75,Callable,-,-,BB+,False,38 k,5 536 k, 516 k, 0 k,9.87%,$25.00,3/15/2023,-,Floating
+ZION,ZIONP,Bank - Regional,Pref,Non-cumul,Floating,7.43%,$4.31,Callable,-,Baa3,BB+,True,8 k,2 646 k,-,-,6.15%,$25.00,12/15/2011,-,Floating
